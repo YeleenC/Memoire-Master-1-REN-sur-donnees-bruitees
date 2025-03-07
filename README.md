@@ -10,4 +10,4 @@ Les notebooks sont commentés et construits de manière à avoir toutes les inst
 Formatage de nos annotations manuelles au même format que les données testées dans la section 1.
 2 sous dossier:
 1. Annotations Manuelles: contient les annotations réalisées par différents annotateurs sur 2 textes différents, avec chacun une version de référence et 2 versions d'OCR (données bruitées).
-2. Adjudication: fichiers CSV avec les annotations de chaque annotateur regroupées + Calcul du vote majoriatire (code Vote-majoritaire.ipynb).
+2. Adjudication: fichiers CSV avec les annotations de chaque annotateur regroupées + Calcul du vote majoriatire (même nom avce suffixe _consolidé, code Vote-majoritaire.ipynb).
