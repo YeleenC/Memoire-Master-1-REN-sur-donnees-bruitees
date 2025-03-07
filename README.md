@@ -5,6 +5,7 @@ Ce mémoire est encadré par 3 enseignents au sein de Sorbonne Université: Gaë
 ## Section 1: Test d'un tuto pour réaliser un entraînement de modèle (ici sur des données médicales)
 Le test a été réalisé avec tok2vec et transformer. Le but est de tester un tuto afin d'avoir les étapes nécessaires à un entraînement de modèle sur données (format d'entrée .json puis .spacy). Le test ayant été réussi, nous pouvons étudier le format d'entrée des données du tuto afin d'adapter nos données manuelles.
 Les notebooks sont commentés et construits de manière à avoir toutes les installations/importations nécessaires dans chacun des tests.
+Concernant les création de modèles dans le test de transformers les modèles crées sont trop lourd pour être chargés sur Github, vous les trouverez donc aux liens suivant: pour model best https://drive.google.com/drive/folders/1tA9CtVDriOOF3KtK2EhIAm28aMkNe0SN?usp=share_link et pour model last https://drive.google.com/drive/folders/1WPv67VM_0xP7hd7FIoFg6pDGhiG7D7Ft?usp=share_link
 
 ## Section 2: Formatage des données 
 Formatage de nos annotations manuelles au même format que les données testées dans la section 1.
