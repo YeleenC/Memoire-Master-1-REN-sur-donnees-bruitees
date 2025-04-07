@@ -1,0 +1,76 @@
+{
+  "lang":"fr",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.8.5,<3.9.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"d0c705c",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "LOC, LOC.ADM.REG",
+      "LOC, LOC.ADM.TOWN",
+      "LOC, LOC.FAC",
+      "MISC",
+      "PER"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.9920844327,
+    "ents_p":0.9842931937,
+    "ents_r":1.0,
+    "ents_per_type":{
+      "PER":{
+        "p":0.9928057554,
+        "r":1.0,
+        "f":0.9963898917
+      },
+      "LOC, LOC.ADM.REG":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "MISC":{
+        "p":0.9545454545,
+        "r":1.0,
+        "f":0.976744186
+      },
+      "LOC, LOC.ADM.TOWN":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "LOC, LOC.FAC":{
+        "p":0.9,
+        "r":1.0,
+        "f":0.9473684211
+      }
+    },
+    "tok2vec_loss":104.2355203139,
+    "ner_loss":167.3002319336
+  }
+}

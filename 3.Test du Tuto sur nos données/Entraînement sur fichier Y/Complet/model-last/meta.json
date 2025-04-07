@@ -1,0 +1,112 @@
+{
+  "lang":"fr",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.8.5,<3.9.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"d0c705c",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "LOC",
+      "LOC, LOC.ADM",
+      "LOC, LOC.ADM.REG",
+      "LOC, LOC.ADM.TOWN",
+      "LOC, LOC.FAC",
+      "LOC, LOC.ORO",
+      "LOC, LOC.PHYS.HYDRO",
+      "MISC",
+      "ORG",
+      "PER",
+      "T"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.9871921182,
+    "ents_p":0.9881656805,
+    "ents_r":0.9862204724,
+    "ents_per_type":{
+      "PER":{
+        "p":0.9971014493,
+        "r":0.9971014493,
+        "f":0.9971014493
+      },
+      "LOC, LOC.ADM.REG":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "MISC":{
+        "p":0.9550561798,
+        "r":0.9444444444,
+        "f":0.9497206704
+      },
+      "LOC, LOC.ADM.TOWN":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "LOC":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "ORG":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "LOC, LOC.ADM":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "LOC, LOC.FAC":{
+        "p":1.0,
+        "r":0.9285714286,
+        "f":0.962962963
+      },
+      "LOC, LOC.PHYS.HYDRO":{
+        "p":0.8888888889,
+        "r":1.0,
+        "f":0.9411764706
+      },
+      "LOC, LOC.ORO":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "T":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      }
+    },
+    "tok2vec_loss":8471.1395536478,
+    "ner_loss":641.2852783203
+  }
+}

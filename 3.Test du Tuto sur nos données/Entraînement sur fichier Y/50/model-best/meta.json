@@ -1,0 +1,88 @@
+{
+  "lang":"fr",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.8.5,<3.9.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"d0c705c",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "LOC, LOC.ADM.REG",
+      "LOC, LOC.ADM.TOWN",
+      "LOC, LOC.FAC",
+      "LOC, LOC.PHYS.HYDRO",
+      "MISC",
+      "PER",
+      "T"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.9912434326,
+    "ents_p":0.9895104895,
+    "ents_r":0.9929824561,
+    "ents_per_type":{
+      "PER":{
+        "p":0.9955752212,
+        "r":0.9955752212,
+        "f":0.9955752212
+      },
+      "LOC, LOC.ADM.REG":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "MISC":{
+        "p":0.96,
+        "r":0.96,
+        "f":0.96
+      },
+      "LOC, LOC.ADM.TOWN":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "LOC, LOC.FAC":{
+        "p":0.9,
+        "r":1.0,
+        "f":0.9473684211
+      },
+      "LOC, LOC.PHYS.HYDRO":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "T":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      }
+    },
+    "tok2vec_loss":298.1118286986,
+    "ner_loss":239.9483032227
+  }
+}
