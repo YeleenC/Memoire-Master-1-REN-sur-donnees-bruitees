@@ -8,9 +8,10 @@ Les notebooks sont commentés et construits de manière à avoir toutes les inst
 Concernant les création de modèles dans le test de transformers les modèles crées sont trop lourd pour être chargés sur Github, vous les trouverez donc aux liens suivant: pour model best https://drive.google.com/drive/folders/1tA9CtVDriOOF3KtK2EhIAm28aMkNe0SN?usp=share_link et pour model last https://drive.google.com/drive/folders/1WPv67VM_0xP7hd7FIoFg6pDGhiG7D7Ft?usp=share_link
 
 ## Section 2: Formatage des données pour l'entraînement du modèle
+
 Formatage de nos annotations manuelles au même format que les données testées dans la section 1.
 5 sous dossier:
-1. Annotations Manuelles: contient les annotations réalisées par différents annotateurs sur 2 textes différents, avec chacun une version de référence et 2 versions d'OCR (données bruitées).
+1. Annotations Manuelles: contient les annotations réalisées par différents annotateurs sur 2 textes différents, avec chacun une version de référence et 2 versions d'OCR (données bruitées). Ces données viennent du lien suivant: https://github.com/These-SCAI2023/ELteC_GOLD/tree/main/ANNOTATION_TRANSFORMED_AIA
 2. Adjudication: fichiers CSV avec les annotations de chaque annotateur regroupées ainsi que les fichiers "consolide" avec le bon format pour ensuite faire le formatage nécessaire. 
 3. JSON Spacy entrainement initial: il s'agit des fichiers au format "initial" spacy et json qui vont permettre ensuite l'entraînement de modèle.
 4. JSON Spacy entrainement enrichi: il s'agit des fichiers au format "enrichi" spacy et json qui vont permettre ensuite l'entraînement de modèle.
