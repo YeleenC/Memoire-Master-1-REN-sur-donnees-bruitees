@@ -21,7 +21,15 @@ Formatage de nos annotations manuelles au même format que les données testées
 2. Formatage initial auto: ce code formate les données au format d'entrée du tuto en créant automatiquement différents fichiers pour entraîner différents modèles.
 3. Formatage enrichi auto: ce code formate les données au format d'entrée du tuto mais de manière plus complète dans les métadonnées pour le fichier JSON en créant automatiquement différents fichiers pour entraîner différents modèles.
 4. Formatage quaero fusionne auto: ce code formate les données au format d'entrée du tuto mais de manière plus complète dans les métadonnées pour le fichier JSON et en ajoutant également les annotations Quaero, en créant automatiquement différents fichiers pour entraîner différents modèles.
-5. JSON into Spacu auto initial: ce code encrypte
+5. JSON into Spacy auto initial: ce code encrypte au format spacy attendu les fichiers JSON initial.
+6. JSON into Spacy auto enrichi: ce code encrypte au format spacy attendu les fichiers JSON enrichi.
+7. JSON into Spacy auto quaero fusionne: ce code encrypte au format spacy attendu les fichiers JSON quaero fusionne.
+
 ## Section 3: Entraînement des modèles à partir des données
+Dans cette partie, vous trouverez tous les modèles entraînés répartis dans trois dossiers différents en fonction des fichiers JSON qui ont permis l'entraînement de ces modèles, dans chaque dossiers vous trouverez également le code d'entraînement des modèles contenus dans ce dossier. 
+
 ## Section 4: REN sur DARIEN
+Dans cette partie vous trouverez le code de REN sur les fichiers test sélectionnés "DARIEN" avec les 3 versions d'OCR, qui sont également dans cette partie dans le dossier prévu à cet effet. Vous trouverez également les résultats de la REN sur tous nos différents modèles ainsi que sur d'autres modèles de REN: Camembert, Flair et Spacy. 
+
 ## Section 5: Analyses et Graphiques des résultats sur DARIEN
+Dans cette parties vous trouverez différents dossier, un dossier qui regroupe les codes qui permettent de créer les graphiques ainsi que des dossiers contenant chacun différents graphiques regroupés par types de graphiques. 
