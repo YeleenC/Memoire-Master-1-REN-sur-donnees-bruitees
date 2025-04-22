@@ -9,10 +9,19 @@ Concernant les création de modèles dans le test de transformers les modèles c
 
 ## Section 2: Formatage des données pour l'entraînement du modèle
 Formatage de nos annotations manuelles au même format que les données testées dans la section 1.
-2 sous dossier:
+5 sous dossier:
 1. Annotations Manuelles: contient les annotations réalisées par différents annotateurs sur 2 textes différents, avec chacun une version de référence et 2 versions d'OCR (données bruitées).
-2. Adjudication: fichiers CSV avec les annotations de chaque annotateur regroupées + Calcul du vote majoriatire (même nom avec suffixe _consolidé, code Vote-majoritaire.ipynb).
+2. Adjudication: fichiers CSV avec les annotations de chaque annotateur regroupées ainsi que les fichiers "consolide" avec le bon format pour ensuite faire le formatage nécessaire. 
+3. JSON Spacy entrainement initial: il s'agit des fichiers au format "initial" spacy et json qui vont permettre ensuite l'entraînement de modèle.
+4. JSON Spacy entrainement enrichi: il s'agit des fichiers au format "enrichi" spacy et json qui vont permettre ensuite l'entraînement de modèle.
+5. JSON Spacy entrainement quaero fusionne: il s'agit des fichiers au format "quaero fusionne" spacy et json qui vont permettre ensuite l'entraînement de modèle.
 
+7 codes .ipynb: 
+1. Vote Majoritaire: ce code met les fichiers dans le dossier adjudication au bon format pour ensuite faire le formatage.
+2. Formatage initial auto: ce code formate les données au format d'entrée du tuto en créant automatiquement différents fichiers pour entraîner différents modèles.
+3. Formatage enrichi auto: ce code formate les données au format d'entrée du tuto mais de manière plus complète dans les métadonnées pour le fichier JSON en créant automatiquement différents fichiers pour entraîner différents modèles.
+4. Formatage quaero fusionne auto: ce code formate les données au format d'entrée du tuto mais de manière plus complète dans les métadonnées pour le fichier JSON et en ajoutant également les annotations Quaero, en créant automatiquement différents fichiers pour entraîner différents modèles.
+5. JSON into Spacu auto initial: ce code encrypte
 ## Section 3: Entraînement des modèles à partir des données
 ## Section 4: REN sur DARIEN
 ## Section 5: Analyses et Graphiques des résultats sur DARIEN
