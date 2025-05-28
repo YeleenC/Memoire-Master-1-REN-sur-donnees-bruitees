@@ -1,0 +1,13 @@
+modele,ocr,nb_matches,similarite_moyenne_trigramme
+initial,REF,391,0.9538
+initial,TESSERACT,364,0.9437
+initial,KRAKEN,340,0.9565
+enrichi,REF,1287,0.9475
+enrichi,TESSERACT,1339,0.9511
+enrichi,KRAKEN,2136,0.9552
+quaero_fusioné,REF,1059,0.9515
+quaero_fusioné,TESSERACT,1161,0.9494
+quaero_fusioné,KRAKEN,1891,0.9546
+enrichi_80-20,REF,1095,0.9501
+enrichi_80-20,TESSERACT,1080,0.9467
+enrichi_80-20,KRAKEN,1709,0.9543

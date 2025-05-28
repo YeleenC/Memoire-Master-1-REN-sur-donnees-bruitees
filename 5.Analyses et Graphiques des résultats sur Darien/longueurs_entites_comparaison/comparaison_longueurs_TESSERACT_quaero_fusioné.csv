@@ -1,0 +1,1170 @@
+OCR,Modèle,Texte_spacy,Longueur_spacy,Texte_modele,Longueur_modele,Différence
+TESSERACT,quaero_fusioné,Gallica,7,Gallica,7,0
+TESSERACT,quaero_fusioné,Gallica,7,Gallica,7,0
+TESSERACT,quaero_fusioné,Noïvège,7,Noïvège,7,0
+TESSERACT,quaero_fusioné,Norvège,7,Norvège,7,0
+TESSERACT,quaero_fusioné,Biribi,6,Biribi,6,0
+TESSERACT,quaero_fusioné,Malhonnête,10,Malhonnête,10,0
+TESSERACT,quaero_fusioné,Les Voleurs,11,Voleurs,7,-4
+TESSERACT,quaero_fusioné,Républicain,11,Républicain,11,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Madaine,7,Madaine,7,0
+TESSERACT,quaero_fusioné,Tiens,5,Tiens,5,0
+TESSERACT,quaero_fusioné,Dinan,5,Dinan,5,0
+TESSERACT,quaero_fusioné,Ostende,7,Ostende,7,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,Mystère,7,Mystère,7,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Casse-,6,Casse-,6,0
+TESSERACT,quaero_fusioné,M.,2,M.,2,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Messieurs,9,Messieurs,9,0
+TESSERACT,quaero_fusioné,Voleur,6,Voleur,6,0
+TESSERACT,quaero_fusioné,Voleur,6,Voleur,6,0
+TESSERACT,quaero_fusioné,le Voleur,9,Voleur,6,-3
+TESSERACT,quaero_fusioné,Mme Dubourg,11,Dubourg,7,-4
+TESSERACT,quaero_fusioné,Augustine,9,Augustine,9,0
+TESSERACT,quaero_fusioné,"Réfléchissez-y.
+
+",17,Réfléchissez,12,-5
+TESSERACT,quaero_fusioné,Cher,4,Cher,4,0
+TESSERACT,quaero_fusioné,Jene,4,Jene,4,0
+TESSERACT,quaero_fusioné,Reims,5,Reims,5,0
+TESSERACT,quaero_fusioné,Phanor,6,Phanor,6,0
+TESSERACT,quaero_fusioné,Jésuites,8,Jésuites,8,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Gambetta,8,Gambetta,8,0
+TESSERACT,quaero_fusioné,Louis-Philippe,14,Louis-Philippe,14,0
+TESSERACT,quaero_fusioné,Jine,4,Jine,4,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Georges,7,Georges,7,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Dubourg,10,Dubourg,7,-3
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Morgues,7,Morgues,7,0
+TESSERACT,quaero_fusioné,DE Late,7,Late,4,-3
+TESSERACT,quaero_fusioné,Cicéron,7,Cicéron,7,0
+TESSERACT,quaero_fusioné,Catilina,8,Catilina,8,0
+TESSERACT,quaero_fusioné,César,5,César,5,0
+TESSERACT,quaero_fusioné,Barbares,8,Barbares,8,0
+TESSERACT,quaero_fusioné,Empires,7,Empires,7,0
+TESSERACT,quaero_fusioné,Raphaël,7,Raphaël,7,0
+TESSERACT,quaero_fusioné,Vatican,7,Vatican,7,0
+TESSERACT,quaero_fusioné,Michel-Ange,11,Michel,6,-5
+TESSERACT,quaero_fusioné,Malherbe,8,Malherbe,8,0
+TESSERACT,quaero_fusioné,Bossuet,7,Bossuet,7,0
+TESSERACT,quaero_fusioné,Emerson,7,Emerson,7,0
+TESSERACT,quaero_fusioné,Messieurs,9,Messieurs,9,0
+TESSERACT,quaero_fusioné,"Tara
+",5,Tara,4,-1
+TESSERACT,quaero_fusioné,Bonaparte,9,Bonaparte,9,0
+TESSERACT,quaero_fusioné,M. Issacar,10,Issacar,7,-3
+TESSERACT,quaero_fusioné,Israélite,9,Israélite,9,0
+TESSERACT,quaero_fusioné,M. Issacar,10,Issacar,7,-3
+TESSERACT,quaero_fusioné,"Israé-
+
+hte",11,Israé-,6,-5
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Érerÿ,5,Érerÿ,5,0
+TESSERACT,quaero_fusioné,Isaïe,5,Isaïe,5,0
+TESSERACT,quaero_fusioné,Riche !,7,Riche,5,-2
+TESSERACT,quaero_fusioné,Parbleu !,9,Parbleu,7,-2
+TESSERACT,quaero_fusioné,Obligatoire !,13,Obligatoire,11,-2
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,la Propriété,12,Propriété,9,-3
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,JAvarice,8,JAvarice,8,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Menteur!,8,Menteur,7,-1
+TESSERACT,quaero_fusioné,Georges,7,Georges,7,0
+TESSERACT,quaero_fusioné,Bourse,6,Bourse,6,0
+TESSERACT,quaero_fusioné,Respect,7,Respect,7,0
+TESSERACT,quaero_fusioné,Respect,7,Respect,7,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Ja,2,Ja,2,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Banque,6,Banque,6,0
+TESSERACT,quaero_fusioné,Mme Montareuil,14,Montareuil,10,-4
+TESSERACT,quaero_fusioné,Georges,7,Georges,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Marguerite,10,Marguerite,10,0
+TESSERACT,quaero_fusioné,Jhibet,6,Jhibet,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Commeauthéâtre,14,Commeauthéâtre,14,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Belgique,8,Belgique,8,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Montareuil,10,Montareuil,10,0
+TESSERACT,quaero_fusioné,Digestion,9,Digestion,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Edouard,7,Edouard,7,0
+TESSERACT,quaero_fusioné,Me Montareuil,13,Montareuil,10,-3
+TESSERACT,quaero_fusioné,Montmartre,10,Montmartre,10,0
+TESSERACT,quaero_fusioné,la Seine,8,Seine,5,-3
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Edouard,7,Edouard,7,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,RS RRER,7,RRER,4,-3
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Nil',4,Nil',4,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Enfant!,7,Enfant,6,-1
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Jagisse,7,Jagisse,7,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Mi,2,Mi,2,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Mère,4,Mère,4,0
+TESSERACT,quaero_fusioné,Issaçar,7,Issaçar,7,0
+TESSERACT,quaero_fusioné,Golgotha,8,Golgotha,8,0
+TESSERACT,quaero_fusioné,Jésus,5,Jésus,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,l’Individu,10,Individu,8,-2
+TESSERACT,quaero_fusioné,Numance,7,Numance,7,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Europe,6,Europe,6,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Jérémie,7,Jérémie,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Belges,6,Belges,6,0
+TESSERACT,quaero_fusioné,Suisse,6,Suisse,6,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Bourse,6,Bourse,6,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Espagnol,8,Espagnol,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Issacar,10,Issacar,7,-3
+TESSERACT,quaero_fusioné,M. Issacar,10,Issacar,7,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+TESSERACT,quaero_fusioné,Caucase,7,Caucase,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Monsieur!,9,Monsieur,8,-1
+TESSERACT,quaero_fusioné,Eh !,4,Eh,2,-2
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Banques,7,Banques,7,0
+TESSERACT,quaero_fusioné,Banques,7,Banques,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Lens,4,Lens,4,0
+TESSERACT,quaero_fusioné,Volontiers,10,Volontiers,10,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Tiens,5,Tiens,5,0
+TESSERACT,quaero_fusioné,Belgique,8,Belgique,8,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,l’Individu,10,Individu,8,-2
+TESSERACT,quaero_fusioné,Nature,6,Nature,6,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,au Louvre,9,Louvre,6,-3
+TESSERACT,quaero_fusioné,Vierge,6,Vierge,6,0
+TESSERACT,quaero_fusioné,ta Vierge,9,Vierge,6,-3
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Broussaille,11,Broussaille,11,0
+TESSERACT,quaero_fusioné,Retirons,8,Retirons,8,0
+TESSERACT,quaero_fusioné,Poissy,6,Poissy,6,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Tiens,5,Tiens,5,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Mercure,7,Mercure,7,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,M. Delpich,10,Delpich,7,-3
+TESSERACT,quaero_fusioné,Voyons,6,Voyons,6,0
+TESSERACT,quaero_fusioné,Fichet,6,Fichet,6,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Bourges,7,Bourges,7,0
+TESSERACT,quaero_fusioné,Châteauroux,11,Châteauroux,11,0
+TESSERACT,quaero_fusioné,Etila,5,Etila,5,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,VOLEUR,6,VOLEUR,6,0
+TESSERACT,quaero_fusioné,Bourse,6,Bourse,6,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Bourse,6,Bourse,6,0
+TESSERACT,quaero_fusioné,Pater-,6,Pater-,6,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Belgique,8,Belgique,8,0
+TESSERACT,quaero_fusioné,Belge,5,Belge,5,0
+TESSERACT,quaero_fusioné,Français,8,Français,8,0
+TESSERACT,quaero_fusioné,Villes,6,Villes,6,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Ottomane,8,Ottomane,8,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,le Japon,8,Japon,5,-3
+TESSERACT,quaero_fusioné,la Chine,8,Chine,5,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Jaunes,6,Jaunes,6,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Asie Mineure,12,Mineure,7,-5
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Mars ue 2,9,Mars,4,-5
+TESSERACT,quaero_fusioné,Diable !,8,Diable,6,-2
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Rente,5,Rente,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Napoléon,8,Napoléon,8,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Dieu !,6,Dieu,4,-2
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Broussaille,11,Broussaille,11,0
+TESSERACT,quaero_fusioné,Brompton,8,Brompton,8,0
+TESSERACT,quaero_fusioné,Kensington,10,Kensington,10,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger-li-,9,Roger,5,-4
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Vraiment!,9,Vraiment,8,-1
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Broussaille,11,Broussaille,11,0
+TESSERACT,quaero_fusioné,Brous-,6,Brous-,6,0
+TESSERACT,quaero_fusioné,Saille,6,Saille,6,0
+TESSERACT,quaero_fusioné,Jolie,5,Jolie,5,0
+TESSERACT,quaero_fusioné,Kensington,10,Kensington,10,0
+TESSERACT,quaero_fusioné,Ju'f,4,Ju',3,-1
+TESSERACT,quaero_fusioné,Juif,4,Juif,4,0
+TESSERACT,quaero_fusioné,Broussaille,11,Broussaille,11,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Binocar,7,Binocar,7,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Broussaille,11,Broussaille,11,0
+TESSERACT,quaero_fusioné,Justice,7,Justice,7,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Conclusion,10,Conclusion,10,0
+TESSERACT,quaero_fusioné,Saint,5,Saint,5,0
+TESSERACT,quaero_fusioné,Bravo!,6,Bravo,5,-1
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Cayenne,7,Cayenne,7,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Suisse,6,Suisse,6,0
+TESSERACT,quaero_fusioné,Jours-ci,8,Jours,5,-3
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,la Ville-Lumière,16,Ville-Lumière,13,-3
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Magasins,8,Magasins,8,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Broussaille,11,Broussaille,11,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Ecoute,6,Ecoute,6,0
+TESSERACT,quaero_fusioné,Cartouche,9,Cartouche,9,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Voyons,6,Voyons,6,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Madame,6,Madame,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,quaero_fusioné,Russe,5,Russe,5,0
+TESSERACT,quaero_fusioné,Russe,5,Russe,5,0
+TESSERACT,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Polytechnique,13,Polytechnique,13,0
+TESSERACT,quaero_fusioné,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Madame,6,Madame,6,0
+TESSERACT,quaero_fusioné,Cher,4,Cher,4,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Vaille,6,Vaille,6,0
+TESSERACT,quaero_fusioné,de Belgique,11,Belgique,8,-3
+TESSERACT,quaero_fusioné,Suisse,6,Suisse,6,0
+TESSERACT,quaero_fusioné,Européen,8,Européen,8,0
+TESSERACT,quaero_fusioné,"Ab!
+Monsieur",12,Monsieur,8,-4
+TESSERACT,quaero_fusioné,Lédas,5,Lédas,5,0
+TESSERACT,quaero_fusioné,Dianes,6,Dianes,6,0
+TESSERACT,quaero_fusioné,Danaés,6,Danaés,6,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Mon Dieu,8,Dieu,4,-4
+TESSERACT,quaero_fusioné,Guizot,6,Guizot,6,0
+TESSERACT,quaero_fusioné,Remords,7,Remords,7,0
+TESSERACT,quaero_fusioné,du Nord,7,Nord,4,-3
+TESSERACT,quaero_fusioné,Société ?,9,Société,7,-2
+TESSERACT,quaero_fusioné,Dieu !,6,Dieu,4,-2
+TESSERACT,quaero_fusioné,Jetrouve,8,Jetrouve,8,0
+TESSERACT,quaero_fusioné,Bourse,6,Bourse,6,0
+TESSERACT,quaero_fusioné,Bourse,6,Bourse,6,0
+TESSERACT,quaero_fusioné,Eglise,6,Eglise,6,0
+TESSERACT,quaero_fusioné,Ecclésiaste,11,Ecclésiaste,11,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Boulogne,8,Boulogne,8,0
+TESSERACT,quaero_fusioné,Boulogne,8,Boulogne,8,0
+TESSERACT,quaero_fusioné,Albion,6,Albion,6,0
+TESSERACT,quaero_fusioné,Washington,10,Washington,10,0
+TESSERACT,quaero_fusioné,Lafayette,9,Lafayette,9,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Lafayette,9,Lafayette,9,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Chambre,7,Chambre,7,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,du Nord,7,Nord,4,-3
+TESSERACT,quaero_fusioné,Sommes,6,Sommes,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,République,10,République,10,0
+TESSERACT,quaero_fusioné,le Monsieur,11,Monsieur,8,-3
+TESSERACT,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,quaero_fusioné,Liront,6,Liront,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Le Monsieur,11,Monsieur,8,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Suisse,6,Suisse,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Voyons,6,Voyons,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Vandale,7,Vandale,7,0
+TESSERACT,quaero_fusioné,Rester,6,Rester,6,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,PER PTe,7,PTe,3,-4
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Zifférature,11,Zifférature,11,0
+TESSERACT,quaero_fusioné,Capital,7,Capital,7,0
+TESSERACT,quaero_fusioné,Futur,5,Futur,5,0
+TESSERACT,quaero_fusioné,Sociale,7,Sociale,7,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Vieux,5,Vieux,5,0
+TESSERACT,quaero_fusioné,Vantage,7,Vantage,7,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Balon,5,Balon,5,0
+TESSERACT,quaero_fusioné,Tiens!,6,Tiens,5,-1
+TESSERACT,quaero_fusioné,Mme Talmasco,12,Talmasco,8,-4
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Vidocq,6,Vidocq,6,0
+TESSERACT,quaero_fusioné,Némésis,7,Némésis,7,0
+TESSERACT,quaero_fusioné,Bakounine,9,Bakounine,9,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Individualité,13,Individualité,13,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,l'Individu,10,Individu,8,-2
+TESSERACT,quaero_fusioné,l’Individu,10,Individu,8,-2
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Bourgeoisie,11,Bourgeoisie,11,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Eh !,4,Eh,2,-2
+TESSERACT,quaero_fusioné,Cayenne,7,Cayenne,7,0
+TESSERACT,quaero_fusioné,Condamné !,10,Condamné,8,-2
+TESSERACT,quaero_fusioné,Répu-,5,Répu-,5,0
+TESSERACT,quaero_fusioné,Cayenne,7,Cayenne,7,0
+TESSERACT,quaero_fusioné,"Le
+Voleur",9,Voleur,6,-3
+TESSERACT,quaero_fusioné,Dauphin,7,Dauphin,7,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,République,10,République,10,0
+TESSERACT,quaero_fusioné,York,4,York,4,0
+TESSERACT,quaero_fusioné,Les Bois-,9,Bois-,5,-4
+TESSERACT,quaero_fusioné,Créault,7,Créault,7,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Philosophe,10,Philosophe,10,0
+TESSERACT,quaero_fusioné,Seine,5,Seine,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Machin,6,Machin,6,0
+TESSERACT,quaero_fusioné,Saluts,6,Saluts,6,0
+TESSERACT,quaero_fusioné,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,quaero_fusioné,Revue,5,Revue,5,0
+TESSERACT,quaero_fusioné,Revue,5,Revue,5,0
+TESSERACT,quaero_fusioné,Revue,5,Revue,5,0
+TESSERACT,quaero_fusioné,Revue,5,Revue,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Voleur,6,Voleur,6,0
+TESSERACT,quaero_fusioné,Montareuil,10,Montareuil,10,0
+TESSERACT,quaero_fusioné,M.,2,M.,2,0
+TESSERACT,quaero_fusioné,Machin,6,Machin,6,0
+TESSERACT,quaero_fusioné,Vraiment!,9,Vraiment,8,-1
+TESSERACT,quaero_fusioné,Montareuil,10,Montareuil,10,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Revue,5,Revue,5,0
+TESSERACT,quaero_fusioné,Suisse,6,Suisse,6,0
+TESSERACT,quaero_fusioné,Lombroso,8,Lombroso,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Direction,9,Direction,9,0
+TESSERACT,quaero_fusioné,Directeur,9,Directeur,9,0
+TESSERACT,quaero_fusioné,Pâques,6,Pâques,6,0
+TESSERACT,quaero_fusioné,Mme Mouratet,12,Mouratet,8,-4
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,République!,11,République,10,-1
+TESSERACT,quaero_fusioné,Montareuil,10,Montareuil,10,0
+TESSERACT,quaero_fusioné,Renaissance,11,Renaissance,11,0
+TESSERACT,quaero_fusioné,Mon Dieu,8,Mon,3,-5
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Parisienne,10,Parisienne,10,0
+TESSERACT,quaero_fusioné,Voudrais,8,Voudrais,8,0
+TESSERACT,quaero_fusioné,Directeur,9,Directeur,9,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Mme Courbassol,14,Courbassol,10,-4
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Tiens!,6,Tiens,5,-1
+TESSERACT,quaero_fusioné,Margot,6,Margot,6,0
+TESSERACT,quaero_fusioné,Marguerite,10,Marguerite,10,0
+TESSERACT,quaero_fusioné,Me Montareuil,13,Montareuil,10,-3
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Margue-,7,Margue-,7,0
+TESSERACT,quaero_fusioné,Matun,5,Matun,5,0
+TESSERACT,quaero_fusioné,Malenvers,9,Malenvers,9,0
+TESSERACT,quaero_fusioné,Malenvers,9,Malenvers,9,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Margot,6,Margot,6,0
+TESSERACT,quaero_fusioné,Malenvers!,10,Malenvers,9,-1
+TESSERACT,quaero_fusioné,Malenvers,9,Malenvers,9,0
+TESSERACT,quaero_fusioné,la Marseillaise,15,Marseillaise,12,-3
+TESSERACT,quaero_fusioné,M.,2,M.,2,0
+TESSERACT,quaero_fusioné,Courbassol,10,Courbassol,10,0
+TESSERACT,quaero_fusioné,Messieurs!,10,Messieurs,9,-1
+TESSERACT,quaero_fusioné,la Marseillaise,15,Marseillaise,12,-3
+TESSERACT,quaero_fusioné,Malenvers,9,Malenvers,9,0
+TESSERACT,quaero_fusioné,Egypte,6,Egypte,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Margot,6,Margot,6,0
+TESSERACT,quaero_fusioné,Da,2,Da,2,0
+TESSERACT,quaero_fusioné,Dieu !,6,Dieu,4,-2
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Annette,7,Annette,7,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Annette,7,Annette,7,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Annette,7,Annette,7,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Annette,7,Annette,7,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Bonsoir,7,Bonsoir,7,0
+TESSERACT,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Javiis,6,Javiis,6,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,Malenvers,9,Malenvers,9,0
+TESSERACT,quaero_fusioné,Lyon,4,Lyon,4,0
+TESSERACT,quaero_fusioné,Nancy,5,Nancy,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Tiens,5,Tiens,5,0
+TESSERACT,quaero_fusioné,Edison,6,Edison,6,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,M.,2,M.,2,0
+TESSERACT,quaero_fusioné,Tiens,5,Tiens,5,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Europe,6,Europe,6,0
+TESSERACT,quaero_fusioné,Société !,9,Société,7,-2
+TESSERACT,quaero_fusioné,Gambetta,8,Gambetta,8,0
+TESSERACT,quaero_fusioné,Ville,5,Ville,5,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Temple,6,Temple,6,0
+TESSERACT,quaero_fusioné,Malenvers,9,Malenvers,9,0
+TESSERACT,quaero_fusioné,Malenvers,9,Malenvers,9,0
+TESSERACT,quaero_fusioné,Courbassol,10,Courbassol,10,0
+TESSERACT,quaero_fusioné,Machinard,9,Machinard,9,0
+TESSERACT,quaero_fusioné,Messieurs,9,Messieurs,9,0
+TESSERACT,quaero_fusioné,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Annette,7,Annette,7,0
+TESSERACT,quaero_fusioné,Jérôme,6,Jérôme,6,0
+TESSERACT,quaero_fusioné,M. Courbassol,13,Courbassol,10,-3
+TESSERACT,quaero_fusioné,Annette,7,Annette,7,0
+TESSERACT,quaero_fusioné,Sants,5,Sants,5,0
+TESSERACT,quaero_fusioné,Gambetta,8,Gambetta,8,0
+TESSERACT,quaero_fusioné,Déroute !,9,Déroute,7,-2
+TESSERACT,quaero_fusioné,Marianne,8,Marianne,8,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Occupé !,8,Occupé,6,-2
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Congo,5,Congo,5,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,rue Lafayette,13,Lafayette,9,-4
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Les Juifs,9,Juifs,5,-4
+TESSERACT,quaero_fusioné,Spui,4,Spui,4,0
+TESSERACT,quaero_fusioné,LE VOLEUR,9,VOLEUR,6,-3
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Vraiment!,9,Vraiment,8,-1
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Juif,4,Juif,4,0
+TESSERACT,quaero_fusioné,Juif,4,Juif,4,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,ter Margot,10,Margot,6,-4
+TESSERACT,quaero_fusioné,Artaxercès,10,Artaxercès,10,0
+TESSERACT,quaero_fusioné,Ministre,8,Ministre,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Machinard,9,Machinard,9,0
+TESSERACT,quaero_fusioné,Réponds,7,Réponds,7,0
+TESSERACT,quaero_fusioné,Machinard,9,Machinard,9,0
+TESSERACT,quaero_fusioné,Justice,7,Justice,7,0
+TESSERACT,quaero_fusioné,Marine,6,Marine,6,0
+TESSERACT,quaero_fusioné,Agriculture,11,Agriculture,11,0
+TESSERACT,quaero_fusioné,Justice !,9,Justice,7,-2
+TESSERACT,quaero_fusioné,Etpuis,6,Etpuis,6,0
+TESSERACT,quaero_fusioné,Laissons-la,11,Laissons,8,-3
+TESSERACT,quaero_fusioné,Justice !,9,Justice,7,-2
+TESSERACT,quaero_fusioné,Justice,7,Justice,7,0
+TESSERACT,quaero_fusioné,Roi Salomon,11,Salomon,7,-4
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Belgique,8,Belgique,8,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,"Paternoster
+
+3",14,Paternoster,11,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Dieppe,6,Dieppe,6,0
+TESSERACT,quaero_fusioné,Onne,4,Onne,4,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Suisse,6,Suisse,6,0
+TESSERACT,quaero_fusioné,Mademoiselle,12,Mademoiselle,12,0
+TESSERACT,quaero_fusioné,Prussiens,9,Prussiens,9,0
+TESSERACT,quaero_fusioné,Père,4,Père,4,0
+TESSERACT,quaero_fusioné,Père,4,Père,4,0
+TESSERACT,quaero_fusioné,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,quaero_fusioné,Me,2,Me,2,0
+TESSERACT,quaero_fusioné,Boïs-Créault,12,Créault,7,-5
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Vousèêtesle,11,Vousèêtesle,11,0
+TESSERACT,quaero_fusioné,Cayenne,7,Cayenne,7,0
+TESSERACT,quaero_fusioné,Ris,3,Ris,3,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Créault,7,Créault,7,0
+TESSERACT,quaero_fusioné,Numas,5,Numas,5,0
+TESSERACT,quaero_fusioné,Rhadamantes,11,Rhadamantes,11,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Ja Banque,9,Banque,6,-3
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Hélène,6,Hélène,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,JA!,3,JA,2,-1
+TESSERACT,quaero_fusioné,Vigunuté,8,Vigunuté,8,0
+TESSERACT,quaero_fusioné,Voyons,6,Voyons,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Videz,5,Videz,5,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Attendez!,9,Attendez,8,-1
+TESSERACT,quaero_fusioné,Ostende,7,Ostende,7,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Messieurs,9,Messieurs,9,0
+TESSERACT,quaero_fusioné,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,quaero_fusioné,.‘— Bien,8,Bien,4,-4
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,rue Clémentine,14,Clémentine,10,-4
+TESSERACT,quaero_fusioné,Parbleu !,9,Parbleu,7,-2
+TESSERACT,quaero_fusioné,Anglaise,8,Anglaise,8,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Remarquez,9,Remarquez,9,0
+TESSERACT,quaero_fusioné,Bois-,5,Bois-,5,0
+TESSERACT,quaero_fusioné,Créault,7,Créault,7,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Créault,7,Créault,7,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Réfléchissez,12,Réfléchissez,12,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Anglaise,8,Anglaise,8,0
+TESSERACT,quaero_fusioné,Me,2,Me,2,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Me,2,Me,2,0
+TESSERACT,quaero_fusioné,Chouette,8,Chouette,8,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Louvain,7,Louvain,7,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Diable !,8,Diable,6,-2
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Veuillez,8,Veuillez,8,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Ml Canonnier,12,Canonnier,9,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Justice,7,Justice,7,0
+TESSERACT,quaero_fusioné,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Mi: Canonnier,13,Canonnier,9,-4
+TESSERACT,quaero_fusioné,Me Canonnier,12,Canonnier,9,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Justice,7,Justice,7,0
+TESSERACT,quaero_fusioné,Justice,7,Justice,7,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Créault,7,Créault,7,0
+TESSERACT,quaero_fusioné,Jamais !,8,Jamais,6,-2
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Voudriez,8,Voudriez,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+TESSERACT,quaero_fusioné,Mi:,3,Mi,2,-1
+TESSERACT,quaero_fusioné,Boïs-Créault,12,Créault,7,-5
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Parbleu!,8,Parbleu,7,-1
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Louvain,7,Louvain,7,0
+TESSERACT,quaero_fusioné,Décidément,10,Décidément,10,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,Réquisitoire,12,Réquisitoire,12,0
+TESSERACT,quaero_fusioné,Ages !,6,Ages,4,-2
+TESSERACT,quaero_fusioné,Evangile,8,Evangile,8,0
+TESSERACT,quaero_fusioné,Suisse,6,Suisse,6,0
+TESSERACT,quaero_fusioné,ss Intentions,13,Intentions,10,-3
+TESSERACT,quaero_fusioné,de Belgique,11,Belgique,8,-3
+TESSERACT,quaero_fusioné,Louvain,7,Louvain,7,0
+TESSERACT,quaero_fusioné,Voüloir !,9,Voüloir,7,-2
+TESSERACT,quaero_fusioné,Roger-l-,8,Roger,5,-3
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Jean-Jacques,12,Jean-Jacques,12,0
+TESSERACT,quaero_fusioné,Babel,5,Babel,5,0
+TESSERACT,quaero_fusioné,Dandin,6,Dandin,6,0
+TESSERACT,quaero_fusioné,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,quaero_fusioné,Danoise,7,Danoise,7,0
+TESSERACT,quaero_fusioné,Musette,7,Musette,7,0
+TESSERACT,quaero_fusioné,Marcel,6,Marcel,6,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Danton,6,Danton,6,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Gravesend,9,Gravesend,9,0
+TESSERACT,quaero_fusioné,Curé,4,Curé,4,0
+TESSERACT,quaero_fusioné,suisse,6,suisse,6,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,Galériens,9,Galériens,9,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Yétements,9,Yétements,9,0
+TESSERACT,quaero_fusioné,ter Marguerite,14,Marguerite,10,-4
+TESSERACT,quaero_fusioné,Londres,7,Londres,7,0
+TESSERACT,quaero_fusioné,Ecoute,6,Ecoute,6,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Georgette,9,Georgette,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Georgette,9,Georgette,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Noël,4,Noël,4,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+TESSERACT,quaero_fusioné,Maman,5,Maman,5,0
+TESSERACT,quaero_fusioné,Maman...,8,Maman,5,-3
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Noël,4,Noël,4,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,quaero_fusioné,Suffira,7,Suffira,7,0
+TESSERACT,quaero_fusioné,Kensington,10,Kensington,10,0
+TESSERACT,quaero_fusioné,Broussaille,11,Broussaille,11,0
+TESSERACT,quaero_fusioné,Tiens,5,Tiens,5,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Pâques,6,Pâques,6,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Waterloo Road,13,Waterloo,8,-5
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Dieu!,5,Dieu,4,-1
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Georges,7,Georges,7,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Dieul...,8,Dieul,5,-3
+TESSERACT,quaero_fusioné,Noël!,5,Noël,4,-1
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Seigneur !,10,Seigneur,8,-2
+TESSERACT,quaero_fusioné,Seigneur !,10,Seigneur,8,-2
+TESSERACT,quaero_fusioné,Noël,4,Noël,4,0
+TESSERACT,quaero_fusioné,d’Espagne,9,Espagne,7,-2
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Noël,4,Noël,4,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Noël,4,Noël,4,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Est,3,Est,3,0
+TESSERACT,quaero_fusioné,Eglise?,7,Eglise,6,-1
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Pitonne,7,Pitonne,7,0
+TESSERACT,quaero_fusioné,Noël,4,Noël,4,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Jour,4,Jour,4,0
+TESSERACT,quaero_fusioné,Saïis,5,Saïis,5,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Casino,6,Casino,6,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Nice,4,Nice,4,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Orléans,7,Orléans,7,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Saint-,6,Saint-,6,0
+TESSERACT,quaero_fusioné,Malo,4,Malo,4,0
+TESSERACT,quaero_fusioné,Orléans,7,Orléans,7,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Dame !,6,Dame,4,-2
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Wagon,5,Wagon,5,0
+TESSERACT,quaero_fusioné,Calypso,7,Calypso,7,0
+TESSERACT,quaero_fusioné,Suisse,6,Suisse,6,0
+TESSERACT,quaero_fusioné,Ecoute,6,Ecoute,6,0
+TESSERACT,quaero_fusioné,Margot,6,Margot,6,0
+TESSERACT,quaero_fusioné,Mie Charlotte,13,Charlotte,9,-4
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Margot,6,Margot,6,0
+TESSERACT,quaero_fusioné,Marguerite,10,Marguerite,10,0
+TESSERACT,quaero_fusioné,Paul,4,Paul,4,0
+TESSERACT,quaero_fusioné,Cusset,6,Cusset,6,0
+TESSERACT,quaero_fusioné,Tiens,5,Tiens,5,0
+TESSERACT,quaero_fusioné,Margot,6,Margot,6,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Dieu,4,Dieu,4,0
+TESSERACT,quaero_fusioné,M. Voisin,9,Voisin,6,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Voisin,9,Voisin,6,-3
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Broussaille,11,Broussaille,11,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Mi,2,Mi,2,0
+TESSERACT,quaero_fusioné,Broussaille,11,Broussaille,11,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,M. Voisin,9,Voisin,6,-3
+TESSERACT,quaero_fusioné,Gaston,6,Gaston,6,0
+TESSERACT,quaero_fusioné,Remarquez,9,Remarquez,9,0
+TESSERACT,quaero_fusioné,Discorde,8,Discorde,8,0
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Vieilleries,11,Vieilleries,11,0
+TESSERACT,quaero_fusioné,Jours-ci,8,Jours,5,-3
+TESSERACT,quaero_fusioné,Tester,6,Tester,6,0
+TESSERACT,quaero_fusioné,Liberté,7,Liberté,7,0
+TESSERACT,quaero_fusioné,Rome,4,Rome,4,0
+TESSERACT,quaero_fusioné,Château-Céleste,15,Château-Céleste,15,0
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Mr Boileau,10,Boileau,7,-3
+TESSERACT,quaero_fusioné,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,quaero_fusioné,Belgique,8,Belgique,8,0
+TESSERACT,quaero_fusioné,Victimes,8,Victimes,8,0
+TESSERACT,quaero_fusioné,Remarquez,9,Remarquez,9,0
+TESSERACT,quaero_fusioné,Casino,6,Casino,6,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Direction,9,Direction,9,0
+TESSERACT,quaero_fusioné,Bièvre,6,Bièvre,6,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Créault,7,Créault,7,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Evincé !,8,Evincé,6,-2
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Pheure,6,Pheure,6,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Epinal,6,Epinal,6,0
+TESSERACT,quaero_fusioné,Chambre,7,Chambre,7,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Rhin,4,Rhin,4,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Dinde,5,Dinde,5,0
+TESSERACT,quaero_fusioné,Dinde,5,Dinde,5,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Dinde,5,Dinde,5,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Circulez,8,Circulez,8,0
+TESSERACT,quaero_fusioné,Messieurs,9,Messieurs,9,0
+TESSERACT,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Déshonoré !,11,Déshonoré,9,-2
+TESSERACT,quaero_fusioné,Belgique,8,Belgique,8,0
+TESSERACT,quaero_fusioné,Renée etje,10,Renée,5,-5
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Mouratet,8,Mouratet,8,0
+TESSERACT,quaero_fusioné,Perspec-,8,Perspec-,8,0
+TESSERACT,quaero_fusioné,Justice,7,Justice,7,0
+TESSERACT,quaero_fusioné,Jetrouve,8,Jetrouve,8,0
+TESSERACT,quaero_fusioné,Dalmatie,8,Dalmatie,8,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Mystère,7,Mystère,7,0
+TESSERACT,quaero_fusioné,Mystère,7,Mystère,7,0
+TESSERACT,quaero_fusioné,Manqueront,10,Manqueront,10,0
+TESSERACT,quaero_fusioné,Dieu!,5,Dieu,4,-1
+TESSERACT,quaero_fusioné,Bois-,5,Bois-,5,0
+TESSERACT,quaero_fusioné,Créault,7,Créault,7,0
+TESSERACT,quaero_fusioné,Stéphanus,9,Stéphanus,9,0
+TESSERACT,quaero_fusioné,Ohljetedevine,13,Ohljetedevine,13,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,de Belgique,11,Belgique,8,-3
+TESSERACT,quaero_fusioné,Teint,5,Teint,5,0
+TESSERACT,quaero_fusioné,Ostende,7,Ostende,7,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Louise,6,Louise,6,0
+TESSERACT,quaero_fusioné,Pessaye,7,Pessaye,7,0
+TESSERACT,quaero_fusioné,Tiens !,7,Tiens,5,-2
+TESSERACT,quaero_fusioné,Vichy,5,Vichy,5,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Rubens,6,Rubens,6,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Compromise !,12,Compromise,10,-2
+TESSERACT,quaero_fusioné,"Compromise!
+
+—",14,Compromise,10,-4
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Dieu !,6,Dieu,4,-2
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Me,2,Me,2,0
+TESSERACT,quaero_fusioné,Ecoute,6,Ecoute,6,0
+TESSERACT,quaero_fusioné,Gereviève,9,Gereviève,9,0
+TESSERACT,quaero_fusioné,Roi Salomon,11,Salomon,7,-4
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Roger,5,Roger,5,0
+TESSERACT,quaero_fusioné,Mme Delpich,11,Delpich,7,-4
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Tiens,5,Tiens,5,0
+TESSERACT,quaero_fusioné,Geneviève,9,Geneviève,9,0
+TESSERACT,quaero_fusioné,Gene-,5,Gene-,5,0
+TESSERACT,quaero_fusioné,Geneviève,9,Geneviève,9,0
+TESSERACT,quaero_fusioné,Royan,5,Royan,5,0
+TESSERACT,quaero_fusioné,Vienne,6,Vienne,6,0
+TESSERACT,quaero_fusioné,Geneviève,9,Geneviève,9,0
+TESSERACT,quaero_fusioné,Geneviève,9,Geneviève,9,0
+TESSERACT,quaero_fusioné,Londres,7,Londres,7,0
+TESSERACT,quaero_fusioné,Mi,2,Mi,2,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Grecs,5,Grecs,5,0
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Geneviève,9,Geneviève,9,0
+TESSERACT,quaero_fusioné,Pâme,4,Pâme,4,0
+TESSERACT,quaero_fusioné,Geneviève,9,Geneviève,9,0
+TESSERACT,quaero_fusioné,Madaine,7,Madaine,7,0
+TESSERACT,quaero_fusioné,Genéviève,9,Genéviève,9,0
+TESSERACT,quaero_fusioné,Ciel,4,Ciel,4,0
+TESSERACT,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+TESSERACT,quaero_fusioné,M. Raïdal,9,Raïdal,6,-3
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Impossible !,12,Impossible,10,-2
+TESSERACT,quaero_fusioné,Mon Dieu,8,Mon,3,-5
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,M. Randal,9,Randal,6,-3
+TESSERACT,quaero_fusioné,Dieu ra,7,Dieu,4,-3
+TESSERACT,quaero_fusioné,Voÿons,6,Voÿons,6,0
+TESSERACT,quaero_fusioné,Charlotte,9,Charlotte,9,0
+TESSERACT,quaero_fusioné,Télémaque,9,Télémaque,9,0
+TESSERACT,quaero_fusioné,Revue »,7,Revue,5,-2
+TESSERACT,quaero_fusioné,Margot,6,Margot,6,0
+TESSERACT,quaero_fusioné,Vauvenargues,12,Vauvenargues,12,0
+TESSERACT,quaero_fusioné,Barzot,6,Barzot,6,0
+TESSERACT,quaero_fusioné,Nothingabout,12,Nothingabout,12,0
+TESSERACT,quaero_fusioné,Eh!,3,Eh,2,-1
+TESSERACT,quaero_fusioné,Monsieur,8,Monsieur,8,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Devine...,9,Devine,6,-3
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Randal,6,Randal,6,0
+TESSERACT,quaero_fusioné,Issacar,7,Issacar,7,0
+TESSERACT,quaero_fusioné,Canonnier,9,Canonnier,9,0
+TESSERACT,quaero_fusioné,Cayenne,7,Cayenne,7,0
+TESSERACT,quaero_fusioné,Madeleine,9,Madeleine,9,0
+TESSERACT,quaero_fusioné,Venise,6,Venise,6,0
+TESSERACT,quaero_fusioné,Paternoster,11,Paternoster,11,0
+TESSERACT,quaero_fusioné,Renée,5,Renée,5,0
+TESSERACT,quaero_fusioné,Société,7,Société,7,0
+TESSERACT,quaero_fusioné,Doctrine,8,Doctrine,8,0
+TESSERACT,quaero_fusioné,Jean-Jacques,12,Jean-Jacques,12,0
+TESSERACT,quaero_fusioné,Meñsonge,8,Meñsonge,8,0
+TESSERACT,quaero_fusioné,Géitionies,10,Géitionies,10,0
+TESSERACT,quaero_fusioné,Jésus,5,Jésus,5,0
+TESSERACT,quaero_fusioné,Rappelez-,9,Rappelez-,9,0
+TESSERACT,quaero_fusioné,Verbe,5,Verbe,5,0
+TESSERACT,quaero_fusioné,Ja,2,Ja,2,0
+TESSERACT,quaero_fusioné,Individu,8,Individu,8,0
+TESSERACT,quaero_fusioné,l’Individu,10,Individu,8,-2
+TESSERACT,quaero_fusioné,Haine,5,Haine,5,0
+TESSERACT,quaero_fusioné,Etat,4,Etat,4,0
+TESSERACT,quaero_fusioné,l’Individu,10,Individu,8,-2
+TESSERACT,quaero_fusioné,Droits,6,Droits,6,0
+TESSERACT,quaero_fusioné,l’Individu,10,Individu,8,-2
+TESSERACT,quaero_fusioné,ES PERRET,9,PERRET,6,-3

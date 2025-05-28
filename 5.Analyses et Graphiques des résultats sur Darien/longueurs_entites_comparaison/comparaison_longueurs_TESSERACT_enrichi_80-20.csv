@@ -1,0 +1,1105 @@
+OCR,Modèle,Texte_spacy,Longueur_spacy,Texte_modele,Longueur_modele,Différence
+TESSERACT,enrichi_80-20,Gallica,7,Gallica,7,0
+TESSERACT,enrichi_80-20,Norvège,7,Norvège,7,0
+TESSERACT,enrichi_80-20,MÈME,4,MÈME,4,0
+TESSERACT,enrichi_80-20,Malhonnête,10,Malhonnête,10,0
+TESSERACT,enrichi_80-20,© Case,6,Case,4,-2
+TESSERACT,enrichi_80-20,Républicain,11,Républicain,11,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Madaine,7,Madaine,7,0
+TESSERACT,enrichi_80-20,Georges,7,Georges,7,0
+TESSERACT,enrichi_80-20,"Pa
+
+LUS",7,LUS,3,-4
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Sûreté,6,Sûreté,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Mystère,7,Mystère,7,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M.,2,M.,2,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Messieurs,9,Messieurs,9,0
+TESSERACT,enrichi_80-20,Voleur,6,Voleur,6,0
+TESSERACT,enrichi_80-20,Voleur,6,Voleur,6,0
+TESSERACT,enrichi_80-20,le Voleur,9,Voleur,6,-3
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Augustine,9,Augustine,9,0
+TESSERACT,enrichi_80-20,Pont,4,Pont,4,0
+TESSERACT,enrichi_80-20,Cher,4,Cher,4,0
+TESSERACT,enrichi_80-20,Jene,4,Jene,4,0
+TESSERACT,enrichi_80-20,Jésuites,8,Jésuites,8,0
+TESSERACT,enrichi_80-20,auguste,7,auguste,7,0
+TESSERACT,enrichi_80-20,Gambetta,8,Gambetta,8,0
+TESSERACT,enrichi_80-20,Georges,7,Georges,7,0
+TESSERACT,enrichi_80-20,Albert,6,Albert,6,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,"FROFOND
+
+C'",11,FROFOND,7,-4
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Integer,7,Integer,7,0
+TESSERACT,enrichi_80-20,Morgues,7,Morgues,7,0
+TESSERACT,enrichi_80-20,Pimprimerie,11,Pimprimerie,11,0
+TESSERACT,enrichi_80-20,DE Late,7,"Late
+
+",6,-1
+TESSERACT,enrichi_80-20,MENNE,5,MENNE,5,0
+TESSERACT,enrichi_80-20,César,5,César,5,0
+TESSERACT,enrichi_80-20,Barbares,8,Barbares,8,0
+TESSERACT,enrichi_80-20,Homère,6,Homère,6,0
+TESSERACT,enrichi_80-20,Raphaël,7,Raphaël,7,0
+TESSERACT,enrichi_80-20,les Loges,9,Loges,5,-4
+TESSERACT,enrichi_80-20,Michel-Ange,11,Michel,6,-5
+TESSERACT,enrichi_80-20,Malherbe,8,Malherbe,8,0
+TESSERACT,enrichi_80-20,Molière,7,Molière,7,0
+TESSERACT,enrichi_80-20,Plumages !,10,Plumages,8,-2
+TESSERACT,enrichi_80-20,Emerson,7,Emerson,7,0
+TESSERACT,enrichi_80-20,Messieurs,9,Messieurs,9,0
+TESSERACT,enrichi_80-20,M. Issacar,10,Issacar,7,-3
+TESSERACT,enrichi_80-20,Israélite,9,Israélite,9,0
+TESSERACT,enrichi_80-20,M. Issacar,10,Issacar,7,-3
+TESSERACT,enrichi_80-20,"Israé-
+
+hte",11,Israé-,6,-5
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Molochisme,10,Molochisme,10,0
+TESSERACT,enrichi_80-20,Isaïe,5,Isaïe,5,0
+TESSERACT,enrichi_80-20,Riche !,7,Riche,5,-2
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,JAvarice,8,JAvarice,8,0
+TESSERACT,enrichi_80-20,abbé Lamargelle,15,Lamargelle,10,-5
+TESSERACT,enrichi_80-20,RTE TE,6,RTE,3,-3
+TESSERACT,enrichi_80-20,Menteur!,8,Menteur,7,-1
+TESSERACT,enrichi_80-20,Voleur !,8,Voleur,6,-2
+TESSERACT,enrichi_80-20,Georges,7,Georges,7,0
+TESSERACT,enrichi_80-20,Respect,7,Respect,7,0
+TESSERACT,enrichi_80-20,Respect,7,Respect,7,0
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,"M""° Montareuil",14,Montareuil,10,-4
+TESSERACT,enrichi_80-20,Mr Montareuil,13,Montareuil,10,-3
+TESSERACT,enrichi_80-20,Trans-,6,Trans-,6,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Mon oncle,9,oncle,5,-4
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+TESSERACT,enrichi_80-20,Georges,7,Georges,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Marguerite,10,Marguerite,10,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Commeauthéâtre,14,Commeauthéâtre,14,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Mr. Montareuil,14,Montareuil,10,-4
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,Me Montareuil,13,Montareuil,10,-3
+TESSERACT,enrichi_80-20,Marguerite,10,Marguerite,10,0
+TESSERACT,enrichi_80-20,Digestion,9,Digestion,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Me Montareuil,13,Montareuil,10,-3
+TESSERACT,enrichi_80-20,Montmartre,10,Montmartre,10,0
+TESSERACT,enrichi_80-20,Me,2,Me,2,0
+TESSERACT,enrichi_80-20,Calmez,6,Calmez,6,0
+TESSERACT,enrichi_80-20,"M""° Montareuil",14,Montareuil,10,-4
+TESSERACT,enrichi_80-20,Sûreté,6,Sûreté,6,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,RS RRER,7,RRER,4,-3
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,CASE A T2,9,CASE,4,-5
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Cliarlotte,10,Cliarlotte,10,0
+TESSERACT,enrichi_80-20,Georges !,9,Georges,7,-2
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Me Montareuil,13,Montareuil,10,-3
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Jagisse,7,Jagisse,7,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,"Et
+
+Pont AE",11,Pont,4,-7
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Europe,6,Europe,6,0
+TESSERACT,enrichi_80-20,Mère,4,Mère,4,0
+TESSERACT,enrichi_80-20,Atlas,5,Atlas,5,0
+TESSERACT,enrichi_80-20,Issaçar,7,Issaçar,7,0
+TESSERACT,enrichi_80-20,Golgotha,8,Golgotha,8,0
+TESSERACT,enrichi_80-20,Jésus,5,Jésus,5,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,l’Individu,10,Individu,8,-2
+TESSERACT,enrichi_80-20,Numance,7,Numance,7,0
+TESSERACT,enrichi_80-20,Carlyle,7,Carlyle,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Europe,6,Europe,6,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Jérémie,7,Jérémie,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Suisse,6,Suisse,6,0
+TESSERACT,enrichi_80-20,Îssacar,7,Îssacar,7,0
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M. Issacar,10,Issacar,7,-3
+TESSERACT,enrichi_80-20,M. Issacar,10,Issacar,7,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+TESSERACT,enrichi_80-20,Caucase,7,Caucase,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Monsieur!,9,Monsieur,8,-1
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Banques,7,Banques,7,0
+TESSERACT,enrichi_80-20,Banques,7,Banques,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Sabre,5,Sabre,5,0
+TESSERACT,enrichi_80-20,Lens,4,Lens,4,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,pon Pelche,10,Pelche,6,-4
+TESSERACT,enrichi_80-20,Nature,6,Nature,6,0
+TESSERACT,enrichi_80-20,Ingres,6,Ingres,6,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Retirons,8,Retirons,8,0
+TESSERACT,enrichi_80-20,Poissy,6,Poissy,6,0
+TESSERACT,enrichi_80-20,Mercure,7,Mercure,7,0
+TESSERACT,enrichi_80-20,Roger,5,Roger,5,0
+TESSERACT,enrichi_80-20,Roger,5,Roger,5,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Roger,5,Roger,5,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Venise!,7,Venise,6,-1
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Bourges,7,Bourges,7,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Césont,6,Césont,6,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,le Japon,8,Japon,5,-3
+TESSERACT,enrichi_80-20,la Chine,8,Chine,5,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Jaunes,6,Jaunes,6,0
+TESSERACT,enrichi_80-20,Oxford,6,Oxford,6,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Asie Mineure,12,Mineure,7,-5
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Messieurs,9,Messieurs,9,0
+TESSERACT,enrichi_80-20,Rente,5,Rente,5,0
+TESSERACT,enrichi_80-20,Roger,5,Roger,5,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Dieu !,6,Dieu,4,-2
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Moines AL,9,Moines,6,-3
+TESSERACT,enrichi_80-20,Brompton,8,Brompton,8,0
+TESSERACT,enrichi_80-20,Kensington,10,Kensington,10,0
+TESSERACT,enrichi_80-20,Roger,5,Roger,5,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Mimi Pinson,11,Pinson,6,-5
+TESSERACT,enrichi_80-20,Mimi Pinson,11,Pinson,6,-5
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Brous-,6,Brous-,6,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Brous-,6,Brous-,6,0
+TESSERACT,enrichi_80-20,Jolie,5,Jolie,5,0
+TESSERACT,enrichi_80-20,Kensington,10,Kensington,10,0
+TESSERACT,enrichi_80-20,Ju'f,4,Ju',3,-1
+TESSERACT,enrichi_80-20,Juif,4,Juif,4,0
+TESSERACT,enrichi_80-20,Juif,4,Juif,4,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Roger,5,Roger,5,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Binocar,7,Binocar,7,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Justice,7,Justice,7,0
+TESSERACT,enrichi_80-20,Saint,5,Saint,5,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Cayenne,7,Cayenne,7,0
+TESSERACT,enrichi_80-20,Roger,5,Roger,5,0
+TESSERACT,enrichi_80-20,Paris,5,Paris,5,0
+TESSERACT,enrichi_80-20,Suisse,6,Suisse,6,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Juif,4,Juif,4,0
+TESSERACT,enrichi_80-20,Magasins,8,Magasins,8,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Paule,5,Paule,5,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Cartouche,9,Cartouche,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Acropole,8,Acropole,8,0
+TESSERACT,enrichi_80-20,Acropole,8,Acropole,8,0
+TESSERACT,enrichi_80-20,Cabanel,7,Cabanel,7,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Croiriez,8,Croiriez,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Cher,4,Cher,4,0
+TESSERACT,enrichi_80-20,Suisse,6,Suisse,6,0
+TESSERACT,enrichi_80-20,"Ab!
+Monsieur",12,Monsieur,8,-4
+TESSERACT,enrichi_80-20,Anglaise,8,Anglaise,8,0
+TESSERACT,enrichi_80-20,Allemande,9,Allemande,9,0
+TESSERACT,enrichi_80-20,Lédas,5,Lédas,5,0
+TESSERACT,enrichi_80-20,abbé Lamargelle,15,Lamargelle,10,-5
+TESSERACT,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,enrichi_80-20,Belgi-,6,Belgi-,6,0
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Mon Dieu,8,Dieu,4,-4
+TESSERACT,enrichi_80-20,Eglise,6,Eglise,6,0
+TESSERACT,enrichi_80-20,du Nord,7,Nord,4,-3
+TESSERACT,enrichi_80-20,Mazas,5,Mazas,5,0
+TESSERACT,enrichi_80-20,Disproportion,13,Disproportion,13,0
+TESSERACT,enrichi_80-20,Dieu !,6,Dieu,4,-2
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Jetrouve,8,Jetrouve,8,0
+TESSERACT,enrichi_80-20,Eglise,6,Eglise,6,0
+TESSERACT,enrichi_80-20,Ecclésiaste,11,Ecclésiaste,11,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Anglais,7,Anglais,7,0
+TESSERACT,enrichi_80-20,Anglais,7,Anglais,7,0
+TESSERACT,enrichi_80-20,Anglais,7,Anglais,7,0
+TESSERACT,enrichi_80-20,Américain,9,Américain,9,0
+TESSERACT,enrichi_80-20,Lafayette,9,Lafayette,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Lafayette,9,Lafayette,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Chambre,7,Chambre,7,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Onsieur,7,Onsieur,7,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,du Nord,7,Nord,4,-3
+TESSERACT,enrichi_80-20,Centre,6,Centre,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,le Monsieur,11,Monsieur,8,-3
+TESSERACT,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,enrichi_80-20,Liront,6,Liront,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Le Monsieur,11,Monsieur,8,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Suisse,6,Suisse,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Vandale,7,Vandale,7,0
+TESSERACT,enrichi_80-20,Etcette,7,Etcette,7,0
+TESSERACT,enrichi_80-20,Capital,7,Capital,7,0
+TESSERACT,enrichi_80-20,Rouen,5,Rouen,5,0
+TESSERACT,enrichi_80-20,Sociale,7,Sociale,7,0
+TESSERACT,enrichi_80-20,Simplifiée !,12,Simplifiée,10,-2
+TESSERACT,enrichi_80-20,Vieux,5,Vieux,5,0
+TESSERACT,enrichi_80-20,culs-de-jatte,13,culs-de-jatte,13,0
+TESSERACT,enrichi_80-20,Tiens!,6,Tiens,5,-1
+TESSERACT,enrichi_80-20,Némésis,7,Némésis,7,0
+TESSERACT,enrichi_80-20,Etat,4,Etat,4,0
+TESSERACT,enrichi_80-20,l'Individu,10,Individu,8,-2
+TESSERACT,enrichi_80-20,l’Individu,10,Individu,8,-2
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Cayenne,7,Cayenne,7,0
+TESSERACT,enrichi_80-20,Cayenne,7,Cayenne,7,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,République,10,République,10,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Compassion,10,Compassion,10,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Saluts,6,Saluts,6,0
+TESSERACT,enrichi_80-20,"M""° Montareuil",14,Montareuil,10,-4
+TESSERACT,enrichi_80-20,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,enrichi_80-20,Revue,5,Revue,5,0
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,Revue,5,Revue,5,0
+TESSERACT,enrichi_80-20,Revue,5,Revue,5,0
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,Revue,5,Revue,5,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Voleur,6,Voleur,6,0
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,M.,2,M.,2,0
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Correspon-,10,Correspon-,10,0
+TESSERACT,enrichi_80-20,"Monta-
+euil",11,Monta-,6,-5
+TESSERACT,enrichi_80-20,Revue,5,Revue,5,0
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,Pesprit,7,Pesprit,7,0
+TESSERACT,enrichi_80-20,Suisse,6,Suisse,6,0
+TESSERACT,enrichi_80-20,Fi Moss,7,Moss,4,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Directeur,9,Directeur,9,0
+TESSERACT,enrichi_80-20,République!,11,République,10,-1
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,Cirque,6,Cirque,6,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Mon Dieu,8,Dieu,4,-4
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,République,10,République,10,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Parisienne,10,Parisienne,10,0
+TESSERACT,enrichi_80-20,Strauss,7,Strauss,7,0
+TESSERACT,enrichi_80-20,Directeur,9,Directeur,9,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Vespasien,9,Vespasien,9,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Mme Courbassol,14,Courbassol,10,-4
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Marguerite,10,Marguerite,10,0
+TESSERACT,enrichi_80-20,Me Montareuil,13,Montareuil,10,-3
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Margue-,7,Margue-,7,0
+TESSERACT,enrichi_80-20,M®° Montareuil,14,Montareuil,10,-4
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Matun,5,Matun,5,0
+TESSERACT,enrichi_80-20,Jolis,5,Jolis,5,0
+TESSERACT,enrichi_80-20,Courbassol,10,Courbassol,10,0
+TESSERACT,enrichi_80-20,"De-
+
+Main",9,Main,4,-5
+TESSERACT,enrichi_80-20,Malenvers,9,Malenvers,9,0
+TESSERACT,enrichi_80-20,Acacias,7,Acacias,7,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Malenvers!,10,Malenvers,9,-1
+TESSERACT,enrichi_80-20,Malenvers,9,Malenvers,9,0
+TESSERACT,enrichi_80-20,M.,2,M.,2,0
+TESSERACT,enrichi_80-20,la Marseillaise,15,Marseillaise,12,-3
+TESSERACT,enrichi_80-20,M.,2,M.,2,0
+TESSERACT,enrichi_80-20,Courbassol,10,Courbassol,10,0
+TESSERACT,enrichi_80-20,Messieurs!,10,Messieurs,9,-1
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,la Marseillaise,15,Marseillaise,12,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,la Halle,8,Halle,5,-3
+TESSERACT,enrichi_80-20,la Halle,8,Halle,5,-3
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Dieu !,6,Dieu,4,-2
+TESSERACT,enrichi_80-20,Annette,7,Annette,7,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Annette,7,Annette,7,0
+TESSERACT,enrichi_80-20,Jérôme,6,Jérôme,6,0
+TESSERACT,enrichi_80-20,Jérôme,6,Jérôme,6,0
+TESSERACT,enrichi_80-20,Annette,7,Annette,7,0
+TESSERACT,enrichi_80-20,Annette,7,Annette,7,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Javiis,6,Javiis,6,0
+TESSERACT,enrichi_80-20,Malenvers,9,Malenvers,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Malenvers,9,Malenvers,9,0
+TESSERACT,enrichi_80-20,Malen-,6,Malen-,6,0
+TESSERACT,enrichi_80-20,Malenvers,9,Malenvers,9,0
+TESSERACT,enrichi_80-20,Lyon,4,Lyon,4,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,M.,2,M.,2,0
+TESSERACT,enrichi_80-20,Tiens,5,Tiens,5,0
+TESSERACT,enrichi_80-20,mure Canonnier,14,Canonnier,9,-5
+TESSERACT,enrichi_80-20,Carrousel,9,Carrousel,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Barabbas,8,Barabbas,8,0
+TESSERACT,enrichi_80-20,la Halle,8,Halle,5,-3
+TESSERACT,enrichi_80-20,Malenvers,9,Malenvers,9,0
+TESSERACT,enrichi_80-20,La Halle,8,Halle,5,-3
+TESSERACT,enrichi_80-20,Courtille,9,Courtille,9,0
+TESSERACT,enrichi_80-20,Chambre,7,Chambre,7,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Courbassol,10,Courbassol,10,0
+TESSERACT,enrichi_80-20,Machinard,9,Machinard,9,0
+TESSERACT,enrichi_80-20,Messieurs,9,Messieurs,9,0
+TESSERACT,enrichi_80-20,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,enrichi_80-20,Machinard,9,Machinard,9,0
+TESSERACT,enrichi_80-20,Courbassol,10,Courbassol,10,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,la Halle,8,Halle,5,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Annette,7,Annette,7,0
+TESSERACT,enrichi_80-20,Annette,7,Annette,7,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Carrousel,9,Carrousel,9,0
+TESSERACT,enrichi_80-20,Marianne,8,Marianne,8,0
+TESSERACT,enrichi_80-20,Carrousel,9,Carrousel,9,0
+TESSERACT,enrichi_80-20,Canon-,6,Canon-,6,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,rue Lafayette,13,Lafayette,9,-4
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Lassalle,8,Lassalle,8,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Courbassol,10,Courbassol,10,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Etat,4,"Etat,",5,1
+TESSERACT,enrichi_80-20,Artiste,7,Artiste,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Juif,4,Juif,4,0
+TESSERACT,enrichi_80-20,Juif,4,Juif,4,0
+TESSERACT,enrichi_80-20,Juif,4,Juif,4,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,"Cest
+Canonnier!",15,Canonnier,9,-6
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,ter Margot,10,Margot,6,-4
+TESSERACT,enrichi_80-20,Marcot,6,Marcot,6,0
+TESSERACT,enrichi_80-20,Artaxercès,10,Artaxercès,10,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Liane,5,Liane,5,0
+TESSERACT,enrichi_80-20,Ministre,8,Ministre,8,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,"de-
+Main",8,Main,4,-4
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Répondez,8,Répondez,8,0
+TESSERACT,enrichi_80-20,Machinard,9,Machinard,9,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Machinard,9,Machinard,9,0
+TESSERACT,enrichi_80-20,Justice,7,Justice,7,0
+TESSERACT,enrichi_80-20,Marine,6,Marine,6,0
+TESSERACT,enrichi_80-20,Agriculture,11,Agriculture,11,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Justice !,9,Justice,7,-2
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Justice !,9,Justice,7,-2
+TESSERACT,enrichi_80-20,Justice,7,Justice,7,0
+TESSERACT,enrichi_80-20,Courbassol,10,Courbassol,10,0
+TESSERACT,enrichi_80-20,Courbassols,11,Courbassols,11,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,"Paternoster
+
+3",14,Paternoster,11,-3
+TESSERACT,enrichi_80-20,"au-
+las",7,las,3,-4
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Dinard,6,Dinard,6,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Suisse,6,Suisse,6,0
+TESSERACT,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+TESSERACT,enrichi_80-20,Vive Jésus,10,Jésus,5,-5
+TESSERACT,enrichi_80-20,Maisila,7,Maisila,7,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Père,4,Père,4,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Père,4,Père,4,0
+TESSERACT,enrichi_80-20,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,enrichi_80-20,Me,2,Me,2,0
+TESSERACT,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,"Empoi-
+gnez",11,Empoi-,6,-5
+TESSERACT,enrichi_80-20,Cayenne,7,Cayenne,7,0
+TESSERACT,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Numas,5,Numas,5,0
+TESSERACT,enrichi_80-20,Egérie,6,Egérie,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Complica-,9,Complica-,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,JA!,3,JA,2,-1
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Videz,5,Videz,5,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Croyez-,7,Croyez-,7,0
+TESSERACT,enrichi_80-20,Anglaise,8,Anglaise,8,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Messieurs,9,Messieurs,9,0
+TESSERACT,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,rue Clémentine,14,Clémentine,10,-4
+TESSERACT,enrichi_80-20,Anglaise,8,Anglaise,8,0
+TESSERACT,enrichi_80-20,Anglaise,8,Anglaise,8,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Remarquez,9,Remarquez,9,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Anglaise,8,Anglaise,8,0
+TESSERACT,enrichi_80-20,Calmez,6,Calmez,6,0
+TESSERACT,enrichi_80-20,Anglaise,8,Anglaise,8,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Me,2,Me,2,0
+TESSERACT,enrichi_80-20,Chouette,8,Chouette,8,0
+TESSERACT,enrichi_80-20,Roger,5,Roger,5,0
+TESSERACT,enrichi_80-20,Louvain,7,Louvain,7,0
+TESSERACT,enrichi_80-20,Mengelle,8,Mengelle,8,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Justice,7,Justice,7,0
+TESSERACT,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Me Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Mie Canonnier,13,Canonnier,9,-4
+TESSERACT,enrichi_80-20,Fhonnêteté,10,Fhonnêteté,10,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Justice,7,Justice,7,0
+TESSERACT,enrichi_80-20,Justice,7,Justice,7,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Ml Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Savez-,6,Savez-,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Mie Canonnier,13,Canonnier,9,-4
+TESSERACT,enrichi_80-20,Jamais !,8,Jamais,6,-2
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,M: Canonnier,12,Canonnier,9,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,M Canonnier,11,Canonnier,9,-2
+TESSERACT,enrichi_80-20,M'e Canonnier,13,Canonnier,9,-4
+TESSERACT,enrichi_80-20,Couvert,7,Couvert,7,0
+TESSERACT,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Mazas,5,Mazas,5,0
+TESSERACT,enrichi_80-20,Anglaise,8,Anglaise,8,0
+TESSERACT,enrichi_80-20,Louvain,7,Louvain,7,0
+TESSERACT,enrichi_80-20,Stépha-,7,Stépha-,7,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Réquisitoire,12,Réquisitoire,12,0
+TESSERACT,enrichi_80-20,Suisse,6,Suisse,6,0
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Louvain,7,Louvain,7,0
+TESSERACT,enrichi_80-20,Gelle,5,Gelle,5,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Hercule,7,Hercule,7,0
+TESSERACT,enrichi_80-20,Babel,5,Babel,5,0
+TESSERACT,enrichi_80-20,Eh!,3,Eh,2,-1
+TESSERACT,enrichi_80-20,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,enrichi_80-20,Allemande,9,Allemande,9,0
+TESSERACT,enrichi_80-20,Danoise,7,Danoise,7,0
+TESSERACT,enrichi_80-20,Musette,7,Musette,7,0
+TESSERACT,enrichi_80-20,Rodolphe,8,Rodolphe,8,0
+TESSERACT,enrichi_80-20,Danton,6,Danton,6,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Anglaise,8,Anglaise,8,0
+TESSERACT,enrichi_80-20,Waterloo Road,13,Waterloo,8,-5
+TESSERACT,enrichi_80-20,Hollande,8,Hollande,8,0
+TESSERACT,enrichi_80-20,Curé,4,Curé,4,0
+TESSERACT,enrichi_80-20,suisse,6,suisse,6,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,"Boum!
+
+C'",9,Boum,4,-5
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,ter Marguerite,14,Marguerite,10,-4
+TESSERACT,enrichi_80-20,Marguerite,10,Marguerite,10,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Georges,7,Georges,7,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Georgette,9,Georgette,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Georgette,9,Georgette,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Noël,4,Noël,4,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Maïs,4,Maïs,4,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Maman,5,Maman,5,0
+TESSERACT,enrichi_80-20,Maman...,8,Maman,5,-3
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Noël,4,Noël,4,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Pâques,6,Pâques,6,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Cheapside,9,Cheapside,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Ludgate Hill,12,Ludgate,7,-5
+TESSERACT,enrichi_80-20,Waterloo Road,13,Waterloo,8,-5
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Dieu!,5,Dieu,4,-1
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Georges,7,Georges,7,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Dieul...,8,Dieul,5,-3
+TESSERACT,enrichi_80-20,Noël!,5,Noël,4,-1
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Noël,4,Noël,4,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Noël,4,Noël,4,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Noël,4,Noël,4,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Eglise?,7,Eglise,6,-1
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Pitonne,7,Pitonne,7,0
+TESSERACT,enrichi_80-20,Noël,4,Noël,4,0
+TESSERACT,enrichi_80-20,Paternoster,11,Paternoster,11,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Georges,7,Georges,7,0
+TESSERACT,enrichi_80-20,Jour,4,Jour,4,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Casino,6,Casino,6,0
+TESSERACT,enrichi_80-20,Aladin,6,Aladin,6,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Nice,4,Nice,4,0
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Saint-,6,Saint-,6,0
+TESSERACT,enrichi_80-20,Malo,4,Malo,4,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,"Broussaille
+Ma",14,Broussaille,11,-3
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Calypso,7,Calypso,7,0
+TESSERACT,enrichi_80-20,Suisse,6,Suisse,6,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Mie Charlotte,13,Charlotte,9,-4
+TESSERACT,enrichi_80-20,AVIS,4,AVIS,4,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Marguerite,10,Marguerite,10,0
+TESSERACT,enrichi_80-20,Paul,4,Paul,4,0
+TESSERACT,enrichi_80-20,Cusset,6,Cusset,6,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Cottes,6,Cottes,6,0
+TESSERACT,enrichi_80-20,Gaston,6,Gaston,6,0
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Tester,6,Tester,6,0
+TESSERACT,enrichi_80-20,Liberté,7,Liberté,7,0
+TESSERACT,enrichi_80-20,Rome,4,Rome,4,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Remarquez,9,Remarquez,9,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Casino,6,Casino,6,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Restauration,12,Restauration,12,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Ponge,5,Ponge,5,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Molière,7,Molière,7,0
+TESSERACT,enrichi_80-20,M° Putiphar...,14,Putiphar,8,-6
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Paris,5,Paris,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Hein,4,Hein,4,0
+TESSERACT,enrichi_80-20,Opéra,5,Opéra,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Paris,5,Paris,5,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Epinal,6,Epinal,6,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Jolie,5,Jolie,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Dinde,5,Dinde,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,La Dinde,8,Dinde,5,-3
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Messieurs,9,Messieurs,9,0
+TESSERACT,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Renée etje,10,Renée,5,-5
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Mouratet,8,Mouratet,8,0
+TESSERACT,enrichi_80-20,Justice,7,Justice,7,0
+TESSERACT,enrichi_80-20,Jetrouve,8,Jetrouve,8,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Courbassol,10,Courbassol,10,0
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Dalmatie,8,Dalmatie,8,0
+TESSERACT,enrichi_80-20,Dalmatie,8,Dalmatie,8,0
+TESSERACT,enrichi_80-20,Brusr,5,Brusr,5,0
+TESSERACT,enrichi_80-20,"|
+
+Me",5,Me,2,-3
+TESSERACT,enrichi_80-20,Mystère,7,Mystère,7,0
+TESSERACT,enrichi_80-20,Mystère,7,Mystère,7,0
+TESSERACT,enrichi_80-20,Manqueront,10,Manqueront,10,0
+TESSERACT,enrichi_80-20,Dieu!,5,Dieu,4,-1
+TESSERACT,enrichi_80-20,Ohljetedevine,13,Ohljetedevine,13,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,abbé Lamargelle,15,Lamargelle,10,-5
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Teint,5,Teint,5,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Louise,6,Louise,6,0
+TESSERACT,enrichi_80-20,Anglaise,8,Anglaise,8,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Vichy,5,Vichy,5,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Ma mère,7,mère,4,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Delpich!,8,Delpich,7,-1
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,"M"" Delpich",10,Delpich,7,-3
+TESSERACT,enrichi_80-20,"Compromise!
+
+—",14,Compromise,10,-4
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Dieu !,6,Dieu,4,-2
+TESSERACT,enrichi_80-20,"M"" Delpich",10,Delpich,7,-3
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Supposez,8,Supposez,8,0
+TESSERACT,enrichi_80-20,Michelet,8,Michelet,8,0
+TESSERACT,enrichi_80-20,Gereviève,9,Gereviève,9,0
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Me Delpich,10,Delpich,7,-3
+TESSERACT,enrichi_80-20,Londres,7,"Londres
+",8,1
+TESSERACT,enrichi_80-20,Dieu,4,Dieu,4,0
+TESSERACT,enrichi_80-20,Apache,6,Apache,6,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Jene,4,Jene,4,0
+TESSERACT,enrichi_80-20,Royan,5,Royan,5,0
+TESSERACT,enrichi_80-20,Continue !,10,Continue,8,-2
+TESSERACT,enrichi_80-20,Vienne,6,Vienne,6,0
+TESSERACT,enrichi_80-20,Delpich,7,Delpich,7,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Grecs,5,Grecs,5,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,abbé Lamargelle,15,Lamargelle,10,-5
+TESSERACT,enrichi_80-20,Pâme,4,Pâme,4,0
+TESSERACT,enrichi_80-20,mattelen,8,mattelen,8,0
+TESSERACT,enrichi_80-20,Lamargelle,10,Lamargelle,10,0
+TESSERACT,enrichi_80-20,Madaine,7,Madaine,7,0
+TESSERACT,enrichi_80-20,Ilse,4,Ilse,4,0
+TESSERACT,enrichi_80-20,Mä mère,7,mère,4,-3
+TESSERACT,enrichi_80-20,M. Raïdal,9,Raïdal,6,-3
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Mon Dieu,8,Dieu,4,-4
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,M. Randal,9,Randal,6,-3
+TESSERACT,enrichi_80-20,Dieu ra,7,Dieu,4,-3
+TESSERACT,enrichi_80-20,Satan,5,Satan,5,0
+TESSERACT,enrichi_80-20,Paris,5,Paris,5,0
+TESSERACT,enrichi_80-20,la Peur,7,Peur,4,-3
+TESSERACT,enrichi_80-20,Londres,7,Londres,7,0
+TESSERACT,enrichi_80-20,Charlotte,9,Charlotte,9,0
+TESSERACT,enrichi_80-20,Montareuil,10,Montareuil,10,0
+TESSERACT,enrichi_80-20,Revue »,7,Revue,5,-2
+TESSERACT,enrichi_80-20,Margot,6,Margot,6,0
+TESSERACT,enrichi_80-20,Vauvenargues,12,Vauvenargues,12,0
+TESSERACT,enrichi_80-20,Barzot,6,Barzot,6,0
+TESSERACT,enrichi_80-20,Courbassol,10,Courbassol,10,0
+TESSERACT,enrichi_80-20,Malenvers,9,Malenvers,9,0
+TESSERACT,enrichi_80-20,Nothingabout,12,Nothingabout,12,0
+TESSERACT,enrichi_80-20,Monsieur,8,Monsieur,8,0
+TESSERACT,enrichi_80-20,Chambre,7,Chambre,7,0
+TESSERACT,enrichi_80-20,Courbassol,10,Courbassol,10,0
+TESSERACT,enrichi_80-20,Mazas,5,Mazas,5,0
+TESSERACT,enrichi_80-20,Broussaille,11,Broussaille,11,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Canonnier,9,Canonnier,9,0
+TESSERACT,enrichi_80-20,Lafayette,9,Lafayette,9,0
+TESSERACT,enrichi_80-20,Randal,6,Randal,6,0
+TESSERACT,enrichi_80-20,Issacar,7,Issacar,7,0
+TESSERACT,enrichi_80-20,Cayenne,7,Cayenne,7,0
+TESSERACT,enrichi_80-20,Madeleine,9,Madeleine,9,0
+TESSERACT,enrichi_80-20,Lamargelle,10,Lamargelle,10,0
+TESSERACT,enrichi_80-20,Renée,5,Renée,5,0
+TESSERACT,enrichi_80-20,Doctrine,8,Doctrine,8,0
+TESSERACT,enrichi_80-20,Jean-Jacques,12,Jean-Jacques,12,0
+TESSERACT,enrichi_80-20,Jésus,5,Jésus,5,0
+TESSERACT,enrichi_80-20,Christ,6,Christ,6,0
+TESSERACT,enrichi_80-20,Noùrrir,7,Noùrrir,7,0
+TESSERACT,enrichi_80-20,Rappelez-,9,Rappelez-,9,0
+TESSERACT,enrichi_80-20,Individu,8,Individu,8,0
+TESSERACT,enrichi_80-20,l’Individu,10,Individu,8,-2
+TESSERACT,enrichi_80-20,Amour,5,Amour,5,0
+TESSERACT,enrichi_80-20,Haine,5,Haine,5,0
+TESSERACT,enrichi_80-20,Idole,5,Idole,5,0
+TESSERACT,enrichi_80-20,l’Individu,10,Individu,8,-2
+TESSERACT,enrichi_80-20,l’Individu,10,Individu,8,-2

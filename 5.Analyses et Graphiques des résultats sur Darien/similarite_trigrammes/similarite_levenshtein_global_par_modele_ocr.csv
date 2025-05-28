@@ -1,0 +1,13 @@
+modele,ocr,nb_matches,similarite_moyenne_levenshtein
+initial,REF,391,0.9431
+initial,TESSERACT,364,0.9417
+initial,KRAKEN,340,0.9487
+enrichi,REF,1287,0.933
+enrichi,TESSERACT,1339,0.9481
+enrichi,KRAKEN,2136,0.9456
+quaero_fusioné,REF,1059,0.9372
+quaero_fusioné,TESSERACT,1161,0.9479
+quaero_fusioné,KRAKEN,1891,0.9441
+enrichi_80-20,REF,1095,0.9386
+enrichi_80-20,TESSERACT,1080,0.9418
+enrichi_80-20,KRAKEN,1709,0.9445

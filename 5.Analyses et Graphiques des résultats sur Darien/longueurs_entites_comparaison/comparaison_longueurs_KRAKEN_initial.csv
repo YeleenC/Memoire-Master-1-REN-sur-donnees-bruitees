@@ -1,0 +1,348 @@
+OCR,Modèle,Texte_spacy,Longueur_spacy,Texte_modele,Longueur_modele,Différence
+KRAKEN,initial,Msagit,6,Msagit,6,0
+KRAKEN,initial,Bruxelles,9,Bruxelles,9,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Madame,6,Madame,6,0
+KRAKEN,initial,Randal,6,Randal,6,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,M. Randal,9,Randal,6,-3
+KRAKEN,initial,M. Randal,9,Randal,6,-3
+KRAKEN,initial,Randal,6,Randal,6,0
+KRAKEN,initial,Cornes,6,Cornes,6,0
+KRAKEN,initial,Mne,3,Mne,3,0
+KRAKEN,initial,Mdrge,5,Mdrge,5,0
+KRAKEN,initial,M. Randal,9,Randal,6,-3
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Merwcuse,8,Merwcuse,8,0
+KRAKEN,initial,Morts,5,Morts,5,0
+KRAKEN,initial,Gache,5,Gache,5,0
+KRAKEN,initial,Malherbe,8,Malherbe,8,0
+KRAKEN,initial,Mon oncle,9,oncle,5,-4
+KRAKEN,initial,Iaissermnoifaire,16,Iaissermnoifaire,16,0
+KRAKEN,initial,Gereux,6,Gereux,6,0
+KRAKEN,initial,Cohtiendra,10,Cohtiendra,10,0
+KRAKEN,initial,Cllesonne,9,Cllesonne,9,0
+KRAKEN,initial,abbe Eamargelle,15,Eamargelle,10,-5
+KRAKEN,initial,Morts,5,Morts,5,0
+KRAKEN,initial,d Mnesure,9,Mnesure,7,-2
+KRAKEN,initial,Memo-,5,Memo-,5,0
+KRAKEN,initial,A Menteur!,10,Menteur,7,-3
+KRAKEN,initial,Respect,7,Respect,7,0
+KRAKEN,initial,Edouard,7,Edouard,7,0
+KRAKEN,initial,Hme Montarcuil,14,Montarcuil,10,-4
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Gagnerdi,8,Gagnerdi,8,0
+KRAKEN,initial,Margot,6,Margot,6,0
+KRAKEN,initial,Belgiqne,8,Belgiqne,8,0
+KRAKEN,initial,Valeurs,7,Valeurs,7,0
+KRAKEN,initial,Yme Montareuil,14,Montareuil,10,-4
+KRAKEN,initial,Duune,5,Duune,5,0
+KRAKEN,initial,Mdis,4,Mdis,4,0
+KRAKEN,initial,In,2,In,2,0
+KRAKEN,initial,EstCe,5,EstCe,5,0
+KRAKEN,initial,Pardonnemoi,11,Pardonnemoi,11,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Iricane,7,Iricane,7,0
+KRAKEN,initial,auricr,6,auricr,6,0
+KRAKEN,initial,Pcatete,7,Pcatete,7,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Mon Dien,8,Dien,4,-4
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,M. Randal,9,Randal,6,-3
+KRAKEN,initial,M. Randal,9,Randal,6,-3
+KRAKEN,initial,Banques,7,Banques,7,0
+KRAKEN,initial,M. Randal,9,Randal,6,-3
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Estce,5,Estce,5,0
+KRAKEN,initial,Mercure,7,Mercure,7,0
+KRAKEN,initial,Sommies,7,Sommies,7,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Lcher,5,Lcher,5,0
+KRAKEN,initial,Pourld,6,Pourld,6,0
+KRAKEN,initial,Acie Mlincure,13,Mlincure,8,-5
+KRAKEN,initial,Londres,7,Londres,7,0
+KRAKEN,initial,Paul,4,Paul,4,0
+KRAKEN,initial,Ouclle,6,Ouclle,6,0
+KRAKEN,initial,Soilines,8,Soilines,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Mladamne,8,Mladamne,8,0
+KRAKEN,initial,Madame,6,Madame,6,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Russe,5,Russe,5,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,eTu,3,eTu,3,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Madaine,7,Madaine,7,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Flles,5,Flles,5,0
+KRAKEN,initial,Londres,7,Londres,7,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,ld ba5,6,ba5,3,-3
+KRAKEN,initial,Flles,5,Flles,5,0
+KRAKEN,initial,Mentassommants,14,Mentassommants,14,0
+KRAKEN,initial,Lournie,7,Lournie,7,0
+KRAKEN,initial,Mon Dieu,8,Mon,3,-5
+KRAKEN,initial,du Nord,7,Nord,4,-3
+KRAKEN,initial,Rotteur,7,Rotteur,7,0
+KRAKEN,initial,Chapeaul,8,Chapeaul,8,0
+KRAKEN,initial,Yous Apprendra,14,Apprendra,9,-5
+KRAKEN,initial,Londres,7,Londres,7,0
+KRAKEN,initial,Westce,6,Westce,6,0
+KRAKEN,initial,Demdin,6,Demdin,6,0
+KRAKEN,initial,MOl,3,MOl,3,0
+KRAKEN,initial,"Monsicurd
+ ",11,Monsicurd,9,-2
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Loronto,7,Loronto,7,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Continuetil,11,Continuetil,11,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur!,9,Monsieur,8,-1
+KRAKEN,initial,le Monsieur,11,Monsieur,8,-3
+KRAKEN,initial,Msage,5,Msage,5,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,le Monsieur,11,Monsieur,8,-3
+KRAKEN,initial,cher Monsieur,13,Monsieur,8,-5
+KRAKEN,initial,Le Monsieur,11,Monsieur,8,-3
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Gauche,6,Gauche,6,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Ila,3,Ila,3,0
+KRAKEN,initial,Mlerci,6,Mlerci,6,0
+KRAKEN,initial,Mduvais,7,Mduvais,7,0
+KRAKEN,initial,In,2,In,2,0
+KRAKEN,initial,Lalindsco,9,Lalindsco,9,0
+KRAKEN,initial,Mdis,4,Mdis,4,0
+KRAKEN,initial,Souvernementale,15,Souvernementale,15,0
+KRAKEN,initial,Bourgeoisie,11,Bourgeoisie,11,0
+KRAKEN,initial,Estce,5,Estce,5,0
+KRAKEN,initial,cst Maloain,11,Maloain,7,-4
+KRAKEN,initial,Cucou,5,Cucou,5,0
+KRAKEN,initial,Maridge,7,Maridge,7,0
+KRAKEN,initial,Sépatent,9,Sépatent,9,0
+KRAKEN,initial,Mlachin,7,Mlachin,7,0
+KRAKEN,initial,Navarre,7,Navarre,7,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,"Revue
+",6,Revue,5,-1
+KRAKEN,initial,Vatil,5,Vatil,5,0
+KRAKEN,initial,Ratteuses,9,Ratteuses,9,0
+KRAKEN,initial,"Guun
+Monsieur",13,Monsieur,8,-5
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Westce,6,Westce,6,0
+KRAKEN,initial,Maddine Morl,12,Maddine,7,-5
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mourdtet,8,Mourdtet,8,0
+KRAKEN,initial,Foleur,6,Foleur,6,0
+KRAKEN,initial,Mlargot,7,Mlargot,7,0
+KRAKEN,initial,Mlargot,7,Mlargot,7,0
+KRAKEN,initial,Mne,3,Mne,3,0
+KRAKEN,initial,d Malenvers,11,Malenvers,9,-2
+KRAKEN,initial,I Margot,8,Margot,6,-2
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Mlargot,7,Mlargot,7,0
+KRAKEN,initial,Margot,6,Margot,6,0
+KRAKEN,initial,jy,2,jy,2,0
+KRAKEN,initial,Maintenant,10,Maintenant,10,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Lenlement,9,Lenlement,9,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,"i
+Malenvers",11,Malenvers,9,-2
+KRAKEN,initial,Malenvers,9,Malenvers,9,0
+KRAKEN,initial,Malenverstendent,16,Malenverstendent,16,0
+KRAKEN,initial,Lener,5,Lener,5,0
+KRAKEN,initial,Messieurs,9,Messieurs,9,0
+KRAKEN,initial,Lhetelier,9,Lhetelier,9,0
+KRAKEN,initial,iAhl Monsieur,13,Monsieur,8,-5
+KRAKEN,initial,Jerdine,7,Jerdine,7,0
+KRAKEN,initial,Marianne,8,Marianne,8,0
+KRAKEN,initial,Bruxelles,9,Bruxelles,9,0
+KRAKEN,initial,i Gauche,8,Gauche,6,-2
+KRAKEN,initial,Mne,3,Mne,3,0
+KRAKEN,initial,"Col
+Gothd",9,Gothd,5,-4
+KRAKEN,initial,Margot,6,Margot,6,0
+KRAKEN,initial,Margot,6,Margot,6,0
+KRAKEN,initial,Margot,6,Margot,6,0
+KRAKEN,initial,Margot,6,Margot,6,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Machinard,9,Machinard,9,0
+KRAKEN,initial,Marine,6,Marine,6,0
+KRAKEN,initial,Margot,6,Margot,6,0
+KRAKEN,initial,Mlinistre,9,Mlinistre,9,0
+KRAKEN,initial,Etpuis,6,Etpuis,6,0
+KRAKEN,initial,In,2,In,2,0
+KRAKEN,initial,estce,5,estce,5,0
+KRAKEN,initial,Mdis,4,Mdis,4,0
+KRAKEN,initial,Mlademoisclle,13,Mlademoisclle,13,0
+KRAKEN,initial,Mreere,6,Mreere,6,0
+KRAKEN,initial,Mademoisclle,12,Mademoisclle,12,0
+KRAKEN,initial,Mademoiselle,12,Mademoiselle,12,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Mlalheureuscinent,17,Mlalheureuscinent,17,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,lAngleterre,11,lAngleterre,11,0
+KRAKEN,initial,Lameuy,6,Lameuy,6,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Gonncrdis,9,Gonncrdis,9,0
+KRAKEN,initial,Westce,6,Westce,6,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Mernent,7,Mernent,7,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Barzot,6,Barzot,6,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieuy,8,Monsieuy,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Memie,5,Memie,5,0
+KRAKEN,initial,Eprouve,7,Eprouve,7,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Contie,6,Contie,6,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Vousi,5,Vousi,5,0
+KRAKEN,initial,Maintenant,10,Maintenant,10,0
+KRAKEN,initial,Mlais,5,Mlais,5,0
+KRAKEN,initial,Reur,4,Reur,4,0
+KRAKEN,initial,II Eaudra,9,Eaudra,6,-3
+KRAKEN,initial,Venise,6,Venise,6,0
+KRAKEN,initial,Mne,3,Mne,3,0
+KRAKEN,initial,Maclortune,10,Maclortune,10,0
+KRAKEN,initial,Hon lLhomine,12,lLhomine,8,-4
+KRAKEN,initial,estce,5,estce,5,0
+KRAKEN,initial,Etranger-,9,Etranger-,9,0
+KRAKEN,initial,Mnourant,8,Mnourant,8,0
+KRAKEN,initial,Navigation,10,Navigation,10,0
+KRAKEN,initial,"Carl
+nuit",9,Carl,4,-5
+KRAKEN,initial,Mon Bieu,8,Mon,3,-5
+KRAKEN,initial,Ifaut,5,Ifaut,5,0
+KRAKEN,initial,Chapeaul,8,Chapeaul,8,0
+KRAKEN,initial,Broussaille,11,Broussaille,11,0
+KRAKEN,initial,estce,5,estce,5,0
+KRAKEN,initial,Monsieur !,10,Monsieur,8,-2
+KRAKEN,initial,Jendemdin,9,Jendemdin,9,0
+KRAKEN,initial,Estce,5,Estce,5,0
+KRAKEN,initial,Estce,5,Estce,5,0
+KRAKEN,initial,Madame,6,Madame,6,0
+KRAKEN,initial,Mousieur,8,Mousieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Mne,3,Mne,3,0
+KRAKEN,initial,Moiment,7,Moiment,7,0
+KRAKEN,initial,Gerine,6,Gerine,6,0
+KRAKEN,initial,Mon Reveu,9,Reveu,5,-4
+KRAKEN,initial,W'estce,7,estce,5,-2
+KRAKEN,initial,Ila,3,Ila,3,0
+KRAKEN,initial,Cussct,6,Cussct,6,0
+KRAKEN,initial,Margot,6,Margot,6,0
+KRAKEN,initial,"Dormer
+",7,Dormer,6,-1
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Mtadarne,8,Mtadarne,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Gargon,6,Gargon,6,0
+KRAKEN,initial,Egoistes,8,Egoistes,8,0
+KRAKEN,initial,Mi,2,Mi,2,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,M. Randal,9,Randal,6,-3
+KRAKEN,initial,Mdis,4,Mdis,4,0
+KRAKEN,initial,Dieul,5,Dieul,5,0
+KRAKEN,initial,Mdinteuan,9,Mdinteuan,9,0
+KRAKEN,initial,Mon Dieu!,9,Dieu,4,-5
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Restauration,12,Restauration,12,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mourdtet,8,Mourdtet,8,0
+KRAKEN,initial,Mourdtet,8,Mourdtet,8,0
+KRAKEN,initial,Mlourntet,9,Mlourntet,9,0
+KRAKEN,initial,estce,5,estce,5,0
+KRAKEN,initial,Mouratetavecun,14,Mouratetavecun,14,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mne,3,Mne,3,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Marquises,9,Marquises,9,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Monte,5,Monte,5,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Mouratet,8,Mouratet,8,0
+KRAKEN,initial,Margor,6,Margor,6,0
+KRAKEN,initial,Mouton,6,Mouton,6,0
+KRAKEN,initial,Waintenant,10,Waintenant,10,0
+KRAKEN,initial,Mon Dicu,8,Dicu,4,-4
+KRAKEN,initial,Eerire,6,Eerire,6,0
+KRAKEN,initial,Maturclement,12,Maturclement,12,0
+KRAKEN,initial,Bruzelles,9,Bruzelles,9,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Vingtcing dn5,13,Vingtcing,9,-4
+KRAKEN,initial,Mousieur,8,Mousieur,8,0
+KRAKEN,initial,Mi,2,Mi,2,0
+KRAKEN,initial,Monsieur,8,Monsieur,8,0
+KRAKEN,initial,Lemies!,7,Lemies,6,-1
+KRAKEN,initial,"Mon Sauveur
+Tlle",16,Sauveur,7,-9
+KRAKEN,initial,Lantot,6,Lantot,6,0
+KRAKEN,initial,Royan,5,Royan,5,0
+KRAKEN,initial,estce,5,estce,5,0
+KRAKEN,initial,Mt,2,Mt,2,0
+KRAKEN,initial,Nevousmetter,12,Nevousmetter,12,0
+KRAKEN,initial,Mionsieur,9,Mionsieur,9,0
+KRAKEN,initial,Mladaine,8,Mladaine,8,0
+KRAKEN,initial,M. Randal,9,Randal,6,-3
+KRAKEN,initial,Tionne,6,Tionne,6,0
+KRAKEN,initial,Mornents,8,Mornents,8,0
+KRAKEN,initial,Matoi,5,Matoi,5,0
+KRAKEN,initial,Barrot,6,Barrot,6,0
+KRAKEN,initial,Mehsonge,8,Mehsonge,8,0
+KRAKEN,initial,Ceuf,4,Ceuf,4,0
+KRAKEN,initial,Moiquisuis,10,Moiquisuis,10,0
+KRAKEN,initial,Motre,5,Motre,5,0
+KRAKEN,initial,Souverdines,11,Souverdines,11,0

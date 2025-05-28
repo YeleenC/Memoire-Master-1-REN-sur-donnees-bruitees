@@ -1,0 +1,2185 @@
+OCR,Modèle,Texte_spacy,Longueur_spacy,Texte_modele,Longueur_modele,Différence
+KRAKEN,enrichi,Caltica,7,Caltica,7,0
+KRAKEN,enrichi,"Vrau
+Darien",11,Darien,6,-5
+KRAKEN,enrichi,Georges,7,Georges,7,0
+KRAKEN,enrichi,Msagit,6,Msagit,6,0
+KRAKEN,enrichi,Callicd,7,Callicd,7,0
+KRAKEN,enrichi,Callicd,7,Callicd,7,0
+KRAKEN,enrichi,Contacter,9,Contacter,9,0
+KRAKEN,enrichi,STOCK,5,STOCK,5,0
+KRAKEN,enrichi,Aancionne,9,Aancionne,9,0
+KRAKEN,enrichi,Hoivige,7,Hoivige,7,0
+KRAKEN,enrichi,I Yolume,8,Yolume,6,-2
+KRAKEN,enrichi,Birihi,6,Birihi,6,0
+KRAKEN,enrichi,Chrh,4,Chrh,4,0
+KRAKEN,enrichi,Stoch,5,Stoch,5,0
+KRAKEN,enrichi,1a Lecture,10,Lecture,7,-3
+KRAKEN,enrichi,Caisfier,8,Caisfier,8,0
+KRAKEN,enrichi,Delgique,8,Delgique,8,0
+KRAKEN,enrichi,Belsique,8,Belsique,8,0
+KRAKEN,enrichi,Mon Dieu !,10,Dieu,4,-6
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,M. Kandal,9,Kandal,6,-3
+KRAKEN,enrichi,Cicorges,8,Cicorges,8,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Vant,4,Vant,4,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Sourire,7,Sourire,7,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Jugor,5,Jugor,5,0
+KRAKEN,enrichi,Dieu,4,Dieu,4,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Lerestituer,11,Lerestituer,11,0
+KRAKEN,enrichi,Empossible,10,Empossible,10,0
+KRAKEN,enrichi,LLerapsorier,12,LLerapsorier,12,0
+KRAKEN,enrichi,ourde,5,ourde,5,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Messieurs,9,Messieurs,9,0
+KRAKEN,enrichi,Voleur-la,9,Voleur,6,-3
+KRAKEN,enrichi,Voleur,6,Voleur,6,0
+KRAKEN,enrichi,le Voleur,9,Voleur,6,-3
+KRAKEN,enrichi,Retrir,6,Retrir,6,0
+KRAKEN,enrichi,Dentetre,8,Dentetre,8,0
+KRAKEN,enrichi,A Aiits,7,Aiits,5,-2
+KRAKEN,enrichi,IVr,3,IVr,3,0
+KRAKEN,enrichi,Cothmle,7,Cothmle,7,0
+KRAKEN,enrichi,Couclusions,11,Couclusions,11,0
+KRAKEN,enrichi,Mme Dubourg,11,Dubourg,7,-4
+KRAKEN,enrichi,Augustine,9,Augustine,9,0
+KRAKEN,enrichi,JErles,6,JErles,6,0
+KRAKEN,enrichi,Lecure,6,Lecure,6,0
+KRAKEN,enrichi,Cntant,6,Cntant,6,0
+KRAKEN,enrichi,Aurontun,8,Aurontun,8,0
+KRAKEN,enrichi,s. Vont,7,Vont,4,-3
+KRAKEN,enrichi,Jappd-,6,Jappd-,6,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Cornes,6,Cornes,6,0
+KRAKEN,enrichi,Candeur !,9,Candeur,7,-2
+KRAKEN,enrichi,Servi,5,Servi,5,0
+KRAKEN,enrichi,Reurs,5,Reurs,5,0
+KRAKEN,enrichi,Reirs,5,Reirs,5,0
+KRAKEN,enrichi,Grave,5,Grave,5,0
+KRAKEN,enrichi,Cambertd,8,Cambertd,8,0
+KRAKEN,enrichi,Jésuites,9,Jésuites,9,0
+KRAKEN,enrichi,Vois,4,Vois,4,0
+KRAKEN,enrichi,Cammbetta,9,Cammbetta,9,0
+KRAKEN,enrichi,Piens,5,Piens,5,0
+KRAKEN,enrichi,Cambetta,8,Cambetta,8,0
+KRAKEN,enrichi,Dureste,7,Dureste,7,0
+KRAKEN,enrichi,Cammbettd,9,Cammbettd,9,0
+KRAKEN,enrichi,COwrige,7,COwrige,7,0
+KRAKEN,enrichi,Code,4,Code,4,0
+KRAKEN,enrichi,Gier,4,Gier,4,0
+KRAKEN,enrichi,Ali Baba,8,Baba,4,-4
+KRAKEN,enrichi,Régime,7,Régime,7,0
+KRAKEN,enrichi,Code !,6,Code,4,-2
+KRAKEN,enrichi,Mldis,5,Mldis,5,0
+KRAKEN,enrichi,Code,4,Code,4,0
+KRAKEN,enrichi,Mdrge,5,Mdrge,5,0
+KRAKEN,enrichi,M. Dubourg,10,Dubourg,7,-3
+KRAKEN,enrichi,Dubourg,7,Dubourg,7,0
+KRAKEN,enrichi,M. Dubourg,10,Dubourg,7,-3
+KRAKEN,enrichi,Mol,3,Mol,3,0
+KRAKEN,enrichi,Gens,4,Gens,4,0
+KRAKEN,enrichi,Ceoiges,7,Ceoiges,7,0
+KRAKEN,enrichi,M. Dubourg,10,Dubourg,7,-3
+KRAKEN,enrichi,M. Dubourg,10,Dubourg,7,-3
+KRAKEN,enrichi,M. Dubourg,10,Dubourg,7,-3
+KRAKEN,enrichi,Mdis,4,Mdis,4,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,M. Dubourg,10,Dubourg,7,-3
+KRAKEN,enrichi,Merwcuse,8,Merwcuse,8,0
+KRAKEN,enrichi,Code,4,Code,4,0
+KRAKEN,enrichi,Jennesannees,12,Jennesannees,12,0
+KRAKEN,enrichi,Deut Etre I,11,Etre,4,-7
+KRAKEN,enrichi,Lonne,5,Lonne,5,0
+KRAKEN,enrichi,Education,9,Education,9,0
+KRAKEN,enrichi,Me,2,Me,2,0
+KRAKEN,enrichi,Mantiser,8,Mantiser,8,0
+KRAKEN,enrichi,Cipons pa5,10,Cipons,6,-4
+KRAKEN,enrichi,Morts,5,Morts,5,0
+KRAKEN,enrichi,Gache,5,Gache,5,0
+KRAKEN,enrichi,Comnme,6,Comnme,6,0
+KRAKEN,enrichi,Ouest,5,Ouest,5,0
+KRAKEN,enrichi,Catilind,8,Catilind,8,0
+KRAKEN,enrichi,i md Srande,11,Srande,6,-5
+KRAKEN,enrichi,Barbares,8,Barbares,8,0
+KRAKEN,enrichi,Mdis,4,Mdis,4,0
+KRAKEN,enrichi,Raphael,7,Raphael,7,0
+KRAKEN,enrichi,Vatican,7,Vatican,7,0
+KRAKEN,enrichi,Malherbe,8,Malherbe,8,0
+KRAKEN,enrichi,Chakicspeare,12,Chakicspeare,12,0
+KRAKEN,enrichi,i Voltaire,10,Voltaire,8,-2
+KRAKEN,enrichi,Bossuet,7,Bossuet,7,0
+KRAKEN,enrichi,Emnerson,8,Emnerson,8,0
+KRAKEN,enrichi,"Mornes, im",10,Mornes,6,-4
+KRAKEN,enrichi,Marottes,8,Marottes,8,0
+KRAKEN,enrichi,Serrer,6,Serrer,6,0
+KRAKEN,enrichi,Jescrre,7,Jescrre,7,0
+KRAKEN,enrichi,Ratteur,7,Ratteur,7,0
+KRAKEN,enrichi,Bonaparte,9,Bonaparte,9,0
+KRAKEN,enrichi,Sd Ligure J,11,Ligure,6,-5
+KRAKEN,enrichi,Choisis,7,Choisis,7,0
+KRAKEN,enrichi,Mengager,8,Mengager,8,0
+KRAKEN,enrichi,Aussl,5,Aussl,5,0
+KRAKEN,enrichi,Chaussons,9,Chaussons,9,0
+KRAKEN,enrichi,Me Mettrait,11,Mettrait,8,-3
+KRAKEN,enrichi,M. Lssacar,10,Lssacar,7,-3
+KRAKEN,enrichi,M. Issacar,10,Issacar,7,-3
+KRAKEN,enrichi,Sonne,5,Sonne,5,0
+KRAKEN,enrichi,Cntendons,9,Cntendons,9,0
+KRAKEN,enrichi,COsthogonie,11,COsthogonie,11,0
+KRAKEN,enrichi,Ia Mordle,9,Mordle,6,-3
+KRAKEN,enrichi,Conserve,8,Conserve,8,0
+KRAKEN,enrichi,Renreane,8,Renreane,8,0
+KRAKEN,enrichi,Cesoit,6,Cesoit,6,0
+KRAKEN,enrichi,Marche,6,Marche,6,0
+KRAKEN,enrichi,Issacar,7,Issacar,7,0
+KRAKEN,enrichi,Ies,3,Ies,3,0
+KRAKEN,enrichi,Cheveur,7,Cheveur,7,0
+KRAKEN,enrichi,Cohtiendra,10,Cohtiendra,10,0
+KRAKEN,enrichi,Maif,4,Maif,4,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Noits,5,Noits,5,0
+KRAKEN,enrichi,Mon oncle,9,oncle,5,-4
+KRAKEN,enrichi,Luzure,6,Luzure,6,0
+KRAKEN,enrichi,Cllesonne,9,Cllesonne,9,0
+KRAKEN,enrichi,Cage,4,Cage,4,0
+KRAKEN,enrichi,Criminci,8,Criminci,8,0
+KRAKEN,enrichi,Jeur,4,Jeur,4,0
+KRAKEN,enrichi,Sd Cassette,11,Cassette,8,-3
+KRAKEN,enrichi,Commine,7,Commine,7,0
+KRAKEN,enrichi,Iurure,6,Iurure,6,0
+KRAKEN,enrichi,Appliquer,9,Appliquer,9,0
+KRAKEN,enrichi,Pere,4,Pere,4,0
+KRAKEN,enrichi,Joute,5,Joute,5,0
+KRAKEN,enrichi,Sanction,8,Sanction,8,0
+KRAKEN,enrichi,Vantage,7,Vantage,7,0
+KRAKEN,enrichi,Stupide,7,Stupide,7,0
+KRAKEN,enrichi,Jeutil,6,Jeutil,6,0
+KRAKEN,enrichi,Manicurs dor,12,Manicurs,8,-4
+KRAKEN,enrichi,Ceuvres,7,Ceuvres,7,0
+KRAKEN,enrichi,abbe Eamargelle,15,Eamargelle,10,-5
+KRAKEN,enrichi,Crreurs,7,Crreurs,7,0
+KRAKEN,enrichi,Morts,5,Morts,5,0
+KRAKEN,enrichi,Cuments,7,Cuments,7,0
+KRAKEN,enrichi,d Mnesure,9,Mnesure,7,-2
+KRAKEN,enrichi,Jaunis,6,Jaunis,6,0
+KRAKEN,enrichi,Md Gestion,10,Gestion,7,-3
+KRAKEN,enrichi,Etat,4,Etat,4,0
+KRAKEN,enrichi,A Menteur!,10,Menteur,7,-3
+KRAKEN,enrichi,Ructuations,11,Ructuations,11,0
+KRAKEN,enrichi,peutè̂tre,10,peutè̂tre,10,0
+KRAKEN,enrichi,Metstoi d md,12,Metstoi,7,-5
+KRAKEN,enrichi,Bourse,6,Bourse,6,0
+KRAKEN,enrichi,Banque,6,Banque,6,0
+KRAKEN,enrichi,"sd
+Mature",9,Mature,6,-3
+KRAKEN,enrichi,Mon oncle,9,oncle,5,-4
+KRAKEN,enrichi,Respect,7,Respect,7,0
+KRAKEN,enrichi,Etablies,8,Etablies,8,0
+KRAKEN,enrichi,Montesquieu,11,Montesquieu,11,0
+KRAKEN,enrichi,Ga,2,Ga,2,0
+KRAKEN,enrichi,Respect,7,Respect,7,0
+KRAKEN,enrichi,Viendras,8,Viendras,8,0
+KRAKEN,enrichi,Montarenil,10,Montarenil,10,0
+KRAKEN,enrichi,Mme Montareuil,14,Montareuil,10,-4
+KRAKEN,enrichi,Charinante,10,Charinante,10,0
+KRAKEN,enrichi,Charlorte,9,Charlorte,9,0
+KRAKEN,enrichi,Marguerite,10,Marguerite,10,0
+KRAKEN,enrichi,Hme Montarcuil,14,Montarcuil,10,-4
+KRAKEN,enrichi,Mtme Mlontarenil,16,Mlontarenil,11,-5
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Muid,4,Muid,4,0
+KRAKEN,enrichi,Mtme,4,Mtme,4,0
+KRAKEN,enrichi,Gooie,5,Gooie,5,0
+KRAKEN,enrichi,Bel,3,Bel,3,0
+KRAKEN,enrichi,Bruvelles,9,Bruvelles,9,0
+KRAKEN,enrichi,Marguerite,10,Marguerite,10,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Ehlbicn,7,Ehlbicn,7,0
+KRAKEN,enrichi,Margoi,6,Margoi,6,0
+KRAKEN,enrichi,Belgiqne,8,Belgiqne,8,0
+KRAKEN,enrichi,Mme Montareuil,14,Montareuil,10,-4
+KRAKEN,enrichi,Coinine,7,Coinine,7,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Valeurs,7,Valeurs,7,0
+KRAKEN,enrichi,Desbalayeursontdonne,20,Desbalayeursontdonne,20,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Mme Montareuil,14,Montareuil,10,-4
+KRAKEN,enrichi,Mtme,4,Mtme,4,0
+KRAKEN,enrichi,Montarenil,10,Montarenil,10,0
+KRAKEN,enrichi,Vsurier,7,Vsurier,7,0
+KRAKEN,enrichi,Gros,4,Gros,4,0
+KRAKEN,enrichi,Digestion,9,Digestion,9,0
+KRAKEN,enrichi,Mme Montareuil,14,Montareuil,10,-4
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte I,11,Charlotte,9,-2
+KRAKEN,enrichi,Yme Montareuil,14,Montareuil,10,-4
+KRAKEN,enrichi,Flle,4,Flle,4,0
+KRAKEN,enrichi,Duune,5,Duune,5,0
+KRAKEN,enrichi,Leparucher,10,Leparucher,10,0
+KRAKEN,enrichi,la Seine,8,Seine,5,-3
+KRAKEN,enrichi,Mfine,5,Mfine,5,0
+KRAKEN,enrichi,Gnements,8,Gnements,8,0
+KRAKEN,enrichi,Est,3,Est,3,0
+KRAKEN,enrichi,Chabirude,9,Chabirude,9,0
+KRAKEN,enrichi,Caste,5,Caste,5,0
+KRAKEN,enrichi,Oirestce,8,Oirestce,8,0
+KRAKEN,enrichi,bou Dicul,9,Dicul,5,-4
+KRAKEN,enrichi,Calmner,7,Calmner,7,0
+KRAKEN,enrichi,Mon,3,Mon,3,0
+KRAKEN,enrichi,ferd Oppo,9,Oppo,4,-5
+KRAKEN,enrichi,sd Montre,9,Montre,6,-3
+KRAKEN,enrichi,Ecoute,6,Ecoute,6,0
+KRAKEN,enrichi,Ft Charlotte,12,Charlotte,9,-3
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Glace,5,Glace,5,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Cerveau,7,Cerveau,7,0
+KRAKEN,enrichi,Vindi,5,Vindi,5,0
+KRAKEN,enrichi,Snation,7,Snation,7,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Genouy,6,Genouy,6,0
+KRAKEN,enrichi,Mou,3,Mou,3,0
+KRAKEN,enrichi,Comnine,7,Comnine,7,0
+KRAKEN,enrichi,Vant,4,Vant,4,0
+KRAKEN,enrichi,Tenue,5,Tenue,5,0
+KRAKEN,enrichi,Mlle,4,Mlle,4,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Emotion,7,Emotion,7,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Edouaril,8,Edouaril,8,0
+KRAKEN,enrichi,"pos
+Sible",9,Sible,5,-4
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,"ilde
+Senti",10,Senti,5,-5
+KRAKEN,enrichi,Mon oncle,9,oncle,5,-4
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Lencr,5,Lencr,5,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Mariant,7,Mariant,7,0
+KRAKEN,enrichi,Comporter,9,Comporter,9,0
+KRAKEN,enrichi,Serer,5,Serer,5,0
+KRAKEN,enrichi,Cliarlotte,10,Cliarlotte,10,0
+KRAKEN,enrichi,Ertoi,5,Ertoi,5,0
+KRAKEN,enrichi,Nere,4,Nere,4,0
+KRAKEN,enrichi,Ceorges !,9,Ceorges,7,-2
+KRAKEN,enrichi,Irappe,6,Irappe,6,0
+KRAKEN,enrichi,Moe Montareuil,14,Montareuil,10,-4
+KRAKEN,enrichi,Elance,6,Elance,6,0
+KRAKEN,enrichi,Sympd,5,Sympd,5,0
+KRAKEN,enrichi,Celd,4,Celd,4,0
+KRAKEN,enrichi,"Vd
+Gabondant",12,Gabondant,9,-3
+KRAKEN,enrichi,Cetteloi,8,Cetteloi,8,0
+KRAKEN,enrichi,Sendarmes,9,Sendarmes,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Spoliation,10,Spoliation,10,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Morte,5,Morte,5,0
+KRAKEN,enrichi,Vdten,5,Vdten,5,0
+KRAKEN,enrichi,Vatenl,6,Vatenl,6,0
+KRAKEN,enrichi,Crois,5,Crois,5,0
+KRAKEN,enrichi,Word,4,Word,4,0
+KRAKEN,enrichi,Bruvelles,9,Bruvelles,9,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Htue Charlotte,14,Charlotte,9,-5
+KRAKEN,enrichi,Charinante,10,Charinante,10,0
+KRAKEN,enrichi,Geant,5,Geant,5,0
+KRAKEN,enrichi,"Che
+monsieur",12,monsieur,8,-4
+KRAKEN,enrichi,Thouette,8,Thouette,8,0
+KRAKEN,enrichi,Societé,8,Societé,8,0
+KRAKEN,enrichi,"cn
+Marche",9,Marche,6,-3
+KRAKEN,enrichi,Mautes,6,Mautes,6,0
+KRAKEN,enrichi,Comune,6,Comune,6,0
+KRAKEN,enrichi,Accapd,6,Accapd,6,0
+KRAKEN,enrichi,Cambrioleur,11,Cambrioleur,11,0
+KRAKEN,enrichi,Croc,4,Croc,4,0
+KRAKEN,enrichi,Code,4,Code,4,0
+KRAKEN,enrichi,Legenre,7,Legenre,7,0
+KRAKEN,enrichi,Jesus,5,Jesus,5,0
+KRAKEN,enrichi,Reurs,5,Reurs,5,0
+KRAKEN,enrichi,Reur,4,Reur,4,0
+KRAKEN,enrichi,Cesont,6,Cesont,6,0
+KRAKEN,enrichi,"Ce
+Sujet",8,Sujet,5,-3
+KRAKEN,enrichi,Centaine,8,Centaine,8,0
+KRAKEN,enrichi,Code,4,Code,4,0
+KRAKEN,enrichi,Aerne,5,Aerne,5,0
+KRAKEN,enrichi,Anonyine,8,Anonyine,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Vant,4,Vant,4,0
+KRAKEN,enrichi,"Mo-
+Mopoliser",13,Mopoliser,9,-4
+KRAKEN,enrichi,Mtopistes,9,Mtopistes,9,0
+KRAKEN,enrichi,Nold,4,Nold,4,0
+KRAKEN,enrichi,Beul,4,Beul,4,0
+KRAKEN,enrichi,VIndividu,9,VIndividu,9,0
+KRAKEN,enrichi,Wumanic,7,Wumanic,7,0
+KRAKEN,enrichi,Ccorde,6,Ccorde,6,0
+KRAKEN,enrichi,Societé,8,Societé,8,0
+KRAKEN,enrichi,Comlne,6,Comlne,6,0
+KRAKEN,enrichi,Carlyle,7,Carlyle,7,0
+KRAKEN,enrichi,Charmo,6,Charmo,6,0
+KRAKEN,enrichi,Europe,6,Europe,6,0
+KRAKEN,enrichi,Leciel,6,Leciel,6,0
+KRAKEN,enrichi,Cerespect,9,Cerespect,9,0
+KRAKEN,enrichi,Iricane,7,Iricane,7,0
+KRAKEN,enrichi,A Gunne,7,Gunne,5,-2
+KRAKEN,enrichi,Bourse,6,Bourse,6,0
+KRAKEN,enrichi,Liser laen,10,Liser,5,-5
+KRAKEN,enrichi,Compen,6,Compen,6,0
+KRAKEN,enrichi,Méanmoins,10,Méanmoins,10,0
+KRAKEN,enrichi,Chiens,6,Chiens,6,0
+KRAKEN,enrichi,Croquerie,9,Croquerie,9,0
+KRAKEN,enrichi,Jusquici,8,Jusquici,8,0
+KRAKEN,enrichi,Souvener,8,Souvener,8,0
+KRAKEN,enrichi,Legenre,7,Legenre,7,0
+KRAKEN,enrichi,Gaie,4,Gaie,4,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,Cinporter,9,Cinporter,9,0
+KRAKEN,enrichi,Bruzelles,9,Bruzelles,9,0
+KRAKEN,enrichi,Convaincues,11,Convaincues,11,0
+KRAKEN,enrichi,Reuries,7,Reuries,7,0
+KRAKEN,enrichi,Clairs,6,Clairs,6,0
+KRAKEN,enrichi,A Notrei,8,Notrei,6,-2
+KRAKEN,enrichi,Belges,6,Belges,6,0
+KRAKEN,enrichi,Suisse,6,Suisse,6,0
+KRAKEN,enrichi,Bourse,6,Bourse,6,0
+KRAKEN,enrichi,Rurions,7,Rurions,7,0
+KRAKEN,enrichi,Journal,7,Journal,7,0
+KRAKEN,enrichi,Ranc,4,Ranc,4,0
+KRAKEN,enrichi,Issacar,7,Issacar,7,0
+KRAKEN,enrichi,SAnS Tache,10,Tache,5,-5
+KRAKEN,enrichi,Veldsquer,9,Veldsquer,9,0
+KRAKEN,enrichi,Cruels,6,Cruels,6,0
+KRAKEN,enrichi,Chaisc,6,Chaisc,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,M. Lssacar,10,Lssacar,7,-3
+KRAKEN,enrichi,Mon Dien,8,Dien,4,-4
+KRAKEN,enrichi,Mton Dieu !,11,Dieu,4,-7
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Arouer,6,Arouer,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Assurer,7,Assurer,7,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Caucase,7,Caucase,7,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Chpostes,8,Chpostes,8,0
+KRAKEN,enrichi,Monsicur!,9,Monsicur,8,-1
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Reureusemnent,13,Reureusemnent,13,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Manufacturier,13,Manufacturier,13,0
+KRAKEN,enrichi,Mest,4,Mest,4,0
+KRAKEN,enrichi,Issacar,7,Issacar,7,0
+KRAKEN,enrichi,Banques,7,Banques,7,0
+KRAKEN,enrichi,Celd,4,Celd,4,0
+KRAKEN,enrichi,Belgique,8,Belgique,8,0
+KRAKEN,enrichi,Banques,7,Banques,7,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Isacar,6,Isacar,6,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Austriel,8,Austriel,8,0
+KRAKEN,enrichi,Darbroek,8,Darbroek,8,0
+KRAKEN,enrichi,Chante,6,Chante,6,0
+KRAKEN,enrichi,Essacar,7,Essacar,7,0
+KRAKEN,enrichi,Sentiments,10,Sentiments,10,0
+KRAKEN,enrichi,"E
+ Comine",9,Comine,6,-3
+KRAKEN,enrichi,Ranclle,7,Ranclle,7,0
+KRAKEN,enrichi,Le Chien,8,Chien,5,-3
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Vule,4,Vule,4,0
+KRAKEN,enrichi,Darbrock,8,Darbrock,8,0
+KRAKEN,enrichi,Biuzelles,9,Biuzelles,9,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Rogetld,7,Rogetld,7,0
+KRAKEN,enrichi,Couches,7,Couches,7,0
+KRAKEN,enrichi,Crois,5,Crois,5,0
+KRAKEN,enrichi,Scignements,11,Scignements,11,0
+KRAKEN,enrichi,Issacar,7,Issacar,7,0
+KRAKEN,enrichi,Dection,7,Dection,7,0
+KRAKEN,enrichi,Rair,4,Rair,4,0
+KRAKEN,enrichi,Louc,4,Louc,4,0
+KRAKEN,enrichi,Corninencer,11,Corninencer,11,0
+KRAKEN,enrichi,Liens,5,Liens,5,0
+KRAKEN,enrichi,Reurs,5,Reurs,5,0
+KRAKEN,enrichi,Rotte,5,Rotte,5,0
+KRAKEN,enrichi,Corinenedit,11,Corinenedit,11,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,Commer,6,Commer,6,0
+KRAKEN,enrichi,Lgurdi,6,Lgurdi,6,0
+KRAKEN,enrichi,Couvent,7,Couvent,7,0
+KRAKEN,enrichi,Aujourdhu,9,Aujourdhu,9,0
+KRAKEN,enrichi,Thorieur,8,Thorieur,8,0
+KRAKEN,enrichi,lEtat,5,lEtat,5,0
+KRAKEN,enrichi,Chasse Cs,9,Chasse,6,-3
+KRAKEN,enrichi,u Louvre,8,Louvre,6,-2
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Commandant,10,Commandant,10,0
+KRAKEN,enrichi,Cetettet,8,Cetettet,8,0
+KRAKEN,enrichi,Ventive,7,Ventive,7,0
+KRAKEN,enrichi,Glaises,7,Glaises,7,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Mdl,3,Mdl,3,0
+KRAKEN,enrichi,Etcette,7,Etcette,7,0
+KRAKEN,enrichi,Chanoine,8,Chanoine,8,0
+KRAKEN,enrichi,Crucikr,7,Crucikr,7,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Broussdille,11,Broussdille,11,0
+KRAKEN,enrichi,Alheure,7,Alheure,7,0
+KRAKEN,enrichi,Cestle,6,Cestle,6,0
+KRAKEN,enrichi,Chaussons,9,Chaussons,9,0
+KRAKEN,enrichi,Cendre,6,Cendre,6,0
+KRAKEN,enrichi,Montons,7,Montons,7,0
+KRAKEN,enrichi,Chammbre,8,Chammbre,8,0
+KRAKEN,enrichi,Cnjambe,7,Cnjambe,7,0
+KRAKEN,enrichi,Gauche,6,Gauche,6,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Liens,5,Liens,5,0
+KRAKEN,enrichi,Estce,5,Estce,5,0
+KRAKEN,enrichi,Candur,6,Candur,6,0
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Mercure,7,Mercure,7,0
+KRAKEN,enrichi,Gammne,6,Gammne,6,0
+KRAKEN,enrichi,Ctammpounons,12,Ctammpounons,12,0
+KRAKEN,enrichi,Vimiter,7,Vimiter,7,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Serrure,7,Serrure,7,0
+KRAKEN,enrichi,Serrure,7,Serrure,7,0
+KRAKEN,enrichi,Qui Sourit,10,Sourit,6,-4
+KRAKEN,enrichi,Delpich,7,Delpich,7,0
+KRAKEN,enrichi,Chaufons,8,Chaufons,8,0
+KRAKEN,enrichi,Savoi,5,Savoi,5,0
+KRAKEN,enrichi,Cottre,6,Cottre,6,0
+KRAKEN,enrichi,Enlin,5,Enlin,5,0
+KRAKEN,enrichi,Kgure,5,Kgure,5,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,SOnnette,8,SOnnette,8,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Mne Ailumetre,13,Ailumetre,9,-4
+KRAKEN,enrichi,Mlaintenant,11,Mlaintenant,11,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Cemo,4,Cemo,4,0
+KRAKEN,enrichi,Enkin,5,Enkin,5,0
+KRAKEN,enrichi,Verrons,7,Verrons,7,0
+KRAKEN,enrichi,Dendre,6,Dendre,6,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Couchette,9,Couchette,9,0
+KRAKEN,enrichi,Candlarro,9,Candlarro,9,0
+KRAKEN,enrichi,Bourges,7,Bourges,7,0
+KRAKEN,enrichi,Chatedurouz,11,Chatedurouz,11,0
+KRAKEN,enrichi,Confreres,9,Confreres,9,0
+KRAKEN,enrichi,Chapitre,8,Chapitre,8,0
+KRAKEN,enrichi,Bourse,6,Bourse,6,0
+KRAKEN,enrichi,Centimle,8,Centimle,8,0
+KRAKEN,enrichi,"S2
+Complaisance",15,Complaisance,12,-3
+KRAKEN,enrichi,i Nation,8,Nation,6,-2
+KRAKEN,enrichi,Bourse,6,Bourse,6,0
+KRAKEN,enrichi,Roster,6,Roster,6,0
+KRAKEN,enrichi,Montons,7,Montons,7,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Paternosterse,13,Paternosterse,13,0
+KRAKEN,enrichi,CChante,7,CChante,7,0
+KRAKEN,enrichi,Continue,8,Continue,8,0
+KRAKEN,enrichi,Sa45 Couleur,12,Couleur,7,-5
+KRAKEN,enrichi,Gros,4,Gros,4,0
+KRAKEN,enrichi,Kgure,5,Kgure,5,0
+KRAKEN,enrichi,Bruzelles,9,Bruzelles,9,0
+KRAKEN,enrichi,Conndisser pa5,14,Conndisser,10,-4
+KRAKEN,enrichi,Paternoster,11,Paternoster,11,0
+KRAKEN,enrichi,Rent,4,Rent,4,0
+KRAKEN,enrichi,Belge,5,Belge,5,0
+KRAKEN,enrichi,Erats,5,Erats,5,0
+KRAKEN,enrichi,Voild,5,Voild,5,0
+KRAKEN,enrichi,Auxmdins,8,Auxmdins,8,0
+KRAKEN,enrichi,Credit,6,Credit,6,0
+KRAKEN,enrichi,Etat,4,Etat,4,0
+KRAKEN,enrichi,Changeront,10,Changeront,10,0
+KRAKEN,enrichi,Perse,5,Perse,5,0
+KRAKEN,enrichi,le Japon,8,Japon,5,-3
+KRAKEN,enrichi,la Chine,8,Chine,5,-3
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Choisit,7,Choisit,7,0
+KRAKEN,enrichi,Jaunes,6,Jaunes,6,0
+KRAKEN,enrichi,Nominatives,11,Nominatives,11,0
+KRAKEN,enrichi,Vageou,6,Vageou,6,0
+KRAKEN,enrichi,Acie Mlincure,13,Mlincure,8,-5
+KRAKEN,enrichi,Assure,6,Assure,6,0
+KRAKEN,enrichi,Paternoster,11,Paternoster,11,0
+KRAKEN,enrichi,Ia Chdine,9,Chdine,6,-3
+KRAKEN,enrichi,Messieurs,9,Messieurs,9,0
+KRAKEN,enrichi,Renie,5,Renie,5,0
+KRAKEN,enrichi,Valeurs in,10,Valeurs,7,-3
+KRAKEN,enrichi,Patet-,6,Patet-,6,0
+KRAKEN,enrichi,AUront,6,AUront,6,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Paternoster,11,Paternoster,11,0
+KRAKEN,enrichi,Dieu !,6,Dieu,4,-2
+KRAKEN,enrichi,Laussc,6,Laussc,6,0
+KRAKEN,enrichi,Paternoster,11,Paternoster,11,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Crapule,7,Crapule,7,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Lecab hle,9,Lecab,5,-4
+KRAKEN,enrichi,Piccd,5,Piccd,5,0
+KRAKEN,enrichi,Kensington,10,Kensington,10,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Broussaille 2,13,Broussaille,11,-2
+KRAKEN,enrichi,i Roger,7,Roger,5,-2
+KRAKEN,enrichi,Jesais,6,Jesais,6,0
+KRAKEN,enrichi,Retedisque Ga,13,Retedisque,10,-3
+KRAKEN,enrichi,Seloignant,10,Seloignant,10,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Annoncer,8,Annoncer,8,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Soinines,8,Soinines,8,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,"Monsieurd
+ ",11,Monsieurd,9,-2
+KRAKEN,enrichi,Broussdille,11,Broussdille,11,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Court,5,Court,5,0
+KRAKEN,enrichi,Compardisons,12,Compardisons,12,0
+KRAKEN,enrichi,Saille,6,Saille,6,0
+KRAKEN,enrichi,Masse,5,Masse,5,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,Mature,6,Mature,6,0
+KRAKEN,enrichi,Comhne,6,Comhne,6,0
+KRAKEN,enrichi,Hensington,10,Hensington,10,0
+KRAKEN,enrichi,Brous- i,8,Brous-,6,-2
+KRAKEN,enrichi,Juit,4,Juit,4,0
+KRAKEN,enrichi,le Juit,7,Juit,4,-3
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Ertu,4,Ertu,4,0
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Juif,4,Juif,4,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Etla Justice,12,Justice,7,-5
+KRAKEN,enrichi,Gepangre,8,Gepangre,8,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Gislateurs,10,Gislateurs,10,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Conclusion,10,Conclusion,10,0
+KRAKEN,enrichi,Aiminue,7,Aiminue,7,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Gosses,6,Gosses,6,0
+KRAKEN,enrichi,Mancuvres,9,Mancuvres,9,0
+KRAKEN,enrichi,aVorteuse,9,aVorteuse,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Canon,5,Canon,5,0
+KRAKEN,enrichi,Rier,4,Rier,4,0
+KRAKEN,enrichi,Cazenne,7,Cazenne,7,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Suisse,6,Suisse,6,0
+KRAKEN,enrichi,"Randald
+ ",9,Randald,7,-2
+KRAKEN,enrichi,la Ville,8,Ville,5,-3
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Roger Id,8,Roger,5,-3
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Vains,5,Vains,5,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Camarade,8,Camarade,8,0
+KRAKEN,enrichi,Paul,4,Paul,4,0
+KRAKEN,enrichi,Broussdille,11,Broussdille,11,0
+KRAKEN,enrichi,Craindre,8,Craindre,8,0
+KRAKEN,enrichi,Ccsont,6,Ccsont,6,0
+KRAKEN,enrichi,Bois,4,Bois,4,0
+KRAKEN,enrichi,Capoul,6,Capoul,6,0
+KRAKEN,enrichi,Voleurs,7,Voleurs,7,0
+KRAKEN,enrichi,Nure,4,Nure,4,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,d. IAd,6,IAd,3,-3
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,AVance,6,AVance,6,0
+KRAKEN,enrichi,Mon oncle,9,oncle,5,-4
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Renec,5,Renec,5,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Acropole,8,Acropole,8,0
+KRAKEN,enrichi,Bouguereau,10,Bouguereau,10,0
+KRAKEN,enrichi,Bouguereau,10,Bouguereau,10,0
+KRAKEN,enrichi,Bret,4,Bret,4,0
+KRAKEN,enrichi,Rence,5,Rence,5,0
+KRAKEN,enrichi,Stupide,7,Stupide,7,0
+KRAKEN,enrichi,Reur,4,Reur,4,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Mladamne,8,Mladamne,8,0
+KRAKEN,enrichi,Confesieur,10,Confesieur,10,0
+KRAKEN,enrichi,Enorine,7,Enorine,7,0
+KRAKEN,enrichi,Maris Ga,8,Maris,5,-3
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Clle,4,Clle,4,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Russe,5,Russe,5,0
+KRAKEN,enrichi,Russe,5,Russe,5,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Ecouier,7,Ecouier,7,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Madaine,7,Madaine,7,0
+KRAKEN,enrichi,Cauchemnars,11,Cauchemnars,11,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Coinme,6,Coinme,6,0
+KRAKEN,enrichi,IAd,3,IAd,3,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Charmant,8,Charmant,8,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Cxcellentes,11,Cxcellentes,11,0
+KRAKEN,enrichi,Roget-,6,Roget-,6,0
+KRAKEN,enrichi,Lonte,5,Lonte,5,0
+KRAKEN,enrichi,Camndrades,10,Camndrades,10,0
+KRAKEN,enrichi,Bailly,6,Bailly,6,0
+KRAKEN,enrichi,Renee,5,Renee,5,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,Contine nn,10,Contine,7,-3
+KRAKEN,enrichi,Vaille,6,Vaille,6,0
+KRAKEN,enrichi,Rogerlaflonte,13,Rogerlaflonte,13,0
+KRAKEN,enrichi,Belgique,8,Belgique,8,0
+KRAKEN,enrichi,Suicse,6,Suicse,6,0
+KRAKEN,enrichi,Commnun,7,Commnun,7,0
+KRAKEN,enrichi,Vouldis,7,Vouldis,7,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Mldis,5,Mldis,5,0
+KRAKEN,enrichi,Caux,4,Caux,4,0
+KRAKEN,enrichi,Cetle,5,Cetle,5,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Occupation,10,Occupation,10,0
+KRAKEN,enrichi,Anglaise,8,Anglaise,8,0
+KRAKEN,enrichi,"Maladresse
+",11,Maladresse,10,-1
+KRAKEN,enrichi,Centrale,8,Centrale,8,0
+KRAKEN,enrichi,Dianes,6,Dianes,6,0
+KRAKEN,enrichi,Settes,6,Settes,6,0
+KRAKEN,enrichi,Mentassommants,14,Mentassommants,14,0
+KRAKEN,enrichi,Sseiee,6,Sseiee,6,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Thonneur,8,Thonneur,8,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Ceraitil,8,Ceraitil,8,0
+KRAKEN,enrichi,Gine,4,Gine,4,0
+KRAKEN,enrichi,Coinine,7,Coinine,7,0
+KRAKEN,enrichi,Mangue,6,Mangue,6,0
+KRAKEN,enrichi,Belgi,5,Belgi,5,0
+KRAKEN,enrichi,Cettematheureuse,16,Cettematheureuse,16,0
+KRAKEN,enrichi,Montareuil,10,Montareuil,10,0
+KRAKEN,enrichi,Cher Mlonsicur,14,Mlonsicur,9,-5
+KRAKEN,enrichi,Naturelle,9,Naturelle,9,0
+KRAKEN,enrichi,Lables,6,Lables,6,0
+KRAKEN,enrichi,Sirer,5,Sirer,5,0
+KRAKEN,enrichi,Croyer,6,Croyer,6,0
+KRAKEN,enrichi,Mon Dieu,8,Dieu,4,-4
+KRAKEN,enrichi,Eglise,6,Eglise,6,0
+KRAKEN,enrichi,Roi,3,Roi,3,0
+KRAKEN,enrichi,Cairot,6,Cairot,6,0
+KRAKEN,enrichi,Mdmnours,8,Mdmnours,8,0
+KRAKEN,enrichi,Reinords,8,Reinords,8,0
+KRAKEN,enrichi,Sois,4,Sois,4,0
+KRAKEN,enrichi,Code...,7,Code,4,-3
+KRAKEN,enrichi,Jadis,5,Jadis,5,0
+KRAKEN,enrichi,du Nord,7,Nord,4,-3
+KRAKEN,enrichi,Vincendie,9,Vincendie,9,0
+KRAKEN,enrichi,Rotteur,7,Rotteur,7,0
+KRAKEN,enrichi,Come,4,Come,4,0
+KRAKEN,enrichi,Lenetre,7,Lenetre,7,0
+KRAKEN,enrichi,Chapeaul,8,Chapeaul,8,0
+KRAKEN,enrichi,Surproduc,9,Surproduc,9,0
+KRAKEN,enrichi,Etquantaux,10,Etquantaux,10,0
+KRAKEN,enrichi,Encllet,7,Encllet,7,0
+KRAKEN,enrichi,Yous Apprendra,14,Apprendra,9,-5
+KRAKEN,enrichi,"An-
+Glaises",11,Glaises,7,-4
+KRAKEN,enrichi,Lener,5,Lener,5,0
+KRAKEN,enrichi,Mon Dicu,8,Dicu,4,-4
+KRAKEN,enrichi,Barder,6,Barder,6,0
+KRAKEN,enrichi,Westce,6,Westce,6,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Douloureur,10,Douloureur,10,0
+KRAKEN,enrichi,Siques,6,Siques,6,0
+KRAKEN,enrichi,Cages,5,Cages,5,0
+KRAKEN,enrichi,Demdin,6,Demdin,6,0
+KRAKEN,enrichi,Bourse,6,Bourse,6,0
+KRAKEN,enrichi,Aussid,6,Aussid,6,0
+KRAKEN,enrichi,Citoyens,8,Citoyens,8,0
+KRAKEN,enrichi,Bourse,6,Bourse,6,0
+KRAKEN,enrichi,Matoi,5,Matoi,5,0
+KRAKEN,enrichi,Rottes,6,Rottes,6,0
+KRAKEN,enrichi,ct Gesticulent,14,Gesticulent,11,-3
+KRAKEN,enrichi,Connditre,9,Connditre,9,0
+KRAKEN,enrichi,Crimindliste,12,Crimindliste,12,0
+KRAKEN,enrichi,la Voix,7,Voix,4,-3
+KRAKEN,enrichi,Code,4,Code,4,0
+KRAKEN,enrichi,Reuri,5,Reuri,5,0
+KRAKEN,enrichi,Cchaine,7,Cchaine,7,0
+KRAKEN,enrichi,Chapednl,8,Chapednl,8,0
+KRAKEN,enrichi,i Aront,7,Aront,5,-2
+KRAKEN,enrichi,MOl,3,MOl,3,0
+KRAKEN,enrichi,"Monsicurd
+ ",11,Monsicurd,9,-2
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Boulogne,8,Boulogne,8,0
+KRAKEN,enrichi,Boulogne,8,Boulogne,8,0
+KRAKEN,enrichi,Jesuis,6,Jesuis,6,0
+KRAKEN,enrichi,Washington,10,Washington,10,0
+KRAKEN,enrichi,Mlonsicur,9,Mlonsicur,9,0
+KRAKEN,enrichi,Ratteur,7,Ratteur,7,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Jesuis,6,Jesuis,6,0
+KRAKEN,enrichi,Connn,5,Connn,5,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Coin,4,Coin,4,0
+KRAKEN,enrichi,Continuetil,11,Continuetil,11,0
+KRAKEN,enrichi,Monsiceur,9,Monsiceur,9,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Viande,6,Viande,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Chambre,7,Chambre,7,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,"Ahce
+Serdit",11,Serdit,6,-5
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Ceu,3,Ceu,3,0
+KRAKEN,enrichi,Caution,7,Caution,7,0
+KRAKEN,enrichi,Nemcnt,6,Nemcnt,6,0
+KRAKEN,enrichi,dux Colonies,12,Colonies,8,-4
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur!,9,Monsieur,8,-1
+KRAKEN,enrichi,Momieu,6,Momieu,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsicur!,9,Monsicur,8,-1
+KRAKEN,enrichi,"nn
+Jarilin",10,Jarilin,7,-3
+KRAKEN,enrichi,le Monsieur,11,Monsieur,8,-3
+KRAKEN,enrichi,Msage,5,Msage,5,0
+KRAKEN,enrichi,Resoit,6,Resoit,6,0
+KRAKEN,enrichi,Centre,6,Centre,6,0
+KRAKEN,enrichi,Vetre,5,Vetre,5,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Croyer,6,Croyer,6,0
+KRAKEN,enrichi,le Monsieur,11,Monsieur,8,-3
+KRAKEN,enrichi,Queiques,8,Queiques,8,0
+KRAKEN,enrichi,Etencore!,9,Etencore,8,-1
+KRAKEN,enrichi,cher Monsieur,13,Monsieur,8,-5
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Le Monsieur,11,Monsieur,8,-3
+KRAKEN,enrichi,Mauvdis,7,Mauvdis,7,0
+KRAKEN,enrichi,ga2,3,ga2,3,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Continuetil,11,Continuetil,11,0
+KRAKEN,enrichi,Suisse,6,Suisse,6,0
+KRAKEN,enrichi,Guart,5,Guart,5,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Ga,2,Ga,2,0
+KRAKEN,enrichi,Gauche,6,Gauche,6,0
+KRAKEN,enrichi,"Mi
+Mieca",8,Mieca,5,-3
+KRAKEN,enrichi,1d Nature,9,Nature,6,-3
+KRAKEN,enrichi,Vertn,5,Vertn,5,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Gauche,6,Gauche,6,0
+KRAKEN,enrichi,Louis ZV1,9,Louis,5,-4
+KRAKEN,enrichi,Reuri,5,Reuri,5,0
+KRAKEN,enrichi,Comume,6,Comume,6,0
+KRAKEN,enrichi,Beaconskield,12,Beaconskield,12,0
+KRAKEN,enrichi,Vandale,7,Vandale,7,0
+KRAKEN,enrichi,Gauche,6,Gauche,6,0
+KRAKEN,enrichi,Gauche,6,Gauche,6,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Aujourdhui,10,Aujourdhui,10,0
+KRAKEN,enrichi,Chasse,6,Chasse,6,0
+KRAKEN,enrichi,Coure,5,Coure,5,0
+KRAKEN,enrichi,Condamnne,9,Condamnne,9,0
+KRAKEN,enrichi,Bonne,5,Bonne,5,0
+KRAKEN,enrichi,Mlerci,6,Mlerci,6,0
+KRAKEN,enrichi,Marchan,7,Marchan,7,0
+KRAKEN,enrichi,Sonne,5,Sonne,5,0
+KRAKEN,enrichi,Clectordle D,12,Clectordle,10,-2
+KRAKEN,enrichi,Rarl Wary,9,Rarl,4,-5
+KRAKEN,enrichi,Capital,7,Capital,7,0
+KRAKEN,enrichi,Gustre,6,Gustre,6,0
+KRAKEN,enrichi,Calme,5,Calme,5,0
+KRAKEN,enrichi,Malhcureux,10,Malhcureux,10,0
+KRAKEN,enrichi,Croyer,6,Croyer,6,0
+KRAKEN,enrichi,"Nementd
+ Hon",12,Nementd,7,-5
+KRAKEN,enrichi,Mduvais,7,Mduvais,7,0
+KRAKEN,enrichi,Rouen,5,Rouen,5,0
+KRAKEN,enrichi,Wssont,6,Wssont,6,0
+KRAKEN,enrichi,Balon,5,Balon,5,0
+KRAKEN,enrichi,Cher Balon,10,Balon,5,-5
+KRAKEN,enrichi,Balon,5,Balon,5,0
+KRAKEN,enrichi,Balom,5,Balom,5,0
+KRAKEN,enrichi,Cuvre,5,Cuvre,5,0
+KRAKEN,enrichi,"282
+Noncer",10,Noncer,6,-4
+KRAKEN,enrichi,Come,4,Come,4,0
+KRAKEN,enrichi,Balon,5,Balon,5,0
+KRAKEN,enrichi,Salsikis,8,Salsikis,8,0
+KRAKEN,enrichi,Balon,5,Balon,5,0
+KRAKEN,enrichi,Balon,5,Balon,5,0
+KRAKEN,enrichi,Vantage,7,Vantage,7,0
+KRAKEN,enrichi,Balon,5,Balon,5,0
+KRAKEN,enrichi,Colomb,6,Colomb,6,0
+KRAKEN,enrichi,Colle,5,Colle,5,0
+KRAKEN,enrichi,Peplus,6,Peplus,6,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,Marche,6,Marche,6,0
+KRAKEN,enrichi,AMarchistes,11,AMarchistes,11,0
+KRAKEN,enrichi,Balon,5,Balon,5,0
+KRAKEN,enrichi,Mordl,5,Mordl,5,0
+KRAKEN,enrichi,Mdis,4,Mdis,4,0
+KRAKEN,enrichi,Culs,4,Culs,4,0
+KRAKEN,enrichi,Souvener,8,Souvener,8,0
+KRAKEN,enrichi,Savoir,6,Savoir,6,0
+KRAKEN,enrichi,Enkin,5,Enkin,5,0
+KRAKEN,enrichi,Balon,5,Balon,5,0
+KRAKEN,enrichi,Riens,5,Riens,5,0
+KRAKEN,enrichi,Lalmasco,8,Lalmasco,8,0
+KRAKEN,enrichi,Ouvrir,6,Ouvrir,6,0
+KRAKEN,enrichi,Hme Lalmasco,12,Lalmasco,8,-4
+KRAKEN,enrichi,Cnlre Rous,10,Cnlre,5,-5
+KRAKEN,enrichi,Chercherd,9,Chercherd,9,0
+KRAKEN,enrichi,Mine,4,Mine,4,0
+KRAKEN,enrichi,Cesont,6,Cesont,6,0
+KRAKEN,enrichi,Celd,4,Celd,4,0
+KRAKEN,enrichi,Lalmasco,8,Lalmasco,8,0
+KRAKEN,enrichi,Clet,4,Clet,4,0
+KRAKEN,enrichi,Laltmasco,9,Laltmasco,9,0
+KRAKEN,enrichi,Mdis,4,Mdis,4,0
+KRAKEN,enrichi,Vidole,6,Vidole,6,0
+KRAKEN,enrichi,Ouart Erat,10,Ouart,5,-5
+KRAKEN,enrichi,Cominuns,8,Cominuns,8,0
+KRAKEN,enrichi,Gasins,6,Gasins,6,0
+KRAKEN,enrichi,Ia Révolu-,11,Révolu-,8,-3
+KRAKEN,enrichi,Rambeau,7,Rambeau,7,0
+KRAKEN,enrichi,Bakounine,9,Bakounine,9,0
+KRAKEN,enrichi,Cyniques,8,Cyniques,8,0
+KRAKEN,enrichi,IIndividu,9,IIndividu,9,0
+KRAKEN,enrichi,Corruptions,11,Corruptions,11,0
+KRAKEN,enrichi,Remental,8,Remental,8,0
+KRAKEN,enrichi,Auraitsalue,11,Auraitsalue,11,0
+KRAKEN,enrichi,Ccrtes,6,Ccrtes,6,0
+KRAKEN,enrichi,Dieu,4,Dieu,4,0
+KRAKEN,enrichi,Bourgeoisie,11,Bourgeoisie,11,0
+KRAKEN,enrichi,Estce,5,Estce,5,0
+KRAKEN,enrichi,Ida Continue,12,Continue,8,-4
+KRAKEN,enrichi,Vinten,6,Vinten,6,0
+KRAKEN,enrichi,Duis,4,Duis,4,0
+KRAKEN,enrichi,Condamne !,10,Condamne,8,-2
+KRAKEN,enrichi,Aamnne AUIY,11,Aamnne,6,-5
+KRAKEN,enrichi,Pari Mutuel,11,Mutuel,6,-5
+KRAKEN,enrichi,Cucou,5,Cucou,5,0
+KRAKEN,enrichi,Cayenne,7,Cayenne,7,0
+KRAKEN,enrichi,Nouvelle,8,Nouvelle,8,0
+KRAKEN,enrichi,Dauphin,7,Dauphin,7,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,"Dien
+Senl",9,Dien,4,-5
+KRAKEN,enrichi,Soupconne,9,Soupconne,9,0
+KRAKEN,enrichi,"Hew-
+Jork",9,Jork,4,-5
+KRAKEN,enrichi,Cequine,7,Cequine,7,0
+KRAKEN,enrichi,Vvingtaine,10,Vvingtaine,10,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Maridge,7,Maridge,7,0
+KRAKEN,enrichi,Canonmier,9,Canonmier,9,0
+KRAKEN,enrichi,Son Service,11,Service,7,-4
+KRAKEN,enrichi,Gens!,5,Gens,4,-1
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Yeuy,4,Yeuy,4,0
+KRAKEN,enrichi,Souge,5,Souge,5,0
+KRAKEN,enrichi,Mondains,8,Mondains,8,0
+KRAKEN,enrichi,Journauz,8,Journauz,8,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Noire,5,Noire,5,0
+KRAKEN,enrichi,Seine,5,Seine,5,0
+KRAKEN,enrichi,Mlachin,7,Mlachin,7,0
+KRAKEN,enrichi,Criminaliste,12,Criminaliste,12,0
+KRAKEN,enrichi,Baluts,6,Baluts,6,0
+KRAKEN,enrichi,Revue,5,Revue,5,0
+KRAKEN,enrichi,Vant,4,Vant,4,0
+KRAKEN,enrichi,Memre,5,Memre,5,0
+KRAKEN,enrichi,Navarre,7,Navarre,7,0
+KRAKEN,enrichi,Sages,5,Sages,5,0
+KRAKEN,enrichi,Revne,5,Revne,5,0
+KRAKEN,enrichi,Montareuil,10,Montareuil,10,0
+KRAKEN,enrichi,Concours,8,Concours,8,0
+KRAKEN,enrichi,Naller,6,Naller,6,0
+KRAKEN,enrichi,Revrie,6,Revrie,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Lombroso,8,Lombroso,8,0
+KRAKEN,enrichi,Connditre,9,Connditre,9,0
+KRAKEN,enrichi,"Vous
+Voudrier",13,Voudrier,8,-5
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Voleur,6,Voleur,6,0
+KRAKEN,enrichi,Montareuil,10,Montareuil,10,0
+KRAKEN,enrichi,Reuve,5,Reuve,5,0
+KRAKEN,enrichi,Neuve,5,Neuve,5,0
+KRAKEN,enrichi,Mldis,5,Mldis,5,0
+KRAKEN,enrichi,Rerne,5,Rerne,5,0
+KRAKEN,enrichi,Montareuil,10,Montareuil,10,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Correspon,9,Correspon,9,0
+KRAKEN,enrichi,"Revue
+",6,Revue,5,-1
+KRAKEN,enrichi,Comine Sym-,11,Comine,6,-5
+KRAKEN,enrichi,Pentetre,8,Pentetre,8,0
+KRAKEN,enrichi,voiy Ruviales,13,Ruviales,8,-5
+KRAKEN,enrichi,Jy,2,Jy,2,0
+KRAKEN,enrichi,Cntye,5,Cntye,5,0
+KRAKEN,enrichi,Belges,6,Belges,6,0
+KRAKEN,enrichi,Suisse,6,Suisse,6,0
+KRAKEN,enrichi,Emitons,7,Emitons,7,0
+KRAKEN,enrichi,Lombroso,8,Lombroso,8,0
+KRAKEN,enrichi,Ratteuses,9,Ratteuses,9,0
+KRAKEN,enrichi,"Guun
+Monsieur",13,Monsieur,8,-5
+KRAKEN,enrichi,Direction,9,Direction,9,0
+KRAKEN,enrichi,Oucing,6,Oucing,6,0
+KRAKEN,enrichi,Piques,6,Piques,6,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Rendissance,11,Rendissance,11,0
+KRAKEN,enrichi,Galeries,8,Galeries,8,0
+KRAKEN,enrichi,Congues,7,Congues,7,0
+KRAKEN,enrichi,Cirque,6,Cirque,6,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Mon Dien,8,Dien,4,-4
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monmari,7,Monmari,7,0
+KRAKEN,enrichi,Rence,5,Rence,5,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Gaie,4,Gaie,4,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Rence,5,Rence,5,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Jenne dide,10,Jenne,5,-5
+KRAKEN,enrichi,Ranques,7,Ranques,7,0
+KRAKEN,enrichi,Josaphat,8,Josaphat,8,0
+KRAKEN,enrichi,Causant,7,Causant,7,0
+KRAKEN,enrichi,Westce,6,Westce,6,0
+KRAKEN,enrichi,Nne,3,Nne,3,0
+KRAKEN,enrichi,Maddine Morl,12,Maddine,7,-5
+KRAKEN,enrichi,Cier,4,Cier,4,0
+KRAKEN,enrichi,Morcedul,8,Morcedul,8,0
+KRAKEN,enrichi,Charine,7,Charine,7,0
+KRAKEN,enrichi,Parisienne,10,Parisienne,10,0
+KRAKEN,enrichi,Strauss,7,Strauss,7,0
+KRAKEN,enrichi,Lemain,6,Lemain,6,0
+KRAKEN,enrichi,Lener,5,Lener,5,0
+KRAKEN,enrichi,b25,3,b25,3,0
+KRAKEN,enrichi,Pentetre,8,Pentetre,8,0
+KRAKEN,enrichi,Directeur,9,Directeur,9,0
+KRAKEN,enrichi,Le Peuple,9,Peuple,6,-3
+KRAKEN,enrichi,Citoyens !,10,Citoyens,8,-2
+KRAKEN,enrichi,Egure,5,Egure,5,0
+KRAKEN,enrichi,Mourdtet,8,Mourdtet,8,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Crcuse,6,Crcuse,6,0
+KRAKEN,enrichi,Mourdtet,8,Mourdtet,8,0
+KRAKEN,enrichi,Le benékice,12,benékice,9,-3
+KRAKEN,enrichi,Renee,5,Renee,5,0
+KRAKEN,enrichi,Foleur,6,Foleur,6,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Mlargot,7,Mlargot,7,0
+KRAKEN,enrichi,Wlarquerite,11,Wlarquerite,11,0
+KRAKEN,enrichi,Chamlbre de,11,Chamlbre,8,-3
+KRAKEN,enrichi,Mlargot,7,Mlargot,7,0
+KRAKEN,enrichi,Est,3,Est,3,0
+KRAKEN,enrichi,Mne,3,Mne,3,0
+KRAKEN,enrichi,"Margue
+tite",11,Margue,6,-5
+KRAKEN,enrichi,Htme Montarenil,15,Montarenil,10,-5
+KRAKEN,enrichi,Dieu,4,Dieu,4,0
+KRAKEN,enrichi,Courbdssol,10,Courbdssol,10,0
+KRAKEN,enrichi,Mlaleuvers,10,Mlaleuvers,10,0
+KRAKEN,enrichi,Jixai,5,Jixai,5,0
+KRAKEN,enrichi,Slis,4,Slis,4,0
+KRAKEN,enrichi,Vancouleurs I,13,Vancouleurs,11,-2
+KRAKEN,enrichi,Htoc Montarenil,15,Montarenil,10,-5
+KRAKEN,enrichi,"Machi
+mard",10,Machi,5,-5
+KRAKEN,enrichi,Malenvers!,10,Malenvers,9,-1
+KRAKEN,enrichi,d Malenvers,11,Malenvers,9,-2
+KRAKEN,enrichi,Gare,4,Gare,4,0
+KRAKEN,enrichi,Gare,4,Gare,4,0
+KRAKEN,enrichi,Courbassolal,12,Courbassolal,12,0
+KRAKEN,enrichi,Mlarseillaise,13,Mlarseillaise,13,0
+KRAKEN,enrichi,Courbassol,10,Courbassol,10,0
+KRAKEN,enrichi,Messicurs!,10,Messicurs,9,-1
+KRAKEN,enrichi,I Margot,8,Margot,6,-2
+KRAKEN,enrichi,la Marseillaise,15,Marseillaise,12,-3
+KRAKEN,enrichi,Case,4,Case,4,0
+KRAKEN,enrichi,on Sinstalle,12,Sinstalle,9,-3
+KRAKEN,enrichi,Sd Kgure,8,Kgure,5,-3
+KRAKEN,enrichi,lHsypre,7,lHsypre,7,0
+KRAKEN,enrichi,Secouer,7,Secouer,7,0
+KRAKEN,enrichi,Chambre,7,Chambre,7,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Srande,6,Srande,6,0
+KRAKEN,enrichi,Ccla,4,Ccla,4,0
+KRAKEN,enrichi,Gauche,6,Gauche,6,0
+KRAKEN,enrichi,Mlargot,7,Mlargot,7,0
+KRAKEN,enrichi,Cnre,4,Cnre,4,0
+KRAKEN,enrichi,Sros,4,Sros,4,0
+KRAKEN,enrichi,Cattes,6,Cattes,6,0
+KRAKEN,enrichi,Clairs,6,Clairs,6,0
+KRAKEN,enrichi,Tlalle,6,Tlalle,6,0
+KRAKEN,enrichi,Jarrive,7,Jarrive,7,0
+KRAKEN,enrichi,Garni,5,Garni,5,0
+KRAKEN,enrichi,Tenter Ga,9,Tenter,6,-3
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Tapprocher,10,Tapprocher,10,0
+KRAKEN,enrichi,Dieul,5,Dieul,5,0
+KRAKEN,enrichi,Ceu,3,Ceu,3,0
+KRAKEN,enrichi,Annette,7,Annette,7,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Annette,7,Annette,7,0
+KRAKEN,enrichi,Thotelier,9,Thotelier,9,0
+KRAKEN,enrichi,Annette,7,Annette,7,0
+KRAKEN,enrichi,Jerome,6,Jerome,6,0
+KRAKEN,enrichi,Annetre,7,Annetre,7,0
+KRAKEN,enrichi,Cheveus,7,Cheveus,7,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Canonnierl C',13,Canonnierl,10,-3
+KRAKEN,enrichi,Canonnier....,13,Canonnier,9,-4
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Teuse,5,Teuse,5,0
+KRAKEN,enrichi,Cadavres,8,Cadavres,8,0
+KRAKEN,enrichi,Comprendre,10,Comprendre,10,0
+KRAKEN,enrichi,Maraire,7,Maraire,7,0
+KRAKEN,enrichi,Malenvers,9,Malenvers,9,0
+KRAKEN,enrichi,Unc Occasicn,12,Occasicn,8,-4
+KRAKEN,enrichi,Dureste,7,Dureste,7,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Thotel,6,Thotel,6,0
+KRAKEN,enrichi,Charmant!,9,Charmant,8,-1
+KRAKEN,enrichi,Lebureaul,9,Lebureaul,9,0
+KRAKEN,enrichi,Canonier,8,Canonier,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Continuetil,11,Continuetil,11,0
+KRAKEN,enrichi,Edison,6,Edison,6,0
+KRAKEN,enrichi,Chammbre,8,Chammbre,8,0
+KRAKEN,enrichi,Son Chapeaul,12,Chapeaul,8,-4
+KRAKEN,enrichi,Des Valeurs,11,Valeurs,7,-4
+KRAKEN,enrichi,"i
+Malenvers",11,Malenvers,9,-2
+KRAKEN,enrichi,Paternoster,11,Paternoster,11,0
+KRAKEN,enrichi,Mur,3,Mur,3,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Raire,5,Raire,5,0
+KRAKEN,enrichi,Tiens,5,Tiens,5,0
+KRAKEN,enrichi,Marette,7,Marette,7,0
+KRAKEN,enrichi,Canonnier el,12,Canonnier,9,-3
+KRAKEN,enrichi,Versld,6,Versld,6,0
+KRAKEN,enrichi,Chicago,7,Chicago,7,0
+KRAKEN,enrichi,Rammes,6,Rammes,6,0
+KRAKEN,enrichi,Ouon,4,Ouon,4,0
+KRAKEN,enrichi,Chicago,7,Chicago,7,0
+KRAKEN,enrichi,Europe,6,Europe,6,0
+KRAKEN,enrichi,Joute,5,Joute,5,0
+KRAKEN,enrichi,Courage,7,Courage,7,0
+KRAKEN,enrichi,Carrouscl,9,Carrouscl,9,0
+KRAKEN,enrichi,Cambettd,8,Cambettd,8,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Lemple,6,Lemple,6,0
+KRAKEN,enrichi,Malenvers,9,Malenvers,9,0
+KRAKEN,enrichi,Gousins,7,Gousins,7,0
+KRAKEN,enrichi,"Jes
+Citoyens",12,Citoyens,8,-4
+KRAKEN,enrichi,Courbdssol,10,Courbdssol,10,0
+KRAKEN,enrichi,Varle,5,Varle,5,0
+KRAKEN,enrichi,Sa Loure :,10,Loure,5,-5
+KRAKEN,enrichi,Courbascol,10,Courbascol,10,0
+KRAKEN,enrichi,Bertrarid,9,Bertrarid,9,0
+KRAKEN,enrichi,Monotone,8,Monotone,8,0
+KRAKEN,enrichi,Ceuvre,6,Ceuvre,6,0
+KRAKEN,enrichi,Maire,5,Maire,5,0
+KRAKEN,enrichi,Citoyens,8,Citoyens,8,0
+KRAKEN,enrichi,Chambre,7,Chambre,7,0
+KRAKEN,enrichi,Enrope,6,Enrope,6,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Ouyatild,8,Ouyatild,8,0
+KRAKEN,enrichi,Courbissol,10,Courbissol,10,0
+KRAKEN,enrichi,Machinard,9,Machinard,9,0
+KRAKEN,enrichi,Lener,5,Lener,5,0
+KRAKEN,enrichi,Messieurs,9,Messieurs,9,0
+KRAKEN,enrichi,Thotelier,9,Thotelier,9,0
+KRAKEN,enrichi,Courbassold,11,Courbassold,11,0
+KRAKEN,enrichi,Mlargot,7,Mlargot,7,0
+KRAKEN,enrichi,Lhetelier,9,Lhetelier,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,iAhl Monsieur,13,Monsieur,8,-5
+KRAKEN,enrichi,Chambre,7,Chambre,7,0
+KRAKEN,enrichi,Epouvantable I,14,Epouvantable,12,-2
+KRAKEN,enrichi,Jerdine,7,Jerdine,7,0
+KRAKEN,enrichi,M. Courbasedl,13,Courbasedl,10,-3
+KRAKEN,enrichi,Annette,7,Annette,7,0
+KRAKEN,enrichi,Margor,6,Margor,6,0
+KRAKEN,enrichi,Duestce,7,Duestce,7,0
+KRAKEN,enrichi,Vhetel,6,Vhetel,6,0
+KRAKEN,enrichi,Carrousel,9,Carrousel,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Marianne,8,Marianne,8,0
+KRAKEN,enrichi,Canon,5,Canon,5,0
+KRAKEN,enrichi,"Fi
+Mances",9,Mances,6,-3
+KRAKEN,enrichi,Canou,5,Canou,5,0
+KRAKEN,enrichi,Cotet,5,Cotet,5,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Abord,5,Abord,5,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Cruindre,8,Cruindre,8,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,i Gauche,8,Gauche,6,-2
+KRAKEN,enrichi,Rezavec,7,Rezavec,7,0
+KRAKEN,enrichi,Notre diSC,10,Notre,5,-5
+KRAKEN,enrichi,Essacar,7,Essacar,7,0
+KRAKEN,enrichi,Essacar,7,Essacar,7,0
+KRAKEN,enrichi,Maissant,8,Maissant,8,0
+KRAKEN,enrichi,Jens,4,Jens,4,0
+KRAKEN,enrichi,Vintamie,8,Vintamie,8,0
+KRAKEN,enrichi,Mlicuz,6,Mlicuz,6,0
+KRAKEN,enrichi,Spinord,7,Spinord,7,0
+KRAKEN,enrichi,Spui,4,Spui,4,0
+KRAKEN,enrichi,Jorsquon,8,Jorsquon,8,0
+KRAKEN,enrichi,le Ranc,7,Ranc,4,-3
+KRAKEN,enrichi,"Col
+Gothd",9,Gothd,5,-4
+KRAKEN,enrichi,Ies,3,Ies,3,0
+KRAKEN,enrichi,Dersonnel,9,Dersonnel,9,0
+KRAKEN,enrichi,Etat,4,Etat,4,0
+KRAKEN,enrichi,Juil,4,Juil,4,0
+KRAKEN,enrichi,Mord,4,Mord,4,0
+KRAKEN,enrichi,Bruzelles,9,Bruzelles,9,0
+KRAKEN,enrichi,Catnions,8,Catnions,8,0
+KRAKEN,enrichi,Bienl,5,Bienl,5,0
+KRAKEN,enrichi,Me Croiser,10,Croiser,7,-3
+KRAKEN,enrichi,Jesuis,6,Jesuis,6,0
+KRAKEN,enrichi,ter Margot,10,Margot,6,-4
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Crec,4,Crec,4,0
+KRAKEN,enrichi,Mlargot,7,Mlargot,7,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Jelesdis,8,Jelesdis,8,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Main,4,Main,4,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Chambre,7,Chambre,7,0
+KRAKEN,enrichi,Machinard,9,Machinard,9,0
+KRAKEN,enrichi,Réponds,8,Réponds,8,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Mtachinard,10,Mtachinard,10,0
+KRAKEN,enrichi,Justice,7,Justice,7,0
+KRAKEN,enrichi,Marine,6,Marine,6,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Etpuis,6,Etpuis,6,0
+KRAKEN,enrichi,Mlinistre,9,Mlinistre,9,0
+KRAKEN,enrichi,Justice !,9,Justice,7,-2
+KRAKEN,enrichi,Justice,7,Justice,7,0
+KRAKEN,enrichi,Courbdssols,11,Courbdssols,11,0
+KRAKEN,enrichi,Vesul,5,Vesul,5,0
+KRAKEN,enrichi,Cont,4,Cont,4,0
+KRAKEN,enrichi,Vimbiber,8,Vimbiber,8,0
+KRAKEN,enrichi,Veny,4,Veny,4,0
+KRAKEN,enrichi,Caracterise,11,Caracterise,11,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Lematin,7,Lematin,7,0
+KRAKEN,enrichi,Etpuis,6,Etpuis,6,0
+KRAKEN,enrichi,W. Canonnier,12,Canonnier,9,-3
+KRAKEN,enrichi,i Jene,6,Jene,4,-2
+KRAKEN,enrichi,Lausse,6,Lausse,6,0
+KRAKEN,enrichi,Enlin,5,Enlin,5,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Lues,4,Lues,4,0
+KRAKEN,enrichi,"lAngt.
+",7,lAngt,5,-2
+KRAKEN,enrichi,Celd,4,Celd,4,0
+KRAKEN,enrichi,cn Saul,7,Saul,4,-3
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Llelene,7,Llelene,7,0
+KRAKEN,enrichi,Clair,5,Clair,5,0
+KRAKEN,enrichi,Vante,5,Vante,5,0
+KRAKEN,enrichi,Viniquire,9,Viniquire,9,0
+KRAKEN,enrichi,Cheveur,7,Cheveur,7,0
+KRAKEN,enrichi,Relene,6,Relene,6,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Bieppe,6,Bieppe,6,0
+KRAKEN,enrichi,Dinard,6,Dinard,6,0
+KRAKEN,enrichi,Wice,4,Wice,4,0
+KRAKEN,enrichi,Mont Dore,9,Mont,4,-5
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Marchant vite,13,Marchant,8,-5
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Suisse,6,Suisse,6,0
+KRAKEN,enrichi,Alsacelorraine,14,Alsacelorraine,14,0
+KRAKEN,enrichi,Dologne,7,Dologne,7,0
+KRAKEN,enrichi,Revrie,6,Revrie,6,0
+KRAKEN,enrichi,Ld Klep,7,Klep,4,-3
+KRAKEN,enrichi,Made,4,Made,4,0
+KRAKEN,enrichi,Main,4,Main,4,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Gournee,7,Gournee,7,0
+KRAKEN,enrichi,Grimace,7,Grimace,7,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,MeNT,4,MeNT,4,0
+KRAKEN,enrichi,Rervosite,9,Rervosite,9,0
+KRAKEN,enrichi,Soine,5,Soine,5,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Mon Dieu!,9,Dieu,4,-5
+KRAKEN,enrichi,Mdis,4,Mdis,4,0
+KRAKEN,enrichi,Mlademoisclle,13,Mlademoisclle,13,0
+KRAKEN,enrichi,Mreere,6,Mreere,6,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Meueidiacut,11,Meueidiacut,11,0
+KRAKEN,enrichi,dir Canonnier,13,Canonnier,9,-4
+KRAKEN,enrichi,Vargent,7,Vargent,7,0
+KRAKEN,enrichi,Randdl,6,Randdl,6,0
+KRAKEN,enrichi,Mademoiselle,12,Mademoiselle,12,0
+KRAKEN,enrichi,Main Gauche,11,Gauche,6,-5
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Gaaie,5,Gaaie,5,0
+KRAKEN,enrichi,Leme,4,Leme,4,0
+KRAKEN,enrichi,Cayenne,7,Cayenne,7,0
+KRAKEN,enrichi,Mademoisclle,12,Mademoisclle,12,0
+KRAKEN,enrichi,Mlademoisclle,13,Mlademoisclle,13,0
+KRAKEN,enrichi,Jeur,4,Jeur,4,0
+KRAKEN,enrichi,Mademoiselle,12,Mademoiselle,12,0
+KRAKEN,enrichi,Laveur,6,Laveur,6,0
+KRAKEN,enrichi,Moment,6,Moment,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Mademoiselle,12,Mademoiselle,12,0
+KRAKEN,enrichi,Croyer,6,Croyer,6,0
+KRAKEN,enrichi,Md Chdisc,9,Chdisc,6,-3
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Tegefiaciae,11,Tegefiaciae,11,0
+KRAKEN,enrichi,Barrord,7,Barrord,7,0
+KRAKEN,enrichi,Cour,4,Cour,4,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Connditre,9,Connditre,9,0
+KRAKEN,enrichi,Banque,6,Banque,6,0
+KRAKEN,enrichi,Luis,4,Luis,4,0
+KRAKEN,enrichi,Choiel,6,Choiel,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Comine Cest,11,Comine,6,-5
+KRAKEN,enrichi,Dureste,7,Dureste,7,0
+KRAKEN,enrichi,Monde,5,Monde,5,0
+KRAKEN,enrichi,Mlalheureuscinent,17,Mlalheureuscinent,17,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,p2s Grandchose,14,Grandchose,10,-4
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Chapean,7,Chapean,7,0
+KRAKEN,enrichi,Mari,4,Mari,4,0
+KRAKEN,enrichi,Lonliin,7,Lonliin,7,0
+KRAKEN,enrichi,Shivra,6,Shivra,6,0
+KRAKEN,enrichi,Messieurs vout,14,Messieurs,9,-5
+KRAKEN,enrichi,M. Canonnier,12,Canonnier,9,-3
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,md Course,9,Course,6,-3
+KRAKEN,enrichi,Vacil,5,Vacil,5,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Duestce,7,Duestce,7,0
+KRAKEN,enrichi,Cst,3,Cst,3,0
+KRAKEN,enrichi,"Arri
+Vant",9,Vant,4,-5
+KRAKEN,enrichi,Lameuy,6,Lameuy,6,0
+KRAKEN,enrichi,Ixelles,7,Ixelles,7,0
+KRAKEN,enrichi,rue Clementine,14,Clementine,10,-4
+KRAKEN,enrichi,Anglaise,8,Anglaise,8,0
+KRAKEN,enrichi,Anglaise,8,Anglaise,8,0
+KRAKEN,enrichi,Cher clle,9,Cher,4,-5
+KRAKEN,enrichi,"Me Coupes mn
+",13,Coupes,6,-7
+KRAKEN,enrichi,Courant,7,Courant,7,0
+KRAKEN,enrichi,"Md
+Main",7,Main,4,-3
+KRAKEN,enrichi,Bois,4,Bois,4,0
+KRAKEN,enrichi,Luseront,8,Luseront,8,0
+KRAKEN,enrichi,"Bay-
+Totl",9,Totl,4,-5
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Corps,5,Corps,5,0
+KRAKEN,enrichi,Remarquez,9,Remarquez,9,0
+KRAKEN,enrichi,Meme Barrot,11,Barrot,6,-5
+KRAKEN,enrichi,Celd,4,Celd,4,0
+KRAKEN,enrichi,Chanter,7,Chanter,7,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,IIfaut,6,IIfaut,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Relène,7,Relène,7,0
+KRAKEN,enrichi,Anglaise,8,Anglaise,8,0
+KRAKEN,enrichi,Alelene,7,Alelene,7,0
+KRAKEN,enrichi,i Roger,7,Roger,5,-2
+KRAKEN,enrichi,Gauche,6,Gauche,6,0
+KRAKEN,enrichi,Lcouter,7,Lcouter,7,0
+KRAKEN,enrichi,Coutalheure,11,Coutalheure,11,0
+KRAKEN,enrichi,"Me
+Denser",9,Denser,6,-3
+KRAKEN,enrichi,Voleur,6,Voleur,6,0
+KRAKEN,enrichi,Anglaise,8,Anglaise,8,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Bruzelles,9,Bruzelles,9,0
+KRAKEN,enrichi,Louvain,7,Louvain,7,0
+KRAKEN,enrichi,Ftmeine,7,Ftmeine,7,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Licns,5,Licns,5,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Diable !,8,Diable,6,-2
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,M. Randdl,9,Randdl,6,-3
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Maisons,7,Maisons,7,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Mte Canonnier,13,Canonnier,9,-4
+KRAKEN,enrichi,M. Canonnier,12,Canonnier,9,-3
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,M. Canonnier,12,Canonnier,9,-3
+KRAKEN,enrichi,Barzot,6,Barzot,6,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,M. Canonnier,12,Canonnier,9,-3
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Monsieuy,8,Monsieuy,8,0
+KRAKEN,enrichi,Continuetil,11,Continuetil,11,0
+KRAKEN,enrichi,Jestime,7,Jestime,7,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Mensonge,8,Mensonge,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Justice,7,Justice,7,0
+KRAKEN,enrichi,Justice,7,Justice,7,0
+KRAKEN,enrichi,Comprit,7,Comprit,7,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Que Mtlle,9,Mtlle,5,-4
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Memie,5,Memie,5,0
+KRAKEN,enrichi,Egoistes,8,Egoistes,8,0
+KRAKEN,enrichi,Eprouve,7,Eprouve,7,0
+KRAKEN,enrichi,Venll,5,Venll,5,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Onne,4,Onne,4,0
+KRAKEN,enrichi,Monsicur.,9,Monsicur,8,-1
+KRAKEN,enrichi,Comnencer,9,Comnencer,9,0
+KRAKEN,enrichi,Code,4,Code,4,0
+KRAKEN,enrichi,Monsieurd,9,Monsieurd,9,0
+KRAKEN,enrichi,Barrotne,8,Barrotne,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Mfte Canonnier,14,Canonnier,9,-5
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Soizante an5,12,Soizante,8,-4
+KRAKEN,enrichi,Nace,4,Nace,4,0
+KRAKEN,enrichi,Crerer,6,Crerer,6,0
+KRAKEN,enrichi,Chdise,6,Chdise,6,0
+KRAKEN,enrichi,Ecrase,6,Ecrase,6,0
+KRAKEN,enrichi,Mle Canonnier,13,Canonnier,9,-4
+KRAKEN,enrichi,Virdivoir,9,Virdivoir,9,0
+KRAKEN,enrichi,Me Canonnier ?,14,Canonnier,9,-5
+KRAKEN,enrichi,Hfle Canonnier,14,Canonnier,9,-5
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Rons Rons,9,Rons,4,-5
+KRAKEN,enrichi,Paleries,8,Paleries,8,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Caline,6,Caline,6,0
+KRAKEN,enrichi,Raitre,6,Raitre,6,0
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Reur,4,Reur,4,0
+KRAKEN,enrichi,Parbleu!,8,Parbleu,7,-1
+KRAKEN,enrichi,Mards,5,Mards,5,0
+KRAKEN,enrichi,Croyer,6,Croyer,6,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Mtme Tda,8,Mtme,4,-4
+KRAKEN,enrichi,Monte,5,Monte,5,0
+KRAKEN,enrichi,Cage,4,Cage,4,0
+KRAKEN,enrichi,Louvdin,7,Louvdin,7,0
+KRAKEN,enrichi,Sy Craimponne,13,Craimponne,10,-3
+KRAKEN,enrichi,Bruvelles,9,Bruvelles,9,0
+KRAKEN,enrichi,Oh!,3,Oh,2,-1
+KRAKEN,enrichi,Dieu,4,Dieu,4,0
+KRAKEN,enrichi,Mensonges !,11,Mensonges,9,-2
+KRAKEN,enrichi,Souvener,8,Souvener,8,0
+KRAKEN,enrichi,lEvangile,9,lEvangile,9,0
+KRAKEN,enrichi,Curicus,7,Curicus,7,0
+KRAKEN,enrichi,Suisse,6,Suisse,6,0
+KRAKEN,enrichi,Constances,10,Constances,10,0
+KRAKEN,enrichi,Moins,5,Moins,5,0
+KRAKEN,enrichi,Comtencer,9,Comtencer,9,0
+KRAKEN,enrichi,Reur,4,Reur,4,0
+KRAKEN,enrichi,Coussin,7,Coussin,7,0
+KRAKEN,enrichi,Reur,4,Reur,4,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,Sommes,6,Sommes,6,0
+KRAKEN,enrichi,de Belgique,11,Belgique,8,-3
+KRAKEN,enrichi,Louvain,7,Louvain,7,0
+KRAKEN,enrichi,Vetre,5,Vetre,5,0
+KRAKEN,enrichi,II Eaudra,9,Eaudra,6,-3
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Rots,4,Rots,4,0
+KRAKEN,enrichi,Adris,5,Adris,5,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Jean Jacques,12,Jacques,7,-5
+KRAKEN,enrichi,Mlairie,7,Mlairie,7,0
+KRAKEN,enrichi,Jarndis,7,Jarndis,7,0
+KRAKEN,enrichi,Babel,5,Babel,5,0
+KRAKEN,enrichi,Enteressant,11,Enteressant,11,0
+KRAKEN,enrichi,Dandin,6,Dandin,6,0
+KRAKEN,enrichi,Geoise,6,Geoise,6,0
+KRAKEN,enrichi,Dicul,5,Dicul,5,0
+KRAKEN,enrichi,Ccur,4,Ccur,4,0
+KRAKEN,enrichi,Courtisdne,10,Courtisdne,10,0
+KRAKEN,enrichi,Lombroso,8,Lombroso,8,0
+KRAKEN,enrichi,Jeur,4,Jeur,4,0
+KRAKEN,enrichi,Veeil,5,Veeil,5,0
+KRAKEN,enrichi,Cntendons,9,Cntendons,9,0
+KRAKEN,enrichi,Veuves,6,Veuves,6,0
+KRAKEN,enrichi,Danton,6,Danton,6,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Jesais,6,Jesais,6,0
+KRAKEN,enrichi,Lurc,4,Lurc,4,0
+KRAKEN,enrichi,Bientot,7,Bientot,7,0
+KRAKEN,enrichi,Anglaise,8,Anglaise,8,0
+KRAKEN,enrichi,Joge,4,Joge,4,0
+KRAKEN,enrichi,Veuf,4,Veuf,4,0
+KRAKEN,enrichi,Maclortune,10,Maclortune,10,0
+KRAKEN,enrichi,Lamnise,7,Lamnise,7,0
+KRAKEN,enrichi,Cravesend,9,Cravesend,9,0
+KRAKEN,enrichi,Lourner d,9,Lourner,7,-2
+KRAKEN,enrichi,Gauche,6,Gauche,6,0
+KRAKEN,enrichi,Guelqunn,8,Guelqunn,8,0
+KRAKEN,enrichi,Suisse,6,Suisse,6,0
+KRAKEN,enrichi,Dieu,4,Dieu,4,0
+KRAKEN,enrichi,Jenfamine,9,Jenfamine,9,0
+KRAKEN,enrichi,Dieu cst,8,Dieu,4,-4
+KRAKEN,enrichi,Jeuld,5,Jeuld,5,0
+KRAKEN,enrichi,Hon lLhomine,12,lLhomine,8,-4
+KRAKEN,enrichi,ane Alamete,11,Alamete,7,-4
+KRAKEN,enrichi,Deuretages,10,Deuretages,10,0
+KRAKEN,enrichi,Sdisir,6,Sdisir,6,0
+KRAKEN,enrichi,Egure,5,Egure,5,0
+KRAKEN,enrichi,Drie,4,Drie,4,0
+KRAKEN,enrichi,Sentillette,11,Sentillette,11,0
+KRAKEN,enrichi,Conspirateur,12,Conspirateur,12,0
+KRAKEN,enrichi,Moment,6,Moment,6,0
+KRAKEN,enrichi,Mnourant,8,Mnourant,8,0
+KRAKEN,enrichi,Venant,6,Venant,6,0
+KRAKEN,enrichi,Navigation,10,Navigation,10,0
+KRAKEN,enrichi,"Mdis
+.Q'",8,Mdis,4,-4
+KRAKEN,enrichi,J Estil,7,Estil,5,-2
+KRAKEN,enrichi,Louloureun,10,Louloureun,10,0
+KRAKEN,enrichi,Aupes,5,Aupes,5,0
+KRAKEN,enrichi,Caleriens,9,Caleriens,9,0
+KRAKEN,enrichi,Jamdis,6,Jamdis,6,0
+KRAKEN,enrichi,Viendrai,8,Viendrai,8,0
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Chambre,7,Chambre,7,0
+KRAKEN,enrichi,Charlotte por,13,Charlotte,9,-4
+KRAKEN,enrichi,Grins,5,Grins,5,0
+KRAKEN,enrichi,Iliet,5,Iliet,5,0
+KRAKEN,enrichi,Marguerire,10,Marguerire,10,0
+KRAKEN,enrichi,Marguerite,10,Marguerite,10,0
+KRAKEN,enrichi,Mme Montarenil,14,Montarenil,10,-4
+KRAKEN,enrichi,ter Mlarguerite,15,Mlarguerite,11,-4
+KRAKEN,enrichi,Marquerite,10,Marquerite,10,0
+KRAKEN,enrichi,Merlne,6,Merlne,6,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,"cn
+i Changeant",14,Changeant,9,-5
+KRAKEN,enrichi,Loutce,6,Loutce,6,0
+KRAKEN,enrichi,Ecoule,6,Ecoule,6,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Ctpuis,6,Ctpuis,6,0
+KRAKEN,enrichi,Secoue,6,Secoue,6,0
+KRAKEN,enrichi,Naturellement,13,Naturellement,13,0
+KRAKEN,enrichi,Ceorgette,9,Ceorgette,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,"Carl
+nuit",9,Carl,4,-5
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Mon Bieu,8,Mon,3,-5
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Maraaleman,10,Maraaleman,10,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Vdtil,5,Vdtil,5,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Mics,4,Mics,4,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Chapeaul,8,Chapeaul,8,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Liens,5,Liens,5,0
+KRAKEN,enrichi,Cing Mirutes,12,Mirutes,7,-5
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Paternoster,11,Paternoster,11,0
+KRAKEN,enrichi,Paques,6,Paques,6,0
+KRAKEN,enrichi,Saint-Pauls,11,Saint-Pauls,11,0
+KRAKEN,enrichi,Cheapside,9,Cheapside,9,0
+KRAKEN,enrichi,Jenipe,6,Jenipe,6,0
+KRAKEN,enrichi,Cetargent,9,Cetargent,9,0
+KRAKEN,enrichi,Ccontre,7,Ccontre,7,0
+KRAKEN,enrichi,Jene veuy,9,Jene,4,-5
+KRAKEN,enrichi,"Pour
+Charlotre",14,Charlotre,9,-5
+KRAKEN,enrichi,Iseretourne,11,Iseretourne,11,0
+KRAKEN,enrichi,Guette,6,Guette,6,0
+KRAKEN,enrichi,Cartes sym,10,Cartes,6,-4
+KRAKEN,enrichi,Jarnise ct,10,Jarnise,7,-3
+KRAKEN,enrichi,Bridge,6,Bridge,6,0
+KRAKEN,enrichi,Cheinin,7,Cheinin,7,0
+KRAKEN,enrichi,Cntre cuK.,10,Cntre,5,-5
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Tace,4,Tace,4,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Ceorges,7,Ceorges,7,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Indis,5,Indis,5,0
+KRAKEN,enrichi,Rocons,6,Rocons,6,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Dieul...,8,Dieul,5,-3
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Noel,4,Noel,4,0
+KRAKEN,enrichi,Chauve,6,Chauve,6,0
+KRAKEN,enrichi,Slabre,6,Slabre,6,0
+KRAKEN,enrichi,Noel,4,Noel,4,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Que Dien,8,Dien,4,-4
+KRAKEN,enrichi,lhonneur,8,lhonneur,8,0
+KRAKEN,enrichi,Monsieur !,10,Monsieur,8,-2
+KRAKEN,enrichi,Echapper,8,Echapper,8,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Rerechaufierd,13,Rerechaufierd,13,0
+KRAKEN,enrichi,Jendemdin,9,Jendemdin,9,0
+KRAKEN,enrichi,Lgure,5,Lgure,5,0
+KRAKEN,enrichi,Aure,4,Aure,4,0
+KRAKEN,enrichi,Ihomine,7,Ihomine,7,0
+KRAKEN,enrichi,Estce,5,Estce,5,0
+KRAKEN,enrichi,Tondy,5,Tondy,5,0
+KRAKEN,enrichi,Celd,4,Celd,4,0
+KRAKEN,enrichi,Paternoster,11,Paternoster,11,0
+KRAKEN,enrichi,Dieu,4,Dieu,4,0
+KRAKEN,enrichi,Gesticule,9,Gesticule,9,0
+KRAKEN,enrichi,Cauchemnar,10,Cauchemnar,10,0
+KRAKEN,enrichi,Jesonge,7,Jesonge,7,0
+KRAKEN,enrichi,Chambre,7,Chambre,7,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Mon Dieu!,9,Dieu,4,-5
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Estce,5,Estce,5,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Ccorges,7,Ccorges,7,0
+KRAKEN,enrichi,Sournoise,9,Sournoise,9,0
+KRAKEN,enrichi,Come,4,Come,4,0
+KRAKEN,enrichi,Connaitre,9,Connaitre,9,0
+KRAKEN,enrichi,i Flle,6,Flle,4,-2
+KRAKEN,enrichi,Lstce,5,Lstce,5,0
+KRAKEN,enrichi,Resois,6,Resois,6,0
+KRAKEN,enrichi,Charlotre,9,Charlotre,9,0
+KRAKEN,enrichi,Chauives,8,Chauives,8,0
+KRAKEN,enrichi,Cravates,8,Cravates,8,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Viens,5,Viens,5,0
+KRAKEN,enrichi,Enkin,5,Enkin,5,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,"dosC
+Golis",10,Golis,5,-5
+KRAKEN,enrichi,Mditriser,9,Mditriser,9,0
+KRAKEN,enrichi,Calmer,6,Calmer,6,0
+KRAKEN,enrichi,Liens,5,Liens,5,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,"Sdint
+Malo",10,Sdint,5,-5
+KRAKEN,enrichi,Bordeaux,8,Bordeaux,8,0
+KRAKEN,enrichi,Madatne,7,Madatne,7,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Ceu,3,Ceu,3,0
+KRAKEN,enrichi,Canonnier,9,Canonnier,9,0
+KRAKEN,enrichi,Southdimpton,12,Southdimpton,12,0
+KRAKEN,enrichi,Ouvri,5,Ouvri,5,0
+KRAKEN,enrichi,Mousieur,8,Mousieur,8,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Dien,4,Dien,4,0
+KRAKEN,enrichi,Mne,3,Mne,3,0
+KRAKEN,enrichi,Martyre,7,Martyre,7,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Donhe moid,10,Donhe,5,-5
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Metle,5,Metle,5,0
+KRAKEN,enrichi,M^e Roudal,10,Roudal,6,-4
+KRAKEN,enrichi,Daine,5,Daine,5,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Gerine,6,Gerine,6,0
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Cntre,5,Cntre,5,0
+KRAKEN,enrichi,Montier,7,Montier,7,0
+KRAKEN,enrichi,Lartufes,8,Lartufes,8,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Mon Reveu,9,Reveu,5,-4
+KRAKEN,enrichi,Dureste,7,Dureste,7,0
+KRAKEN,enrichi,Clonne,6,Clonne,6,0
+KRAKEN,enrichi,Suisse,6,Suisse,6,0
+KRAKEN,enrichi,Voyageur,8,Voyageur,8,0
+KRAKEN,enrichi,Chemins,7,Chemins,7,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Cours,5,Cours,5,0
+KRAKEN,enrichi,Mtue Charlotie t',17,Charlotie,9,-8
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Jusdie,6,Jusdie,6,0
+KRAKEN,enrichi,Cottes,6,Cottes,6,0
+KRAKEN,enrichi,Marguerite,10,Marguerite,10,0
+KRAKEN,enrichi,Jache,5,Jache,5,0
+KRAKEN,enrichi,Jesuisattendue,14,Jesuisattendue,14,0
+KRAKEN,enrichi,Cussct,6,Cussct,6,0
+KRAKEN,enrichi,Liens,5,Liens,5,0
+KRAKEN,enrichi,Margot,6,Margot,6,0
+KRAKEN,enrichi,Mlargot,7,Mlargot,7,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,"om
+Lssont",9,Lssont,6,-3
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Lavoir,6,Lavoir,6,0
+KRAKEN,enrichi,le Diable,9,Diable,6,-3
+KRAKEN,enrichi,Dien,4,Dien,4,0
+KRAKEN,enrichi,Conversation,12,Conversation,12,0
+KRAKEN,enrichi,Se Calmer,9,Calmer,6,-3
+KRAKEN,enrichi,Madaine,7,Madaine,7,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Voild,5,Voild,5,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Mtadarne,8,Mtadarne,8,0
+KRAKEN,enrichi,Voyervous,9,Voyervous,9,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,Gargon,6,Gargon,6,0
+KRAKEN,enrichi,Aepuis,6,Aepuis,6,0
+KRAKEN,enrichi,Egoistes,8,Egoistes,8,0
+KRAKEN,enrichi,Seon,4,Seon,4,0
+KRAKEN,enrichi,d Broussaille,13,Broussaille,11,-2
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Mature,6,Mature,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Maladics,8,Maladics,8,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,A Roger,7,Roger,5,-2
+KRAKEN,enrichi,Ranclle,7,Ranclle,7,0
+KRAKEN,enrichi,Ruxion,6,Ruxion,6,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Comimode,8,Comimode,8,0
+KRAKEN,enrichi,Broussdille,11,Broussdille,11,0
+KRAKEN,enrichi,Crois,5,Crois,5,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,"Co-
+Cortes",10,Cortes,6,-4
+KRAKEN,enrichi,Mdis,4,Mdis,4,0
+KRAKEN,enrichi,Rexions,7,Rexions,7,0
+KRAKEN,enrichi,Eamargelle,10,Eamargelle,10,0
+KRAKEN,enrichi,Gaston,6,Gaston,6,0
+KRAKEN,enrichi,Cuant,5,Cuant,5,0
+KRAKEN,enrichi,Remarquer,9,Remarquer,9,0
+KRAKEN,enrichi,Mdinteuan,9,Mdinteuan,9,0
+KRAKEN,enrichi,Rite,4,Rite,4,0
+KRAKEN,enrichi,CHercice,8,CHercice,8,0
+KRAKEN,enrichi,Oueitil,7,Oueitil,7,0
+KRAKEN,enrichi,Venger,6,Venger,6,0
+KRAKEN,enrichi,cComprenct,10,cComprenct,10,0
+KRAKEN,enrichi,Rexion,6,Rexion,6,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Htme Boileau,12,Boileau,7,-5
+KRAKEN,enrichi,Mme Boileau,11,Boileau,7,-4
+KRAKEN,enrichi,Mtme,4,Mtme,4,0
+KRAKEN,enrichi,Mon Dieu!,9,Dieu,4,-5
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Aimis,5,Aimis,5,0
+KRAKEN,enrichi,Belgique,8,Belgique,8,0
+KRAKEN,enrichi,Conndistoutesonhistoire,23,Conndistoutesonhistoire,23,0
+KRAKEN,enrichi,Malades,7,Malades,7,0
+KRAKEN,enrichi,Mordle,6,Mordle,6,0
+KRAKEN,enrichi,Victimes,8,Victimes,8,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Vant,4,Vant,4,0
+KRAKEN,enrichi,Graciense,9,Graciense,9,0
+KRAKEN,enrichi,Saur de,7,Saur,4,-3
+KRAKEN,enrichi,Casino,6,Casino,6,0
+KRAKEN,enrichi,Levant,6,Levant,6,0
+KRAKEN,enrichi,Dabord,6,Dabord,6,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,Gent,4,Gent,4,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Restauration,12,Restauration,12,0
+KRAKEN,enrichi,Direction,9,Direction,9,0
+KRAKEN,enrichi,Bievre,6,Bievre,6,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Celd,4,Celd,4,0
+KRAKEN,enrichi,Rence,5,Rence,5,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Luis Derien,11,Derien,6,-5
+KRAKEN,enrichi,Lener,5,Lener,5,0
+KRAKEN,enrichi,Ammee,5,Ammee,5,0
+KRAKEN,enrichi,Moliere,7,Moliere,7,0
+KRAKEN,enrichi,soihine,7,soihine,7,0
+KRAKEN,enrichi,Voics,5,Voics,5,0
+KRAKEN,enrichi,Ecossaise,9,Ecossaise,9,0
+KRAKEN,enrichi,Hme Dutiphat,12,Dutiphat,8,-4
+KRAKEN,enrichi,MCMCT,5,MCMCT,5,0
+KRAKEN,enrichi,Chemise,7,Chemise,7,0
+KRAKEN,enrichi,Eaudra,6,Eaudra,6,0
+KRAKEN,enrichi,Ciderer,7,Ciderer,7,0
+KRAKEN,enrichi,Arinaud,7,Arinaud,7,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,ML,2,ML,2,0
+KRAKEN,enrichi,Reveuf,6,Reveuf,6,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Linaction,9,Linaction,9,0
+KRAKEN,enrichi,Mourdtet,8,Mourdtet,8,0
+KRAKEN,enrichi,Mourdtet,8,Mourdtet,8,0
+KRAKEN,enrichi,Cloch,5,Cloch,5,0
+KRAKEN,enrichi,Mlourntet,9,Mlourntet,9,0
+KRAKEN,enrichi,Mouratetavecun,14,Mouratetavecun,14,0
+KRAKEN,enrichi,Rence,5,Rence,5,0
+KRAKEN,enrichi,Somline,7,Somline,7,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Miois,5,Miois,5,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Veeil,5,Veeil,5,0
+KRAKEN,enrichi,Liguretoi,9,Liguretoi,9,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Mladamne,8,Mladamne,8,0
+KRAKEN,enrichi,Cestbon,7,Cestbon,7,0
+KRAKEN,enrichi,Costumhe,8,Costumhe,8,0
+KRAKEN,enrichi,Scrdi,5,Scrdi,5,0
+KRAKEN,enrichi,Voild,5,Voild,5,0
+KRAKEN,enrichi,Resont,6,Resont,6,0
+KRAKEN,enrichi,Sros,4,Sros,4,0
+KRAKEN,enrichi,Yous Craignier,14,Craignier,9,-5
+KRAKEN,enrichi,Gariercr,8,Gariercr,8,0
+KRAKEN,enrichi,Comline,7,Comline,7,0
+KRAKEN,enrichi,Commode,7,Commode,7,0
+KRAKEN,enrichi,Adressc,7,Adressc,7,0
+KRAKEN,enrichi,Rence,5,Rence,5,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Suttont,7,Suttont,7,0
+KRAKEN,enrichi,Barbe,5,Barbe,5,0
+KRAKEN,enrichi,Blene,5,Blene,5,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Chambre,7,Chambre,7,0
+KRAKEN,enrichi,Mourater,8,Mourater,8,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Conmeinoi,9,Conmeinoi,9,0
+KRAKEN,enrichi,Malines,7,Malines,7,0
+KRAKEN,enrichi,Surprise i,10,Surprise,8,-2
+KRAKEN,enrichi,Masque,6,Masque,6,0
+KRAKEN,enrichi,Kgure,5,Kgure,5,0
+KRAKEN,enrichi,Scigneurs,9,Scigneurs,9,0
+KRAKEN,enrichi,Couloir,7,Couloir,7,0
+KRAKEN,enrichi,Rence,5,Rence,5,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Gauche,6,Gauche,6,0
+KRAKEN,enrichi,Linaire,7,Linaire,7,0
+KRAKEN,enrichi,Dinde,5,Dinde,5,0
+KRAKEN,enrichi,La Dinde,8,Dinde,5,-3
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Jerandsser,10,Jerandsser,10,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Monte,5,Monte,5,0
+KRAKEN,enrichi,Mouraiet,8,Mouraiet,8,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Mourater,8,Mourater,8,0
+KRAKEN,enrichi,Mlessieurs,10,Mlessieurs,10,0
+KRAKEN,enrichi,Curicn,6,Curicn,6,0
+KRAKEN,enrichi,Maicaube,8,Maicaube,8,0
+KRAKEN,enrichi,Sesont,6,Sesont,6,0
+KRAKEN,enrichi,Assassins,9,Assassins,9,0
+KRAKEN,enrichi,Monsicur !,10,Monsicur,8,-2
+KRAKEN,enrichi,Cestfait,8,Cestfait,8,0
+KRAKEN,enrichi,Rence,5,Rence,5,0
+KRAKEN,enrichi,Riger,5,Riger,5,0
+KRAKEN,enrichi,Cesgens,7,Cesgens,7,0
+KRAKEN,enrichi,Mdis,4,Mdis,4,0
+KRAKEN,enrichi,Coiine,6,Coiine,6,0
+KRAKEN,enrichi,Vair,4,Vair,4,0
+KRAKEN,enrichi,dil Momentoi,12,Momentoi,8,-4
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,IHonncur,8,IHonncur,8,0
+KRAKEN,enrichi,Jesuis,6,Jesuis,6,0
+KRAKEN,enrichi,Lecicl,6,Lecicl,6,0
+KRAKEN,enrichi,Resuis,6,Resuis,6,0
+KRAKEN,enrichi,Mouratet,8,Mouratet,8,0
+KRAKEN,enrichi,Margotd,7,Margotd,7,0
+KRAKEN,enrichi,Margor,6,Margor,6,0
+KRAKEN,enrichi,Lemthe,6,Lemthe,6,0
+KRAKEN,enrichi,Moment,6,Moment,6,0
+KRAKEN,enrichi,Montareuil,10,Montareuil,10,0
+KRAKEN,enrichi,Brabant,7,Brabant,7,0
+KRAKEN,enrichi,Pentetre,8,Pentetre,8,0
+KRAKEN,enrichi,Mouton,6,Mouton,6,0
+KRAKEN,enrichi,Crois,5,Crois,5,0
+KRAKEN,enrichi,Chercun,7,Chercun,7,0
+KRAKEN,enrichi,Ilcxiste,8,Ilcxiste,8,0
+KRAKEN,enrichi,Inkrmes,7,Inkrmes,7,0
+KRAKEN,enrichi,Mtmi,4,Mtmi,4,0
+KRAKEN,enrichi,Bois,4,Bois,4,0
+KRAKEN,enrichi,MAlhcureuh,10,MAlhcureuh,10,0
+KRAKEN,enrichi,Coublier,8,Coublier,8,0
+KRAKEN,enrichi,Maturclement,12,Maturclement,12,0
+KRAKEN,enrichi,Sible,5,Sible,5,0
+KRAKEN,enrichi,Chanrant,8,Chanrant,8,0
+KRAKEN,enrichi,Selle,5,Selle,5,0
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,MogHeur,7,MogHeur,7,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Md Valise,9,Valise,6,-3
+KRAKEN,enrichi,Delpich,7,Delpich,7,0
+KRAKEN,enrichi,Arlon,5,Arlon,5,0
+KRAKEN,enrichi,Arlon,5,Arlon,5,0
+KRAKEN,enrichi,Delpich-,8,Delpich-,8,0
+KRAKEN,enrichi,de Belgique,11,Belgique,8,-3
+KRAKEN,enrichi,Delpich,7,Delpich,7,0
+KRAKEN,enrichi,Tenue,5,Tenue,5,0
+KRAKEN,enrichi,Clets,5,Clets,5,0
+KRAKEN,enrichi,Craindre,8,Craindre,8,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Ctes,4,Ctes,4,0
+KRAKEN,enrichi,Ctes,4,Ctes,4,0
+KRAKEN,enrichi,Cham,4,Cham,4,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Arglaise,8,Arglaise,8,0
+KRAKEN,enrichi,Etre,4,Etre,4,0
+KRAKEN,enrichi,Etpuis,6,Etpuis,6,0
+KRAKEN,enrichi,Venir,5,Venir,5,0
+KRAKEN,enrichi,Aulieu de,9,Aulieu,6,-3
+KRAKEN,enrichi,Ricn,4,Ricn,4,0
+KRAKEN,enrichi,Eamargelle,10,Eamargelle,10,0
+KRAKEN,enrichi,Vichy,5,Vichy,5,0
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,Dangercuy,9,Dangercuy,9,0
+KRAKEN,enrichi,Changer,7,Changer,7,0
+KRAKEN,enrichi,Biratre,7,Biratre,7,0
+KRAKEN,enrichi,Madamne,7,Madamne,7,0
+KRAKEN,enrichi,Diresmoi,8,Diresmoi,8,0
+KRAKEN,enrichi,Madame,6,Madame,6,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Amnant,6,Amnant,6,0
+KRAKEN,enrichi,Cherche,7,Cherche,7,0
+KRAKEN,enrichi,Brasse,6,Brasse,6,0
+KRAKEN,enrichi,Rubens,6,Rubens,6,0
+KRAKEN,enrichi,Reur,4,Reur,4,0
+KRAKEN,enrichi,Shyloch,7,Shyloch,7,0
+KRAKEN,enrichi,Martyre,7,Martyre,7,0
+KRAKEN,enrichi,Mousieur,8,Mousieur,8,0
+KRAKEN,enrichi,Cesoi,5,Cesoi,5,0
+KRAKEN,enrichi,"M
+Coutilsavant",14,Coutilsavant,12,-2
+KRAKEN,enrichi,Mimc Dclpich,12,Dclpich,7,-5
+KRAKEN,enrichi,Cottre,6,Cottre,6,0
+KRAKEN,enrichi,"5d
+Luite",8,Luite,5,-3
+KRAKEN,enrichi,Mme Delpich,11,Delpich,7,-4
+KRAKEN,enrichi,Admiration,10,Admiration,10,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Mme Delpich,11,Delpich,7,-4
+KRAKEN,enrichi,Compromise,10,Compromise,10,0
+KRAKEN,enrichi,Comlnencant,11,Comlnencant,11,0
+KRAKEN,enrichi,Compromise,10,Compromise,10,0
+KRAKEN,enrichi,Maudant,7,Maudant,7,0
+KRAKEN,enrichi,Monsieur,8,Monsieur,8,0
+KRAKEN,enrichi,Anlis,5,Anlis,5,0
+KRAKEN,enrichi,Mlie Delpich,12,Delpich,7,-5
+KRAKEN,enrichi,Cldi,4,Cldi,4,0
+KRAKEN,enrichi,Sauveur,7,Sauveur,7,0
+KRAKEN,enrichi,"Mon Sauveur
+Tlle",16,Sauveur,7,-9
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Cacur,5,Cacur,5,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,"Chd-
+Jeur",9,Jeur,4,-5
+KRAKEN,enrichi,Ecoute,6,Ecoute,6,0
+KRAKEN,enrichi,Eausse,6,Eausse,6,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,SOimneil,8,SOimneil,8,0
+KRAKEN,enrichi,Cestitnoseu ld,14,Cestitnoseu,11,-3
+KRAKEN,enrichi,Brurclles,9,Brurclles,9,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Roget,5,Roget,5,0
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Convaincu,9,Convaincu,9,0
+KRAKEN,enrichi,Roger,5,Roger,5,0
+KRAKEN,enrichi,Hme Delpich,11,Delpich,7,-4
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Enkin I,7,Enkin,5,-2
+KRAKEN,enrichi,Randal,6,Randal,6,0
+KRAKEN,enrichi,MA5,3,MA5,3,0
+KRAKEN,enrichi,Surcr,5,Surcr,5,0
+KRAKEN,enrichi,Delpich,7,Delpich,7,0
+KRAKEN,enrichi,Delpich,7,Delpich,7,0
+KRAKEN,enrichi,Vieve,5,Vieve,5,0
+KRAKEN,enrichi,Garamtis pa5,12,Garamtis,8,-4
+KRAKEN,enrichi,Contrarier,10,Contrarier,10,0
+KRAKEN,enrichi,rue Berlior,11,Berlior,7,-4
+KRAKEN,enrichi,Mldis,5,Mldis,5,0
+KRAKEN,enrichi,Marcher,7,Marcher,7,0
+KRAKEN,enrichi,Place,5,Place,5,0
+KRAKEN,enrichi,Bois,4,Bois,4,0
+KRAKEN,enrichi,Cene,4,Cene,4,0
+KRAKEN,enrichi,Lantot,6,Lantot,6,0
+KRAKEN,enrichi,Royan,5,Royan,5,0
+KRAKEN,enrichi,Reoises,7,Reoises,7,0
+KRAKEN,enrichi,Rots,4,Rots,4,0
+KRAKEN,enrichi,Octan,5,Octan,5,0
+KRAKEN,enrichi,Egurant,7,Egurant,7,0
+KRAKEN,enrichi,Milade,6,Milade,6,0
+KRAKEN,enrichi,Vienne,6,Vienne,6,0
+KRAKEN,enrichi,Jant pis,8,Jant,4,-4
+KRAKEN,enrichi,Erje,4,Erje,4,0
+KRAKEN,enrichi,Taconteras,10,Taconteras,10,0
+KRAKEN,enrichi,Genevieve,9,Genevieve,9,0
+KRAKEN,enrichi,Muinc,5,Muinc,5,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Casse,5,Casse,5,0
+KRAKEN,enrichi,Sentiments,10,Sentiments,10,0
+KRAKEN,enrichi,b25,3,b25,3,0
+KRAKEN,enrichi,Comlne,6,Comlne,6,0
+KRAKEN,enrichi,Aepuis,6,Aepuis,6,0
+KRAKEN,enrichi,Cétair,7,Cétair,7,0
+KRAKEN,enrichi,Iaissc,6,Iaissc,6,0
+KRAKEN,enrichi,Liens !,7,Liens,5,-2
+KRAKEN,enrichi,Bruzclles,9,Bruzclles,9,0
+KRAKEN,enrichi,Votye,5,Votye,5,0
+KRAKEN,enrichi,Mte Charlotte,13,Charlotte,9,-4
+KRAKEN,enrichi,Morte,5,Morte,5,0
+KRAKEN,enrichi,Mldis si,8,Mldis,5,-3
+KRAKEN,enrichi,Civil,5,Civil,5,0
+KRAKEN,enrichi,Venant,6,Venant,6,0
+KRAKEN,enrichi,Gtecs,5,Gtecs,5,0
+KRAKEN,enrichi,Solation,8,Solation,8,0
+KRAKEN,enrichi,Chosesld,8,Chosesld,8,0
+KRAKEN,enrichi,"Monsicur, mne",13,Monsicur,8,-5
+KRAKEN,enrichi,Sentiments,10,Sentiments,10,0
+KRAKEN,enrichi,Chagrine,8,Chagrine,8,0
+KRAKEN,enrichi,Convicrions,11,Convicrions,11,0
+KRAKEN,enrichi,Scene,5,Scene,5,0
+KRAKEN,enrichi,Casts,5,Casts,5,0
+KRAKEN,enrichi,Ecouteter,9,Ecouteter,9,0
+KRAKEN,enrichi,Nevousmetter,12,Nevousmetter,12,0
+KRAKEN,enrichi,Cuverte,7,Cuverte,7,0
+KRAKEN,enrichi,Genevieve,9,Genevieve,9,0
+KRAKEN,enrichi,Ouclques,8,Ouclques,8,0
+KRAKEN,enrichi,Madaine,7,Madaine,7,0
+KRAKEN,enrichi,Sent,4,Sent,4,0
+KRAKEN,enrichi,Mionsieur,9,Mionsieur,9,0
+KRAKEN,enrichi,Raridal,7,Raridal,7,0
+KRAKEN,enrichi,Menace,6,Menace,6,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Mladaine,8,Mladaine,8,0
+KRAKEN,enrichi,Croyanle,8,Croyanle,8,0
+KRAKEN,enrichi,Conduirdis,10,Conduirdis,10,0
+KRAKEN,enrichi,M. Randal,9,Randal,6,-3
+KRAKEN,enrichi,Colo!,5,Colo,4,-1
+KRAKEN,enrichi,Normal,6,Normal,6,0
+KRAKEN,enrichi,Contrastes,10,Contrastes,10,0
+KRAKEN,enrichi,Pentetre l'y,12,Pentetre,8,-4
+KRAKEN,enrichi,Euiie,5,Euiie,5,0
+KRAKEN,enrichi,Bdistu,6,Bdistu,6,0
+KRAKEN,enrichi,Tionne,6,Tionne,6,0
+KRAKEN,enrichi,Conversioi,10,Conversioi,10,0
+KRAKEN,enrichi,Batan,5,Batan,5,0
+KRAKEN,enrichi,Dalild,6,Dalild,6,0
+KRAKEN,enrichi,Evénc,6,Evénc,6,0
+KRAKEN,enrichi,Genevieve,9,Genevieve,9,0
+KRAKEN,enrichi,Absolumenttroid,15,Absolumenttroid,15,0
+KRAKEN,enrichi,Mornents,8,Mornents,8,0
+KRAKEN,enrichi,Matoi,5,Matoi,5,0
+KRAKEN,enrichi,Gontelle,8,Gontelle,8,0
+KRAKEN,enrichi,Wine,4,Wine,4,0
+KRAKEN,enrichi,Riaux,5,Riaux,5,0
+KRAKEN,enrichi,Vercu,5,Vercu,5,0
+KRAKEN,enrichi,Mte Tabel,9,Tabel,5,-4
+KRAKEN,enrichi,Charlotte,9,Charlotte,9,0
+KRAKEN,enrichi,Alouteries avun,15,Alouteries,10,-5
+KRAKEN,enrichi,Jesuis,6,Jesuis,6,0
+KRAKEN,enrichi,Bdine,5,Bdine,5,0
+KRAKEN,enrichi,Tature,6,Tature,6,0
+KRAKEN,enrichi,Montareuil,10,Montareuil,10,0
+KRAKEN,enrichi,Mdis,4,Mdis,4,0
+KRAKEN,enrichi,Mareot,6,Mareot,6,0
+KRAKEN,enrichi,Voild,5,Voild,5,0
+KRAKEN,enrichi,Courbissol,10,Courbissol,10,0
+KRAKEN,enrichi,Laveur,6,Laveur,6,0
+KRAKEN,enrichi,Vauvenargues,12,Vauvenargues,12,0
+KRAKEN,enrichi,Yoisins,7,Yoisins,7,0
+KRAKEN,enrichi,Lier,4,Lier,4,0
+KRAKEN,enrichi,Un Eamtot,9,Eamtot,6,-3
+KRAKEN,enrichi,Barrot,6,Barrot,6,0
+KRAKEN,enrichi,Cestmnon,8,Cestmnon,8,0
+KRAKEN,enrichi,Mtne,4,Mtne,4,0
+KRAKEN,enrichi,Jeceux,6,Jeceux,6,0
+KRAKEN,enrichi,Cestchoisir,11,Cestchoisir,11,0
+KRAKEN,enrichi,Monsicur,8,Monsicur,8,0
+KRAKEN,enrichi,Chambre,7,Chambre,7,0
+KRAKEN,enrichi,Mazds,5,Mazds,5,0
+KRAKEN,enrichi,Londres,7,Londres,7,0
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,"Wor
+Mandie",10,Mandie,6,-4
+KRAKEN,enrichi,Broussaille,11,Broussaille,11,0
+KRAKEN,enrichi,Noir,4,Noir,4,0
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Devine...,9,Devine,6,-3
+KRAKEN,enrichi,ISsacar,7,ISsacar,7,0
+KRAKEN,enrichi,Canonniet,9,Canonniet,9,0
+KRAKEN,enrichi,Aejcuner,8,Aejcuner,8,0
+KRAKEN,enrichi,Cher,4,Cher,4,0
+KRAKEN,enrichi,Vantablecrime,13,Vantablecrime,13,0
+KRAKEN,enrichi,Yous avex,9,Yous,4,-5
+KRAKEN,enrichi,Au Courant,10,Courant,7,-3
+KRAKEN,enrichi,Venise,6,Venise,6,0
+KRAKEN,enrichi,Bruixelles,10,Bruixelles,10,0
+KRAKEN,enrichi,Vousdrer,8,Vousdrer,8,0
+KRAKEN,enrichi,Sassointe,9,Sassointe,9,0
+KRAKEN,enrichi,Bientot,7,Bientot,7,0
+KRAKEN,enrichi,Croyer,6,Croyer,6,0
+KRAKEN,enrichi,Ecouter,7,Ecouter,7,0
+KRAKEN,enrichi,Conline,7,Conline,7,0
+KRAKEN,enrichi,Lacordaire,10,Lacordaire,10,0
+KRAKEN,enrichi,Cormine,7,Cormine,7,0
+KRAKEN,enrichi,Shonorant,9,Shonorant,9,0
+KRAKEN,enrichi,Lentative,9,Lentative,9,0
+KRAKEN,enrichi,Srande,6,Srande,6,0
+KRAKEN,enrichi,Prudhomune,10,Prudhomune,10,0
+KRAKEN,enrichi,Dailleurs,9,Dailleurs,9,0
+KRAKEN,enrichi,Doctrine,8,Doctrine,8,0
+KRAKEN,enrichi,Malheureuseinent,16,Malheureuseinent,16,0
+KRAKEN,enrichi,JeanJacques,11,JeanJacques,11,0
+KRAKEN,enrichi,Mehsonge,8,Mehsonge,8,0
+KRAKEN,enrichi,Motre,5,Motre,5,0
+KRAKEN,enrichi,Vaguemneni,10,Vaguemneni,10,0
+KRAKEN,enrichi,i Jesus,7,Jesus,5,-2
+KRAKEN,enrichi,Motre,5,Motre,5,0
+KRAKEN,enrichi,Moiquisuis,10,Moiquisuis,10,0
+KRAKEN,enrichi,Cerveaux,8,Cerveaux,8,0
+KRAKEN,enrichi,Connine,7,Connine,7,0
+KRAKEN,enrichi,Verbe,5,Verbe,5,0
+KRAKEN,enrichi,Motre,5,Motre,5,0
+KRAKEN,enrichi,Individu,8,Individu,8,0
+KRAKEN,enrichi,Nouird,6,Nouird,6,0
+KRAKEN,enrichi,lHrat,5,lHrat,5,0
+KRAKEN,enrichi,la Manne,8,Manne,5,-3
+KRAKEN,enrichi,Droits,6,Droits,6,0
+KRAKEN,enrichi,Jont,4,Jont,4,0
+KRAKEN,enrichi,Anonyine,8,Anonyine,8,0
+KRAKEN,enrichi,Mouvedux,8,Mouvedux,8,0
+KRAKEN,enrichi,Ceserd,6,Ceserd,6,0
+KRAKEN,enrichi,Ceuvre,6,Ceuvre,6,0
+KRAKEN,enrichi,Lctions,7,Lctions,7,0
+KRAKEN,enrichi,Comine,6,Comine,6,0
+KRAKEN,enrichi,Cutiliserd,10,Cutiliserd,10,0

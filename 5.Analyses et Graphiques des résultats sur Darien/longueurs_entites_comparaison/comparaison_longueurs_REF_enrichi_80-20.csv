@@ -1,0 +1,1095 @@
+OCR,Modèle,Texte_spacy,Longueur_spacy,Texte_modele,Longueur_modele,Différence
+REF,enrichi_80-20,Républicain,11,Républicain,11,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Tiens,5,Tiens,5,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Lequel,6,Lequel,6,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Messieurs,9,Messieurs,9,0
+REF,enrichi_80-20,Voleur-là ;,11,Voleur,6,-5
+REF,enrichi_80-20,Voleur,6,Voleur,6,0
+REF,enrichi_80-20,Augustine,9,Augustine,9,0
+REF,enrichi_80-20,Cher,4,Cher,4,0
+REF,enrichi_80-20,Candeur !,9,Candeur,7,-2
+REF,enrichi_80-20,Mon père ?,10,père,4,-6
+REF,enrichi_80-20,Reims,5,Reims,5,0
+REF,enrichi_80-20,Jésuites,8,Jésuites,8,0
+REF,enrichi_80-20,Jésuites,8,Jésuites,8,0
+REF,enrichi_80-20,Gambetta,8,Gambetta,8,0
+REF,enrichi_80-20,M. Dubourg,10,Dubourg,7,-3
+REF,enrichi_80-20,Georges,7,Georges,7,0
+REF,enrichi_80-20,Albert,6,Albert,6,0
+REF,enrichi_80-20,M. Dubourg,10,Dubourg,7,-3
+REF,enrichi_80-20,M. Dubourg,10,Dubourg,7,-3
+REF,enrichi_80-20,Reste là !,10,Reste,5,-5
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Morgues,7,Morgues,7,0
+REF,enrichi_80-20,César,5,César,5,0
+REF,enrichi_80-20,Homère,6,Homère,6,0
+REF,enrichi_80-20,Raphaël,7,Raphaël,7,0
+REF,enrichi_80-20,Michel-Ange,11,Michel,6,-5
+REF,enrichi_80-20,Malherbe,8,Malherbe,8,0
+REF,enrichi_80-20,Molière,7,Molière,7,0
+REF,enrichi_80-20,Emerson,7,Emerson,7,0
+REF,enrichi_80-20,Messieurs,9,Messieurs,9,0
+REF,enrichi_80-20,Claudite,8,Claudite,8,0
+REF,enrichi_80-20,Mon oncle,9,oncle,5,-4
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,M. Issacar,10,Issacar,7,-3
+REF,enrichi_80-20,Israélite,9,Israélite,9,0
+REF,enrichi_80-20,M. Issacar,10,Issacar,7,-3
+REF,enrichi_80-20,M. ,3,M.,2,-1
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Israélite,9,Israélite,9,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Molochisme,10,Molochisme,10,0
+REF,enrichi_80-20,Isaïe,5,Isaïe,5,0
+REF,enrichi_80-20,Riche !,7,Riche,5,-2
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Mon oncle,9,oncle,5,-4
+REF,enrichi_80-20,Luxure,6,Luxure,6,0
+REF,enrichi_80-20,Avarice,7,Avarice,7,0
+REF,enrichi_80-20,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi_80-20,Menteur !,9,Menteur,7,-2
+REF,enrichi_80-20,Voleur !,8,Voleur,6,-2
+REF,enrichi_80-20,Georges,7,Georges,7,0
+REF,enrichi_80-20,Mets-toi,8,Mets,4,-4
+REF,enrichi_80-20,Mon oncle,9,oncle,5,-4
+REF,enrichi_80-20,Mon oncle,9,oncle,5,-4
+REF,enrichi_80-20,Respect,7,Respect,7,0
+REF,enrichi_80-20,Respect,7,Respect,7,0
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Georges,7,Georges,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Marguerite,10,Marguerite,10,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Montmartre,10,Montmartre,10,0
+REF,enrichi_80-20,Crime,5,Crime,5,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Me,2,Me,2,0
+REF,enrichi_80-20,Calmez,6,Calmez,6,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Mon oncle,9,oncle,5,-4
+REF,enrichi_80-20,Sûreté,6,Sûreté,6,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Georges !,9,Georges,7,-2
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi_80-20,Atlas,5,Atlas,5,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Golgotha,8,Golgotha,8,0
+REF,enrichi_80-20,Jésus,5,Jésus,5,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,l'Individu,10,Individu,8,-2
+REF,enrichi_80-20,Numance,7,Numance,7,0
+REF,enrichi_80-20,Carlyle,7,Carlyle,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Jérémie,7,Jérémie,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Suisse,6,Suisse,6,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Londres,7,Londres,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,M. Issacar,10,Issacar,7,-3
+REF,enrichi_80-20,M. Issacar,10,Issacar,7,-3
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi_80-20,Caucase,7,Caucase,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Banques,7,Banques,7,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Banques,7,Banques,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Volontiers,10,Volontiers,10,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,pon Pelche,10,Pelche,6,-4
+REF,enrichi_80-20,Exactement,10,Exactement,10,0
+REF,enrichi_80-20,l'Individu,10,Individu,8,-2
+REF,enrichi_80-20,Nature,6,Nature,6,0
+REF,enrichi_80-20,Ingres,6,Ingres,6,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Poissy,6,Poissy,6,0
+REF,enrichi_80-20,Mercure,7,Mercure,7,0
+REF,enrichi_80-20,Roger,5,Roger,5,0
+REF,enrichi_80-20,M. Delpich,10,Delpich,7,-3
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Roger,5,Roger,5,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Bourges,7,Bourges,7,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Ottomane,8,Ottomane,8,0
+REF,enrichi_80-20,le Japon,8,Japon,5,-3
+REF,enrichi_80-20,la Chine,8,Chine,5,-3
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,L'Asiatique,11,Asiatique,9,-2
+REF,enrichi_80-20,Jaunes,6,Jaunes,6,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Asie Mineure,12,Mineure,7,-5
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Messieurs,9,Messieurs,9,0
+REF,enrichi_80-20,Rente,5,Rente,5,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Dieu !,6,Dieu,4,-2
+REF,enrichi_80-20,Roger,5,Roger,5,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Brompton Road,13,Brompton,8,-5
+REF,enrichi_80-20,Roger,5,Roger,5,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Cupidon,7,Cupidon,7,0
+REF,enrichi_80-20,Mimi Pinson,11,Pinson,6,-5
+REF,enrichi_80-20,Mimi Pinson,11,Pinson,6,-5
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Parisiennes,11,Parisiennes,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,– Mademoiselle,14,Mademoiselle,12,-2
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Champagne,9,Champagne,9,0
+REF,enrichi_80-20,Kensington,10,Kensington,10,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Juif,4,Juif,4,0
+REF,enrichi_80-20,Juif,4,Juif,4,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Binocar,7,Binocar,7,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Justice,7,Justice,7,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Cayenne,7,Cayenne,7,0
+REF,enrichi_80-20,Paris,5,Paris,5,0
+REF,enrichi_80-20,Suisse,6,Suisse,6,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Juif,4,Juif,4,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Cartouche,9,Cartouche,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Acropole,8,Acropole,8,0
+REF,enrichi_80-20,Acropole,8,Acropole,8,0
+REF,enrichi_80-20,Cabanel,7,Cabanel,7,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+REF,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+REF,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Suisse,6,Suisse,6,0
+REF,enrichi_80-20,Anglaise,8,Anglaise,8,0
+REF,enrichi_80-20,Allemande,9,Allemande,9,0
+REF,enrichi_80-20,Lédas,5,Lédas,5,0
+REF,enrichi_80-20,Turenne,7,Turenne,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi_80-20,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Mon Dieu,8,Dieu,4,-4
+REF,enrichi_80-20,du Nord,7,Nord,4,-3
+REF,enrichi_80-20,Mazas,5,Mazas,5,0
+REF,enrichi_80-20,Disproportion,13,Disproportion,13,0
+REF,enrichi_80-20,Dieu !,6,Dieu,4,-2
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Ecclésiaste,11,Ecclésiaste,11,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,État,4,État,4,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Anglais,7,Anglais,7,0
+REF,enrichi_80-20,Anglais,7,Anglais,7,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Américain,9,Américain,9,0
+REF,enrichi_80-20,Lafayette,9,Lafayette,9,0
+REF,enrichi_80-20,Canada,6,Canada,6,0
+REF,enrichi_80-20,Montréal,8,Montréal,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Lafayette,9,Lafayette,9,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Chambre,7,Chambre,7,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Nord,4,Nord,4,0
+REF,enrichi_80-20,Centre,6,Centre,6,0
+REF,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Le Monsieur,11,Monsieur,8,-3
+REF,enrichi_80-20,Mauvais,7,Mauvais,7,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Suisse,6,Suisse,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Vandale,7,Vandale,7,0
+REF,enrichi_80-20,Quatrième État,14,Quatrième,9,-5
+REF,enrichi_80-20,Capital,7,Capital,7,0
+REF,enrichi_80-20,Rouen,5,Rouen,5,0
+REF,enrichi_80-20,Sociale,7,Sociale,7,0
+REF,enrichi_80-20,culs-de-jatte,13,culs-de-jatte,13,0
+REF,enrichi_80-20,Hercule,7,Hercule,7,0
+REF,enrichi_80-20,La Révolution,13,Révolution,10,-3
+REF,enrichi_80-20,Némésis,7,Némésis,7,0
+REF,enrichi_80-20,État,4,État,4,0
+REF,enrichi_80-20,État,4,État,4,0
+REF,enrichi_80-20,l'Individu,10,Individu,8,-2
+REF,enrichi_80-20,l'Individu,10,Individu,8,-2
+REF,enrichi_80-20,État,4,État,4,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Cayenne,7,Cayenne,7,0
+REF,enrichi_80-20,Condamné !,10,Condamné,8,-2
+REF,enrichi_80-20,République,10,République,10,0
+REF,enrichi_80-20,Cayenne,7,Cayenne,7,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,République,10,République,10,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,République,10,République,10,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Saluts,6,Saluts,6,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi_80-20,Revue,5,Revue,5,0
+REF,enrichi_80-20,La « ,5,La,2,-3
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,Revue,5,Revue,5,0
+REF,enrichi_80-20,Revue,5,Revue,5,0
+REF,enrichi_80-20,Revue,5,Revue,5,0
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,Revue,5,Revue,5,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Voleur,6,Voleur,6,0
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,M.,2,M.,2,0
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,Revue,5,Revue,5,0
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Revue,5,Revue,5,0
+REF,enrichi_80-20,Suisse,6,Suisse,6,0
+REF,enrichi_80-20,Lombroso,8,Lombroso,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Directeur,9,Directeur,9,0
+REF,enrichi_80-20,Mme Mouratet,12,Mouratet,8,-4
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,République,10,République,10,0
+REF,enrichi_80-20,République !,12,République,10,-2
+REF,enrichi_80-20,Cirque,6,Cirque,6,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mon Dieu,8,Dieu,4,-4
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,République,10,République,10,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Parisienne,10,Parisienne,10,0
+REF,enrichi_80-20,Strauss,7,Strauss,7,0
+REF,enrichi_80-20,Peuple,6,Peuple,6,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Vespasien,9,Vespasien,9,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Mme Courbassol,14,Courbassol,10,-4
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Capoue,6,Capoue,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Marguerite,10,Marguerite,10,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Marguerite,10,Marguerite,10,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Jolis,5,Jolis,5,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Acacias,7,Acacias,7,0
+REF,enrichi_80-20,Machinard,9,Machinard,9,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Malenvers !,11,Malenvers,9,-2
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,M.,2,M.,2,0
+REF,enrichi_80-20,la Marseillaise,15,Marseillaise,12,-3
+REF,enrichi_80-20,M.,2,M.,2,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Messieurs !,11,Messieurs,9,-2
+REF,enrichi_80-20,Mme Courbassol,14,Courbassol,10,-4
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,République,10,République,10,0
+REF,enrichi_80-20,la Marseillaise,15,Marseillaise,12,-3
+REF,enrichi_80-20,Égypte,6,Égypte,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,la Halle,8,Halle,5,-3
+REF,enrichi_80-20,la Halle,8,Halle,5,-3
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Annette,7,Annette,7,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Annette,7,Annette,7,0
+REF,enrichi_80-20,Jérôme,6,Jérôme,6,0
+REF,enrichi_80-20,Annette,7,Annette,7,0
+REF,enrichi_80-20,Annette,7,Annette,7,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,– Randal,8,Randal,6,-2
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Lyon,4,Lyon,4,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Londres,7,Londres,7,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,M.,2,M.,2,0
+REF,enrichi_80-20,Tiens,5,Tiens,5,0
+REF,enrichi_80-20,Neuf,4,Neuf,4,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Carrousel,9,Carrousel,9,0
+REF,enrichi_80-20,Gambetta,8,Gambetta,8,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Barabbas,8,Barabbas,8,0
+REF,enrichi_80-20,la Halle,8,Halle,5,-3
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,La Halle,8,Halle,5,-3
+REF,enrichi_80-20,Courtille,9,Courtille,9,0
+REF,enrichi_80-20,Chambre,7,Chambre,7,0
+REF,enrichi_80-20,Europe,6,Europe,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Machinard,9,Machinard,9,0
+REF,enrichi_80-20,Messieurs,9,Messieurs,9,0
+REF,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi_80-20,Machinard,9,Machinard,9,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Annette,7,Annette,7,0
+REF,enrichi_80-20,M. Courbassol,13,Courbassol,10,-3
+REF,enrichi_80-20,Annette,7,Annette,7,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Et Margot,9,Margot,6,-3
+REF,enrichi_80-20,Carrousel,9,Carrousel,9,0
+REF,enrichi_80-20,Marianne,8,Marianne,8,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Carrousel,9,Carrousel,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Londres,7,Londres,7,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,rue Lafayette,13,Lafayette,9,-4
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Israélite,9,Israélite,9,0
+REF,enrichi_80-20,Israélites,10,Israélites,10,0
+REF,enrichi_80-20,Lassalle,8,Lassalle,8,0
+REF,enrichi_80-20,Golgotha,8,Golgotha,8,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Artiste,7,Artiste,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Juif,4,Juif,4,0
+REF,enrichi_80-20,Juif,4,Juif,4,0
+REF,enrichi_80-20,Juif,4,Juif,4,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier !,11,Canonnier,9,-2
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Liane,5,Liane,5,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Répondez,8,Répondez,8,0
+REF,enrichi_80-20,Machinard,9,Machinard,9,0
+REF,enrichi_80-20,Réponds,7,Réponds,7,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Machinard,9,Machinard,9,0
+REF,enrichi_80-20,Justice,7,Justice,7,0
+REF,enrichi_80-20,Marine,6,Marine,6,0
+REF,enrichi_80-20,Agriculture,11,Agriculture,11,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Justice !,9,Justice,7,-2
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Londres,7,Londres,7,0
+REF,enrichi_80-20,Justice,7,Justice,7,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,J.-J.B.,7,J.-J.B.,7,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Dinard,6,Dinard,6,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Suisse,6,Suisse,6,0
+REF,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi_80-20,Vive Jésus !,12,Jésus,5,-7
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Père,4,Père,4,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,– Père,6,Père,4,-2
+REF,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Cayenne,7,Cayenne,7,0
+REF,enrichi_80-20,– Mademoiselle,14,Mademoiselle,12,-2
+REF,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi_80-20,– Mademoiselle,14,Mademoiselle,12,-2
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Égérie,6,Égérie,6,0
+REF,enrichi_80-20,Numas,5,Numas,5,0
+REF,enrichi_80-20,Égérie,6,Égérie,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Mme Ida,7,Mme,3,-4
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Videz,5,Videz,5,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Croyez,6,Croyez,6,0
+REF,enrichi_80-20,Anglaise,8,Anglaise,8,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Messieurs,9,Messieurs,9,0
+REF,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,rue Clémentine,14,Clémentine,10,-4
+REF,enrichi_80-20,Anglaise,8,Anglaise,8,0
+REF,enrichi_80-20,Anglaise,8,Anglaise,8,0
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Remarquez,9,Remarquez,9,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Anglaise,8,Anglaise,8,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Anglaise,8,Anglaise,8,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Chouette !,10,Chouette,8,-2
+REF,enrichi_80-20,Louvain,7,Louvain,7,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Tiens,5,Tiens,5,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Justice,7,Justice,7,0
+REF,enrichi_80-20,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Justice,7,Justice,7,0
+REF,enrichi_80-20,Justice,7,Justice,7,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Jamais !,8,Jamais,6,-2
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Mazas,5,Mazas,5,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Anglaise,8,Anglaise,8,0
+REF,enrichi_80-20,Mme Ida,7,Mme,3,-4
+REF,enrichi_80-20,Louvain,7,Louvain,7,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Réquisitoire,12,Réquisitoire,12,0
+REF,enrichi_80-20,Évangile,8,Évangile,8,0
+REF,enrichi_80-20,Suisse,6,Suisse,6,0
+REF,enrichi_80-20,Louvain,7,Louvain,7,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Jean-Jacques,12,Jean-Jacques,12,0
+REF,enrichi_80-20,Babel,5,Babel,5,0
+REF,enrichi_80-20,Allemande,9,Allemande,9,0
+REF,enrichi_80-20,Danoise,7,Danoise,7,0
+REF,enrichi_80-20,Musette,7,Musette,7,0
+REF,enrichi_80-20,Rodolphe,8,Rodolphe,8,0
+REF,enrichi_80-20,Danton,6,Danton,6,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Anglaise,8,Anglaise,8,0
+REF,enrichi_80-20,Waterloo Road,13,Waterloo,8,-5
+REF,enrichi_80-20,Hollande,8,Hollande,8,0
+REF,enrichi_80-20,Curé,4,Curé,4,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Compagnie,9,Compagnie,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Paris,5,Paris,5,0
+REF,enrichi_80-20,Marguerite,10,Marguerite,10,0
+REF,enrichi_80-20,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi_80-20,Marguerite,10,Marguerite,10,0
+REF,enrichi_80-20,Marguerite,10,Marguerite,10,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Georgette,9,Georgette,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Georgette,9,Georgette,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Noël,4,Noël,4,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Maman...,8,Maman,5,-3
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Noël,4,Noël,4,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Tiens,5,Tiens,5,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Pâques,6,Pâques,6,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Ludgate Hill,12,Ludgate,7,-5
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Waterloo Road,13,Waterloo,8,-5
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Georges,7,Georges,7,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Dieu !...,9,Dieu,4,-5
+REF,enrichi_80-20,Noël !,6,Noël,4,-2
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Noël,4,Noël,4,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Noël,4,Noël,4,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Londres,7,Londres,7,0
+REF,enrichi_80-20,Noël,4,Noël,4,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Paternoster,11,Paternoster,11,0
+REF,enrichi_80-20,Noël,4,Noël,4,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Georges,7,Georges,7,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Casino,6,Casino,6,0
+REF,enrichi_80-20,Aladin,6,Aladin,6,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Nice,4,Nice,4,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Londres,7,Londres,7,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Melle...,8,Melle,5,-3
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Margot !,8,Margot,6,-2
+REF,enrichi_80-20,Ton oncle ?,11,oncle,5,-6
+REF,enrichi_80-20,Calypso,7,Calypso,7,0
+REF,enrichi_80-20,Suisse,6,Suisse,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Mlle Charlotte,14,Charlotte,9,-5
+REF,enrichi_80-20,Mlle Charlotte,14,Charlotte,9,-5
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Casino,6,Casino,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Marguerite,10,Marguerite,10,0
+REF,enrichi_80-20,Paul,4,Paul,4,0
+REF,enrichi_80-20,Cusset,6,Cusset,6,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,M.,2,M.,2,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Gaston,6,Gaston,6,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Vieilleries,11,Vieilleries,11,0
+REF,enrichi_80-20,Rome,4,Rome,4,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mme Mouratet,12,Mouratet,8,-4
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Remarquez,9,Remarquez,9,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Casino,6,Casino,6,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Restauration,12,Restauration,12,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Molière,7,Molière,7,0
+REF,enrichi_80-20,Normandie,9,Normandie,9,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,César,5,César,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Opéra,5,Opéra,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,– Monsieur,10,Monsieur,8,-2
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Vite !,6,Vite,4,-2
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Paris,5,Paris,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Chambre,7,Chambre,7,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,La Dinde,8,Dinde,5,-3
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Circulez,8,Circulez,8,0
+REF,enrichi_80-20,Messieurs,9,Messieurs,9,0
+REF,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Déshonoré,9,Déshonoré,9,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Mouratet,8,Mouratet,8,0
+REF,enrichi_80-20,Justice,7,Justice,7,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Dalmatie,8,Dalmatie,8,0
+REF,enrichi_80-20,Dalmatie,8,Dalmatie,8,0
+REF,enrichi_80-20,Me,2,Me,2,0
+REF,enrichi_80-20,Mystère,7,Mystère,7,0
+REF,enrichi_80-20,Dieu !,6,Dieu,4,-2
+REF,enrichi_80-20,Mme,3,Mme,3,0
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Allemands,9,Allemands,9,0
+REF,enrichi_80-20,Louise,6,Louise,6,0
+REF,enrichi_80-20,Anglaise,8,Anglaise,8,0
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Vichy,5,Vichy,5,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Randal...,9,Randal,6,-3
+REF,enrichi_80-20,Ma mère,7,mère,4,-3
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mme Delpich,11,Delpich,7,-4
+REF,enrichi_80-20,Mme Delpich,11,Delpich,7,-4
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Mme Delpich,11,Delpich,7,-4
+REF,enrichi_80-20,Compromise !,12,Compromise,10,-2
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Mme Delpich,11,Delpich,7,-4
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Michelet,8,Michelet,8,0
+REF,enrichi_80-20,Mme Delpich,11,Delpich,7,-4
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Mme Delpich,11,Delpich,7,-4
+REF,enrichi_80-20,Apache,6,Apache,6,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Royan,5,Royan,5,0
+REF,enrichi_80-20,Vienne,6,Vienne,6,0
+REF,enrichi_80-20,Autrichien,10,Autrichien,10,0
+REF,enrichi_80-20,Mme Delpich,11,Delpich,7,-4
+REF,enrichi_80-20,Delpich,7,Delpich,7,0
+REF,enrichi_80-20,Mlle Charlotte,14,Charlotte,9,-5
+REF,enrichi_80-20,Grecs,5,Grecs,5,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi_80-20,Lamargelle,10,Lamargelle,10,0
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Mon Dieu,8,Dieu,4,-4
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,M. Randal,9,Randal,6,-3
+REF,enrichi_80-20,Dieu,4,Dieu,4,0
+REF,enrichi_80-20,Londres,7,Londres,7,0
+REF,enrichi_80-20,Charlotte,9,Charlotte,9,0
+REF,enrichi_80-20,Montareuil,10,Montareuil,10,0
+REF,enrichi_80-20,Margot,6,Margot,6,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Vauvenargues,12,Vauvenargues,12,0
+REF,enrichi_80-20,Barzot,6,Barzot,6,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Malenvers,9,Malenvers,9,0
+REF,enrichi_80-20,Monsieur !,10,Monsieur,8,-2
+REF,enrichi_80-20,Nothingabout,12,Nothingabout,12,0
+REF,enrichi_80-20,Monsieur,8,Monsieur,8,0
+REF,enrichi_80-20,Courbassol,10,Courbassol,10,0
+REF,enrichi_80-20,Mazas,5,Mazas,5,0
+REF,enrichi_80-20,Mme Courbassol,14,Courbassol,10,-4
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Normandie,9,Normandie,9,0
+REF,enrichi_80-20,Broussaille,11,Broussaille,11,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Lafayette,9,Lafayette,9,0
+REF,enrichi_80-20,Canonnier,9,Canonnier,9,0
+REF,enrichi_80-20,Randal,6,Randal,6,0
+REF,enrichi_80-20,Issacar,7,Issacar,7,0
+REF,enrichi_80-20,Cayenne,7,Cayenne,7,0
+REF,enrichi_80-20,Madeleine,9,Madeleine,9,0
+REF,enrichi_80-20,Maître,6,Maître,6,0
+REF,enrichi_80-20,Renée,5,Renée,5,0
+REF,enrichi_80-20,Doctrine,8,Doctrine,8,0
+REF,enrichi_80-20,Jean-Jacques,12,Jean-Jacques,12,0
+REF,enrichi_80-20,Mensonge !,10,Mensonge,8,-2
+REF,enrichi_80-20,Jésus,5,Jésus,5,0
+REF,enrichi_80-20,Christ,6,Christ,6,0
+REF,enrichi_80-20,Individu,8,Individu,8,0
+REF,enrichi_80-20,l'Individu,10,Individu,8,-2
+REF,enrichi_80-20,Amour,5,Amour,5,0
+REF,enrichi_80-20,Haine,5,Haine,5,0
+REF,enrichi_80-20,Idole,5,Idole,5,0
+REF,enrichi_80-20,Image,5,Image,5,0
+REF,enrichi_80-20,l'Individu,10,Individu,8,-2
+REF,enrichi_80-20,Droits,6,Droits,6,0
+REF,enrichi_80-20,l'Individu,10,Individu,8,-2

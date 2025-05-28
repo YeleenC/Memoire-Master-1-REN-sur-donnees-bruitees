@@ -1,0 +1,939 @@
+Gauche,Début,Texte,Label_modele,Label_spacy,Fin,Droit
+"nt jamais sorti de mon trou. 
+",1438,– Monsieur,PER,PER,1448, est sans doute un ami de M. R
+ieur est sans doute un ami de ,1474,M. Randal,PER,PER,1483,", me dit l'hôtelière comme je "
+"; je n'ai pas cet honneur. 
+– ",1589,Tiens,MISC,MISC,1594,", c'est drôle. Je vous aurais "
+" coin, là, c'est la valise de ",3579,M. Randal,PER,PER,3588, ; il n'a pas voulu l'emporter
+"ins du monde. 
+– J'espère que ",3837,Monsieur,PER,PER,3845," sera satisfait, dit l'hôtesse"
+es messieurs ont dû le dire à ,3962,Monsieur,PER,PER,3970,". 
+J'esquisse un sourire. 
+J'a"
+ce que contenait la valise de ,4263,M. Randal,PER,PER,4272,". Curiosité malsaine, je l'acc"
+né la lecture des mémoires de ,6086,M. Randal,PER,PER,6095, -- l'appellerai-je Monsieur ?
+"ait écrit, d'avance, le sieur ",7599,Randal,PER,PER,7605,. -- Tant pis pour lui ; tant 
+" respect de la propriété, que ",7813,Messieurs,PER,PER,7822, les voleurs commencent -- pou
+ait grand temps ; et ma tante ,10128,Augustine,PER,PER,10137,", en termes voilés, a mis mon "
+"ment justifiées, ce n'est pas ",20386,Gambetta,PER,PER,20394,", ni même M. Thiers, qui symbo"
+"être le mieux... 
+Silence. 
+– ",30184,Eh !,MISC,MISC,30188," bien, a-t-il murmuré, je ne v"
+"us importuner plus longtemps, ",30260,M. Randal,PER,PER,30269, ; je vais vous quitter... Au 
+"dans cette main-là. 
+– Adieu, ",30437,Monsieur,PER,PER,30445,". 
+Alors, M. Dubourg est parti"
+"robes de sa fille, ma cousine ",35454,Charlotte,PER,PER,35463,", qui commence à porter des ju"
+n'est censé ignorer la loi. » ,41344,Est,LOC,LOC,41347,"-ce que c'est classique, ça, o"
+"il convient, à la victoire de ",45140,Cicéron,PER,PER,45147, sur Catilina ; et aussi au tr
+ina ; et aussi au triomphe de ,45187,César,PER,PER,45192,". L'empire Romain s'établit, à"
+or de gloire. » J'estime fort ,46023,Raphaël,PER,PER,46030," pour les Loges du Vatican, qu"
+"es du Vatican, que j'ignore ; ",46073,Michel-Ange,PER,PER,46084,", pour le Jugement Dernier, qu"
+Boileau a mon admiration ; et ,46165,Malherbe,PER,PER,46173,", qui vint enfin. Je sais que "
+"ment sur ses instincts, a dit ",47047,Emerson,PER,PER,47054,", et le monde entier viendra à"
+"rais-je ? Tu sais que, depuis ",48999,Bonaparte,PER,PER,49008,", la carrière est ouverte aux "
+"nieur. Où, comment j'ai connu ",52214,M. Issacar,PER,PER,52224,", c'est assez difficile à dire"
+"jours lui qui fait la vôtre. 
+",52385,M. Issacar,PER,PER,52395, compte beaucoup sur moi ; il 
+r le hasard des promiscuités. ,52642,M. ,PER,PER,52645,Issacar est un homme habile ; 
+"éprise pas ton corps », a dit ",59393,Isaïe,PER,PER,59398,". Monsieur, je ne connais poin"
+"rd Montareuil, que ma cousine ",64758,Charlotte,PER,PER,64767, va se marier. Pas un mauvais 
+"ose, on dirait, de savoir que ",64930,Charlotte,PER,PER,64939, va se marier avec lui ; quelq
+"l à définir. Une jolie brune, ",65026,Charlotte,PER,PER,65035,", avec la peau mate et de gran"
+"e et de grands yeux noirs... 
+",65083,Est,LOC,LOC,65086,"-ce que je serais amoureux, pa"
+lorsqu'il est seul en face de ,85897,Charlotte,PER,PER,85906,". 
+Ça, je m'en moque absolumen"
+anscrire sa conversation avec ,86428,Charlotte,PER,PER,86437," ne me serait pas difficile. 
+"
+", Mademoiselle ! 
+– Oh ! oui, ",86540,Monsieur,PER,PER,86548,". 
+– On se serait cru en plein"
+"en plein mois d'août. 
+– Oui, ",86600,Monsieur,PER,PER,86608,". 
+– Vous ne craignez pas les "
+"leurs, Mademoiselle ? 
+– Non, ",86679,Monsieur,PER,PER,86687,". 
+– Beaucoup de gens s'en tro"
+" trouvent incommodés. 
+– Oui, ",86743,Monsieur,PER,PER,86751,"... 
+Mon oncle parle de l'inte"
+u'il a de faire remonter pour ,86818,Charlotte,PER,PER,86827, plusieurs des bijoux que lui 
+ions pour moi ; le mariage de ,87313,Charlotte,PER,PER,87322,", me dit-il, n'est plus qu'une"
+de votre oncle. Nous laissons ,88738,Marguerite,PER,PER,88748," pour garder la maison, et nou"
+"les yeux de Margot. 
+– Alors, ",89449,Monsieur,PER,PER,89457, ne va pas à Maisons-Laffitte 
+"elle en baissant les yeux. 
+– ",89643,Eh !,MISC,MISC,89647," bien, non, je n'y vais pas ; "
+ oncle dans une colère bleue. ,90337,Mme Montareuil,PER,PER,90351,", que j'avais rencontrée au ba"
+"fort affligé. 
+– Mademoiselle ",90610,Charlotte,PER,PER,90619," ne se mariera pas, m'a dit l'"
+u'une union entre son fils et ,93014,Charlotte,PER,PER,93023, était désormais impossible ; 
+"peu vite en besogne. D'abord, ",93254,Charlotte,PER,PER,93263," avait, je crois, beaucoup d'a"
+trait. -- Il était l'amant de ,95055,Mme Montareuil,PER,PER,95069,". 
+– Mme Montareuil ! Un amant"
+Me prends-tu pour un enfant ? ,97272,Est,LOC,LOC,97275,-ce que j'ai l'habitude d'inve
+"ui demander. 
+Tout de suite. 
+",100405,Charlotte,PER,PER,100414, ne m'a pas dit ce qu'elle pen
+"ngtemps déjà, sans doute, que ",102699,Charlotte,PER,PER,102708, a pu satisfaire sa curiosité 
+"r toutes les pensées hautes. 
+",104104,Charlotte,PER,PER,104113," a peut-être souffert, aussi, "
+"core, que je sens vibrer dans ",106018,Charlotte,PER,PER,106027," ; je la lis sur son visage, s"
+" Nous ne serons plus séparés, ",110848,Charlotte,PER,PER,110857, et moi ; par un adversaire in
+"approche un nouveau lien, car ",111354,Charlotte,PER,PER,111363," est enceinte. Avant-hier, ell"
+u'une. Je ne veux plus marier ,112065,Charlotte,PER,PER,112074,. -- Vous ne voulez plus... --
+qui ont empêché le mariage de ,112380,Charlotte,PER,PER,112389,", en raison même de la rareté "
+rd possible. -- Savez-vous si ,113166,Charlotte,PER,PER,113175, sera de votre avis et si elle
+. -- Soit. C'est ce qu'a fait ,113616,Charlotte,PER,PER,113625,. Depuis trois mois elle est m
+" veuille vous dire, c'est que ",114588,Charlotte,PER,PER,114597, est enceinte et qu'il nous fa
+re allusion injurieuse envers ,114983,Charlotte,PER,PER,114992,", vieux coquin, je vous écrase"
+bien. Accordez-moi la main de ,115925,Charlotte,PER,PER,115934, ; je ne vous demande pas de d
+elle me confère. Tu as séduit ,117456,Charlotte,PER,PER,117465, ; tu peux la garder. Vivez en
+"vahir tout d'un coup, lorsque ",117814,Charlotte,PER,PER,117823," est entrée. 
+– Eh ! bien, que"
+"sque Charlotte est entrée. 
+– ",117839,Eh !,MISC,MISC,117843," bien, que t'a dit mon père ? "
+rmes roulent dans les yeux de ,118863,Charlotte,PER,PER,118872,". 
+– Je t'aime, oui... Oh ! Je"
+"nlevés la nuit. Eh ! bien... 
+",119611,Charlotte,PER,PER,119620, s'élance vers moi et me pose 
+"nfamies du Code ? 
+– Non, dit ",123510,Charlotte,PER,PER,123519,", je n'hésiterai pas. Je suis "
+" ! 
+– Oh ! c'est affreux, dit ",124930,Charlotte,PER,PER,124939, en sanglotant. Je ne sais pas
+"e la prends dans mes bras. 
+– ",125427,Eh !,MISC,MISC,125431," bien, si tu m'aimes, Charlott"
+" 
+– Eh ! bien, si tu m'aimes, ",125453,Charlotte,PER,PER,125462,", ne me demande point des chos"
+" assez forte pour me suivre. 
+",126433,Charlotte,PER,PER,126442," devient pâle, pâle comme une "
+"ent sur ses lèvres blêmes. 
+– ",126678,Eh !,MISC,MISC,126682," bien, va-t-en, alors ! crié-j"
+"a t-en ! Va-t-en !... 
+Alors, ",126894,Charlotte,PER,PER,126903," s'en va, toute droite. Et pen"
+"rron hors la loi à gauche, et ",131563,Jésus,PER,PER,131568," la bonté même, représentant l"
+"sses dirigées. De par la loi, ",134931,Monsieur,PER,PER,134939,", de par la loi ! Vous savez q"
+"poules, a sa moralité, assure ",138207,Carlyle,PER,PER,138214, ; sans quoi il ne pourrait pa
+"homme, et qu'avait déjà tenue ",146367,Jérémie,PER,PER,146374,", l'Individu la porte sur la p"
+"haise libre perd sa liberté. 
+",155110,– Monsieur,PER,PER,155120,", me dit l'honnête industriel,"
+"e industriel, j'ai appris par ",155167,M. Issacar,PER,PER,155177, combien vous êtes désireux de
+l'avis de notre honorable ami ,155483,M. Issacar,PER,PER,155493,", et je suis heureux qu'il ait"
+"rompre l'honnête industriel. 
+",156335,– Monsieur,PER,PER,156345,", lui dis-je, le tableau que v"
+"ndus hostiles. N'oubliez pas, ",156992,Monsieur,PER,PER,157000,", que je suis ingénieur ; rien"
+"n soit, je puis vous assurer, ",157263,Monsieur,PER,PER,157271,", que vos paroles ont fait la "
+la plus grande impression sur ,157328,M. Randal,PER,PER,157337,. Je connais M. Randal. Il est
+ion sur M. Randal. Je connais ,157350,M. Randal,PER,PER,157359,". Il est peu expansif, comme t"
+"! c'est aller bien vite... 
+– ",157904,Mon Dieu !,MISC,MISC,157914, dit l'industriel dont les yeu
+"n a pour moi. 
+– Oui, dit-il, ",158288,M. Randal,PER,PER,158297, a certaines raisons qui le fo
+"e nous l'apprend. La science, ",159006,Monsieur,PER,PER,159014, ! La main-d'œuvre est pour ri
+"nt à présent. Loi économique, ",159420,Monsieur,PER,PER,159428,", loi économique ! 
+– La scien"
+"able chose, dit Issacar. Mais ",159504,M. Randal,PER,PER,159513,", qui a pour elle tout le resp"
+"es, dont l'idée seule effraye ",160874,M. Randal,PER,PER,160883,". 
+– Oui, dis-je, obéissant à "
+" avons la garde civique, ici, ",162366,Monsieur,PER,PER,162374,", pour une fois. Mais enfin, c"
+"our vous demander à déjeuner, ",163666,M. Randal,PER,PER,163675," et moi. 
+– Le plus tôt possib"
+"
+– Je suis vraiment enchanté, ",166447,Monsieur,PER,PER,166455,... Permettez-moi seulement un
+"pluriel, et de nous donner du ",167321,Monsieur,PER,PER,167329," ? Donc, Roger-la-Honte me tut"
+"euses dont la dernière, quand ",167964,Roger,PER,PER,167969, a ouvert une porte au quatriè
+r avant une heure au moins... ,170094,Tiens,MISC,MISC,170099,", pour tuer le temps, je vais "
+"i tu t'en es aperçu, continue ",173417,Roger,PER,PER,173422, ; mais les toiles des grands 
+"es pièges à loups... Un jour, ",176705,au Louvre,LOC,LOC,176714,", j'ai volé un tableau. Cela s"
+"oile de Lorenzo di Credi, une ",176949,Vierge,PER,PER,176955, qui me plaisait beaucoup ; je
+" éclairée. 
+– Halte ! murmure ",184379,Roger,PER,PER,184384,. Il faut attendre ; nous nous
+mporte quoi. Je m'en moque... ,185361,Tiens,MISC,MISC,185366,", la lumière vient de s'éteind"
+" Une chambre de débarras, dit ",187903,Roger,PER,PER,187908, en allumant sa lanterne sourd
+"ème étage. 
+– C'est bien, dit ",188879,Roger,PER,PER,188884,. Nous allons commencer. Une p
+" maison. 
+– Ça y est, murmure ",189294,Roger,PER,PER,189299,", qui pose un doigt sur ses lè"
+rien ne bouge dans la maison. ,189460,Roger,PER,PER,189465, pousse la porte dont la serru
+"mais incessant, de la scie de ",192650,Roger,PER,PER,192655, : il a déjà pu percer le coff
+e parti de remonter auprès de ,193102,Roger,PER,PER,193107,". 
+– Te voilà ? demande-t-il, "
+"e, à présent ? 
+– Non, répond ",193859,Roger,PER,PER,193864, ; il faut partir par où nous 
+ndustriel et la lanterne dont ,194224,Roger,PER,PER,194229, n'a pas eu besoin au rez-de-c
+ s'apercevront de rien. C'est ,194541,Monsieur,PER,PER,194549," lui-même, lorsqu'il montera à"
+fermé la porte derrière nous. ,194813,Roger,PER,PER,194818, fait le tour des malles et de
+" devrait pendre. 
+– Bah ! dit ",196578,Roger,PER,PER,196583,", à quoi bon déshonorer une co"
+"à Cannon Street, c'est que si ",197239,Paternoster,PER,PER,197250, nous donne cent mille francs 
+"int, jusqu'ici, quel bénéfice ",199263,Paternoster,PER,PER,199274, avait retiré de sa complaisan
+e la petite était la fille de ,200276,Paternoster,PER,PER,200287,", une fille qu'il a eue d'un p"
+rcs. Sur une interrogation de ,200736,Roger,PER,PER,200741,", l'un d'eux se lève, se dirig"
+– Vous voilà enfin ! dit-il à ,201151,Roger,PER,PER,201156,. Il y a un grand mois que je 
+i eu le plaisir de vous voir. ,201219,Monsieur,PER,PER,201227," est de vos amis, je présume ?"
+it foncier ou des emprunts de ,204507,Villes,MISC,MISC,204513,", vous n'en voulez pas. 
+– Nat"
+" de belles espérances. Voyez, ",205127,Monsieur,PER,PER,205135,", comme le Progrès choisit, po"
+"'est une grosse somme, assure ",207496,Paternoster,PER,PER,207507, en hochant la tête. Quand on 
+"– Voilà un beau discours, dit ",208358,Roger-la-Honte,PER,PER,208372,". Monsieur Paternoster, il fau"
+"s à leur propriétaire, répond ",209331,Paternoster,PER,PER,209342,. Figurez-vous que vous êtes d
+réfléchi en parlant ? demande ,210193,Roger,PER,PER,210198,. Vous me semblez bien autorit
+ Qu'en penses-tu ? me demande ,211147,Roger,PER,PER,211152,". 
+– Fais comme tu voudras. 
+–"
+"tu voudras. 
+– C'est bon, dit ",211198,Roger,PER,PER,211203, ; nous acceptons. Mais nous n
+". 
+– La voilà, ma caisse, dit ",211305,Paternoster,PER,PER,211316," en nous montrant un sac noir,"
+" Avez-vous l'air content, mon ",212100,Dieu !,MISC,MISC,212106," Moi, si j'étais voleur, voule"
+la maison ; nous y montons et ,213020,Roger,PER,PER,213025, donne au cab l'adresse d'un h
+"onné Paternoster. 
+– Non, dit ",213240,Roger,PER,PER,213245," ; il ne manque pas, à Londres"
+ous allons faire une visite à ,213448,Broussaille,LOC,LOC,213459,". 
+– C'est une excellente idée"
+angulaire. Nous descendons et ,213687,Roger,PER,PER,213692," fait, à plusieurs reprises, r"
+" n'éclaire aucune lumière. 
+– ",213925,Bizarre !,MISC,MISC,213934, dit Roger. Broussaille a dû s
+"une lumière. 
+– Bizarre ! dit ",213939,Roger,PER,PER,213944,. Broussaille a dû sortir et l
+rie que Broussaille est à l'« ,214108,Empire,LOC,LOC,214114,". » Allons-y. 
+Nous y allons. "
+" cherches ta sœur, dit-elle à ",214515,Roger,PER,PER,214520,". 
+– Oui. Sais-tu où elle est "
+"ce qu'elle veut dire, s'écrie ",215170,Roger,PER,PER,215175, en descendant l'escalier. Mai
+"ta présence à Londres, répond ",216613,Roger,PER,PER,216618," ; et d'ailleurs, mon ami Rand"
+"oger ; et d'ailleurs, mon ami ",216644,Randal,PER,PER,216650," n'aurait pas osé. 
+– Vraiment"
+"es-vous timide à ce point-là, ",216729,Monsieur,PER,PER,216737," ? 
+– Beaucoup plus encore, di"
+"nton. 
+– Je vous préviens que ",218137,Broussaille,PER,PER,218148," va être jalouse, me dit-elle "
+"rible... 
+– Ne la gronde pas, ",220938,Roger,PER,PER,220943,", implore Ida. Elle est un peu"
+"is. Ne me gronde pas... 
+Mais ",221167,Roger,PER,PER,221172, n'en a pas la moindre envie. 
+"e ça, par exemple ! Dis donc, ",221323,Randal,PER,PER,221329,", te rappelles-tu comme je me "
+"angerait... 
+– C'est bon, dit ",222069,Roger,PER,PER,222074,. Ne parlons plus de ça. J'ira
+"nce ! 
+– Tu as raison, répond ",222752,Roger,PER,PER,222757, ; mais si tu mettais tes préc
+"– On cherche des remèdes, dit ",224676,Roger,PER,PER,224681, ; on parle d'un impôt sur les
+"mme sera libre en France, dit ",225271,Roger,PER,PER,225276,", la France cessera d'être la "
+"udrait dire... Oh ! à propos, ",227526,Roger,PER,PER,227531,", j'ai revu ma cliente... Tu s"
+"ir. 
+– Attends un peu, répond ",227887,Roger,PER,PER,227892, ; il faut que je réfléchisse.
+"e. 
+– C'est tout naturel, dit ",228337,Roger,PER,PER,228342, ; son père est le roi des vol
+" pourquoi n'irais-tu pas, toi ",228635,Randal,PER,PER,228641," ? 
+– Oui, pourquoi ? demande "
+"le-Lumière. Nous nous levons, ",228961,Roger,PER,PER,228966," et moi. 
+– Comment ! s'écrie "
+"us avions employé la matinée, ",229875,Roger,PER,PER,229880," et moi, à déposer la plus gra"
+"l ; aujourd'hui, on a soif de ",234268,Cartouche,LOC,LOC,234277,". Un voleur, Madame ! Un vrai "
+"n, la femme du monde et moi. 
+",236899,– Monsieur,PER,PER,236909,", me dit-elle, on a bien raiso"
+"t, aujourd'hui... Vous savez, ",237813,Monsieur,PER,PER,237821,", pourquoi j'ai demandé à fair"
+Il vint me voir et me dit : « ,238470,Renée,PER,PER,238475," »... -- je m'appelle Renée, M"
+ « Renée »... -- je m'appelle ,238497,Renée,PER,PER,238502,", Monsieur ; désignez-moi par "
+"e »... -- je m'appelle Renée, ",238504,Monsieur,PER,PER,238512, ; désignez-moi par ce nom qua
+"z plaisir ; même, appelez-moi ",238621,Renée,PER,PER,238626," maintenant, si vous voulez. M"
+"sir. Dites-le, pour voir ? 
+– ",238761,Renée,PER,PER,238766,". 
+– Oui, très bien, c'est tou"
+"a. Bref, mon oncle me dit : « ",238838,Renée,PER,PER,238843,", il faut me tirer de là. » Mo"
+"ée, il faut me tirer de là. » ",238871,Monsieur,PER,PER,238879,", j'ai mes défauts, je ne le c"
+ffée tout le milieu du dos... ,239585,Est,LOC,LOC,239588,-ce que vous aimez la peinture
+me ; quand elle m'eut dit : « ,240023,Renée,PER,PER,240028,", il faut me tirer de là », je"
+"e. Je crois devoir vous dire, ",240330,Monsieur,PER,PER,240338,", quelles idées me vinrent suc"
+"ragée comme un bijou. 
+– Oui, ",241618,Monsieur,PER,PER,241626,", oui, j'ai pensé à cela ; à a"
+"e. 
+– Je vous demande pardon, ",242342,Madame,PER,PER,242348,. J'admets très bien qu'une fe
+"n'en a plus. Que voulez-vous, ",243426,Monsieur,PER,PER,243434, ? On ne peut pas. Une jeune f
+"ier m'a convaincue ; écoutez, ",245049,Monsieur,PER,PER,245057, : on peut dire de lui ce qu'o
+" progrès ! Je suis persuadée, ",245670,Monsieur,PER,PER,245678,", que vous avez reçu une excel"
+"ote de vos intentions, répond ",246594,Renée,PER,PER,246599, en souriant. Mais vous ne me 
+"mais pas plus. 
+– Hélas ! dit ",247905,Renée,PER,PER,247910,", vous êtes impitoyable. Si vo"
+"à peine vêtue pour venir ici, ",248359,Monsieur,PER,PER,248367," ; un costume de trottin, qui "
+"rs passions sont en jeu... 
+– ",250647,Eh !,MISC,MISC,250651," bien, me demande Ida qui est "
+er entre les petites mains de ,252778,Renée,PER,PER,252783, les cinquante mille francs qu
+rents ; passer de Belgique en ,254503,Suisse,LOC,LOC,254509,", d'Allemagne en Hollande et d"
+leyrand -- je suis un déloyal ,254935,Européen,LOC,LOC,254943,". 
+« Pourtant, me dis-je quelq"
+" cygne, de Dianes au bain, de ",261022,Danaés,PER,PER,261028, sous la pluie d'or. Elle est 
+"in à sa cousine, ce que M. de ",261570,Turenne,PER,PER,261577, m'a conté avoir ouï dire au f
+" Lamargelle. 
+– Hé ! bonjour, ",264845,cher Monsieur,PER,PER,264858,", me dit-il de sa voix profond"
+" cette qualité que j'ai pris, ",266243,cher Monsieur,PER,PER,266256,", la liberté de m'intéresser à"
+"prouvée ! Vous rappelez-vous, ",268164,cher Monsieur,PER,PER,268177,", l'importance du vol dont Mme"
+" poussait jusqu'à Londres... 
+",268415,– Monsieur,PER,PER,268425," l'abbé, dis-je, j'ai peine à "
+"ur garant de ma bonne foi. 
+– ",271640,Mon Dieu,MISC,MISC,271648,", dis-je, je ne vois point pou"
+"et. 
+– Ils ont l'éloquence de ",272727,Guizot,PER,PER,272733, : Enrichissez-vous ! Ce qui m
+ntir chrétien et l'effroyable ,273575,Remords,PER,PER,273582, de l'antiquité. Ce serait dés
+uité. Ce serait déshonorer le ,273623,Remords,PER,PER,273630,"... Quant à la morale, il n'y "
+nière -- comme ces vieux rois ,274805,du Nord,LOC,LOC,274812," qui se plaçaient, mourants, d"
+"se partout... Quel monde, mon ",280356,Dieu !,MISC,MISC,280362," 
+Au moment où il allait me qu"
+"e. 
+Le second voyageur est un ",292428,Monsieur,PER,PER,292436," d'aspect morose, au teint jau"
+" pareil. Ne trouvez-vous pas, ",293824,Monsieur,PER,PER,293832," ? 
+– Oui, beau temps... très "
+"utour le monde, juste ainsi. 
+",293968,– Monsieur,PER,PER,293978, est étranger ? Ah ! ah ! vrai
+t des nombreuses aventures du ,294264,Monsieur,PER,PER,294272, jovial avec les fils de la pe
+pelle avoir vu un portrait de ,294491,Washington,PER,PER,294501,... Vous lui ressemblez étonna
+" 
+– Parfaitement, approuve le ",294786,Monsieur,PER,PER,294794, jovial qui voit qu'il n'y a d
+"sort. 
+– Ne trouvez-vous pas, ",294946,Monsieur,PER,PER,294954,", demande-t-il en se tournant "
+"ne voix lugubre. 
+– Le monde, ",295528,Monsieur,PER,PER,295536,", est émerveillé de la façon d"
+"e vous. Je suis philanthrope, ",297037,Monsieur,PER,PER,297045,". Un philanthrope, n'est-ce pa"
+"ment infirmes. 
+– Croyez-moi, ",297874,Monsieur,PER,PER,297882,", la philanthropie doit deveni"
+"manque au Parlement français, ",299435,Monsieur,PER,PER,299443,", ce n'est pas la bonne volont"
+"qui fait défaut à la Chambre, ",299726,Monsieur,PER,PER,299734,", c'est un philanthrope qui in"
+"! ce serait si beau ! 
+– Non, ",299879,Monsieur,PER,PER,299887, ; pas du pain. L'homme ne vit
+"es gaillards-là ne font rien, ",301862,Monsieur,PER,PER,301870,", ou presque rien. Ils se tour"
+"ue je vous expose. Ces têtes, ",302821,Monsieur,PER,PER,302829,", il faudrait les faire tomber"
+"ait le bon grain. Savez-vous, ",302960,Monsieur,PER,PER,302968,", quelle est la principale cau"
+"ers les méchants, continue le ",303433,Monsieur,PER,PER,303441," jovial au bout d'un instant, "
+"atiquement. Mathématiquement, ",303633,Monsieur,PER,PER,303641, ! Il conviendrait d'assurer d
+ se refusent pas grand'chose. ,304780,Monsieur,PER,PER,304788,", il n'y a pas d'êtres plus in"
+s mineurs des départements du ,305079,Nord,LOC,LOC,305083,", au contraire, habitent des t"
+"uction donne la patience, mon ",306814,cher Monsieur,PER,PER,306827,. Elle donne une patience d'an
+"encore mieux que les courses, ",307261,Monsieur,PER,PER,307269,", pour tenir en bride les mauv"
+"ilà la trilogie... Du papier, ",307716,Monsieur,PER,PER,307724,", du papier !... 
+Le Monsieur "
+et semble vouloir s'endormir. ,307806,Le Monsieur,PER,PER,307817," jovial en fait autant. Moi, j"
+"oi aussi. 
+Une exclamation du ",308414,Monsieur,PER,PER,308422," jovial me réveille. 
+– Ah ! s"
+"e craignais de vous déranger, ",308540,Monsieur,PER,PER,308548,", continue-t-il en se tournant"
+"vez là une bien belle montre, ",308928,Monsieur,PER,PER,308936,". 
+Oui. J'en ai beaucoup comme"
+à que se trouve le cabinet de ,312765,Monsieur,PER,PER,312773,". En face, à droite ou à gauch"
+ont le chiffre ferait loucher ,314439,Paternoster,PER,PER,314450, ; en face d'un lot assez cons
+"et je me mets sur mes pieds. 
+",317522,Est,LOC,LOC,317525,-ce que je rêve encore ? On di
+"e ; elle a empiré, plutôt. 
+– ",332289,Eh !,MISC,MISC,332293," bien, pour prendre un instant"
+resque l'histoire de l'œuf de ,337493,Colomb,PER,PER,337499,". Omne ex ovo . Quel œuf ! 
+Ba"
+"est très beau, ce que m'a dit ",340182,Balon,PER,PER,340187,". Et puis, il parle si bien ! "
+"ès que j'arriverai chez lui. 
+",340477,Tiens !,MISC,MISC,340484," j'y suis. 
+Sa femme vient m'o"
+"nne encore. Cette fois, c'est ",343183,Mme Talmasco,PER,PER,343195," qui va ouvrir. 
+– Peut-être a"
+pagnons qui viennent insulter ,343506,Mme Talmasco,PER,PER,343518,", lui reprocher ceci, cela, et"
+tinuent à hurler dans la rue. ,343699,Mme Talmasco,PER,PER,343711," remonte, tout en larmes. 
+– B"
+"e ; elle a empiré, plutôt. 
+– ",345543,Eh !,MISC,MISC,345547," bien, pour prendre un instant"
+mais sa propre misère morale. ,347333,La Révolution,MISC,MISC,347346, prend l'aspect d'une Némésis 
+volution prend l'aspect d'une ,347368,Némésis,PER,PER,347375," assagie et bavarde, établie e"
+de Karl Marx ou le spectre de ,347642,Bakounine,PER,PER,347651,", qui pontifient, jugent et ra"
+ quoi ai-je été me mêler là ? ,351638,Est,LOC,LOC,351641,"-ce que cela me regarde, moi, "
+"a petite femme du monde... 
+– ",352688,Renée,PER,PER,352693, ? Non. Je l'ai bien vue deux 
+"ctuel, comme le précepteur du ",354363,Dauphin,PER,PER,354370, traitait autrefois le compagn
+"ait couper plusieurs fois. 
+– ",363910,Eh !,MISC,MISC,363914," bien, non, mon petit, tu ne t"
+"be. 
+– Monsieur le professeur ",365060,Machin,PER,PER,365066,", criminaliste. 
+Saluts, poign"
+"esseur Machin, criminaliste. 
+",365083,Saluts,PER,PER,365089,", poignées de mains, petite co"
+rtage-t-il cette mélancolie ? ,365448,Mon Dieu !,MISC,MISC,365458, oui ; il ne s'en défend pas. 
+"nes. Il a fondé une Revue. 
+– ",365987,La « ,MISC,MISC,365992,Revue Pénitentiaire. » N'en av
+" malfaiteur. Que voulez-vous, ",368175,Monsieur,PER,PER,368183, ? Un criminel est un invalide
+"de physique. N'en doutez pas, ",368859,Monsieur,PER,PER,368867, ; tout criminel présente des 
+"ient pas l'examen. Car enfin, ",369329,Monsieur,PER,PER,369337,", où sont, dans l'admirable so"
+ que vous êtes un disciple de ,369785,Lombroso,PER,PER,369793,", et je vous en fais mon compl"
+"ttines aussi pointues. Voilà, ",370824,Monsieur,PER,PER,370832,. Ah ! la science est une bell
+"ères. Et, d'ailleurs, puisque ",371505,M.,PER,PER,371507, le professeur Machin parlait 
+"urs, puisque M. le professeur ",371522,Machin,PER,PER,371528, parlait tout à l'heure de la 
+"ontareuil. Pourquoi, mon cher ",372841,Randal,PER,PER,372847,", n'écririez-vous pas un artic"
+"tas -- ce qu'on rigolera ! 
+– ",373555,Eh !,MISC,MISC,373559," bien, dis-je, puisque vous se"
+"se d'inattendu ! Je suis sûr, ",374361,Monsieur,PER,PER,374369,", que vous ferez un chef-d'œuv"
+ar un éloge pompeux du maître ,377128,Lombroso,PER,PER,377136,", où je mettais en pleine lumi"
+voyage sans son mari et qu'un ,377925,Monsieur,PER,PER,377933, sympathique s'est installé da
+"– Tout ce que je sais, répond ",379927,Mouratet,PER,PER,379935,", c'est que le mariage m'a por"
+"n éclat de rire me répond. 
+– ",382687,Mon Dieu,MISC,MISC,382695,", Monsieur, que votre étude da"
+" rire me répond. 
+– Mon Dieu, ",382697,Monsieur,PER,PER,382705,", que votre étude dans la « Re"
+"suis ravie de vous connaître, ",382906,Monsieur,PER,PER,382914,", et mon mari ne pouvait me fa"
+"rouver une parole, tandis que ",383367,Renée,PER,PER,383372, -- car c'est elle -- va recev
+"st intéressante, cette petite ",384754,Renée,PER,PER,384759, qui tire si joliment sa révér
+" crevé le cerceau de papier. 
+",385159,Est,LOC,LOC,385162,"-ce amusant, une soirée chez M"
+" ! 
+Je voudrais bien parler à ",386259,Renée,PER,PER,386264,". Justement, elle vient de se "
+" mon habit. 
+– Vrai ? demande ",387527,Renée,PER,PER,387532, en éclatant de rire. On n'ima
+". 
+J'ai apporté la pince ; et ",390631,Renée,PER,PER,390636, m'a présenté aux trois person
+"iez bien avoir raison, me dit ",392300,Renée,PER,PER,392305, à qui j'expose un jour mes id
+"ai de Bussy-Rabutin, volé par ",393075,Napoléon,PER,PER,393083,. Il ne faut pas oublier trop 
+" coup, je la reconnais. C'est ",394662,Margot,PER,PER,394668,", Marguerite, l'ancienne femme"
+"e la reconnais. C'est Margot, ",394670,Marguerite,PER,PER,394680,", l'ancienne femme de chambre "
+'ancienne femme de chambre de ,394713,Mme Montareuil,PER,PER,394727,". 
+– Enfin, te voilà ! s'écrie"
+ renvoyée sans certificat par ,395522,Mme Montareuil,PER,PER,395536,", à la suite de ce vol dont on"
+s eu à se plaindre ; ah ! mon ,395964,Dieu,MISC,MISC,395968,", non. Elle a une chance infer"
+"on ami Chose, et son confrère ",398864,Machinard,PER,PER,398873, ; et beaucoup d'hommes de lan
+ devant la gare. Il y a aussi ,399662,M.,PER,PER,399664, le maire flanqué de ses adjoi
+"u dernier soupir du trombone, ",400314,M.,PER,PER,400316," le maire, rouge jusqu'aux ore"
+ robes surannées des dames de ,402631,Malenvers,PER,PER,402640,. Les représentants du peuple 
+"demander une chambre. 
+– Non, ",404956,Monsieur,PER,PER,404964,", pas un coin. Ah ! à onze heu"
+". Pourtant, ajoute-t-elle, si ",405220,Monsieur,PER,PER,405228, voulait repasser vers les cin
+s de vous donner une chambre. ,405626,Monsieur,PER,PER,405634," a l'intention de déjeuner ? 
+"
+" et de mon pardessus, je vois ",405963,Margot,PER,PER,405969," descendre l'escalier, son bou"
+"e ça pèse autant. Maintenant, ",411067,Jérôme,PER,PER,411073,"... 
+L'hôtelière, en grande to"
+"-chaussée, autrefois... Vous, ",411897,Jérôme,PER,PER,411903,", vous allez rester ici à veil"
+" deux coups de temps. 
+– Oui, ",412319,Monsieur,PER,PER,412327,". 
+– Quand ce Monsieur qui a d"
+"
+– Oui, Monsieur. 
+– Quand ce ",412341,Monsieur,PER,PER,412349, qui a demandé une chambre rev
+ sa femme et la servante ; et ,413103,Jérôme,PER,PER,413109, s'assied sur une chaise dépai
+"e s'ouvre ; c'est Annette. 
+– ",413810,Eh !,MISC,MISC,413814," bien, dit-elle à Jérôme en fa"
+"tte. 
+– Eh ! bien, dit-elle à ",413832,Jérôme,PER,PER,413838," en faisant un signe de croix,"
+"n envie d'aller avec toi, dit ",414363,Jérôme,PER,PER,414369, ; les singes ne reviendront p
+"es fusées à l'envers... 
+Mais ",414563,Jérôme,PER,PER,414569, se lève et va la prendre par 
+"embrassant... Pourtant, si ce ",414763,Monsieur,PER,PER,414771, qui a demandé une chambre rev
+" revient ? 
+– Il sonnera, dit ",414827,Jérôme,PER,PER,414833,", et nous l'entendrons bien. 
+"
+"s deux ou trois minutes... 
+– ",415064,Eh !,MISC,MISC,415068," bien, comment la trouves-tu, "
+"ntement vers moi. 
+– Bonsoir, ",416055,cher Monsieur,PER,PER,416068,. Comment vous portez-vous ? D
+"!... Comment t'appelles-tu ? 
+",416863,– Randal,PER,PER,416871,". 
+– Alors, moi aussi j'ai ent"
+a chaise que vient de quitter ,417818,Jérôme,PER,PER,417824,", et se met à hausser les épau"
+"itations. Moi, je suis venu à ",418907,Malenvers,PER,PER,418916, afin de pouvoir en partir. Tu
+ce un homme qui veut aller de ,419614,Lyon,LOC,LOC,419618," à Bordeaux, ou de Nancy à Cet"
+èce ? La chambre à coucher de ,421702,Monsieur,PER,PER,421710," et de Madame, sans doute... T"
+"u travail, il n'y a que ça... ",421833,Tiens,MISC,MISC,421838,", tu as un outil américain, co"
+"x que ça, à présent. Et puis, ",422026,Edison,PER,PER,422032, a inventé une petite batterie
+s demain matin à l'adresse de ,423312,Paternoster,PER,PER,423323,. Ce brave Paternoster ! Il m'
+esse de Paternoster. Ce brave ,423334,Paternoster,PER,PER,423345, ! Il m'a écrit plusieurs fois
+ gilet. Je fais concurrence à ,423987,M.,PER,PER,423989," le maire, intérieurement ; et"
+e dis que je sens l'argent... ,424305,Tiens,MISC,MISC,424310,", là. 
+Il se dirige vers la ch"
+"ris demain matin ? 
+– Oui. 
+– ",428580,Eh !,MISC,MISC,428584," bien, tu me trouveras demain "
+"un affreux vacarme. 
+– Tenez, ",434007,Messieurs,PER,PER,434016,", tenez ! Regardez la caisse !"
+ tout ! Ah ! les coquins !... ,434148,Mon Dieu !,MISC,MISC,434158," quel malheur !... 
+Courbassol"
+ation... Donnez le numéro 8 à ,436306,Monsieur,PER,PER,436314,", ordonne-t-il à Annette qui v"
+" 8 à Monsieur, ordonne-t-il à ",436331,Annette,PER,PER,436338, qui vient d'arriver avec une 
+"en prison préventive, vous et ",436534,Jérôme,PER,PER,436540,", je lui ferai donner de mes n"
+i donner de mes nouvelles par ,436583,M. Courbassol,PER,PER,436596,"... 
+Annette, tout en larmes, "
+"u de la place, le monument de ",439210,Gambetta,PER,PER,439218,". Quelle chose abjecte, cette "
+i de N'a-qu'un-Œil sur lequel ,439390,Marianne,PER,PER,439398,", coiffée d'un bas de laine, e"
+"ze heures, et toujours pas de ",439594,Canonnier,MISC,MISC,439603,", C'est embêtant ; j'aurais bi"
+"t me désigne, dans la rue, un ",442859,Monsieur,PER,PER,442867," qui porte un lorgnon. 
+– Atte"
+" Moi, je vais à Bruxelles. 
+– ",443608,Eh !,MISC,MISC,443612," bien, moi aussi j'irai à Brux"
+"qui vient de se retourner. 
+– ",444682,Eh !,MISC,MISC,444686," bien, lui dis-je en lui donna"
+adresse d'un restaurant de la ,445904,rue Lafayette,LOC,LOC,445917,". 
+– Non, me dit Issacar au de"
+"noza vivant à La Haye, sur le ",448768,Spui,LOC,LOC,448772,", dans l'humble maison où il g"
+ leurs rangs des hommes comme ,449296,Lassalle,PER,PER,449304,", il s'y trouve encore plus so"
+aisir ! Comme au supplicié du ,450652,Golgotha,PER,PER,450660,", nous lui disons : « Sauve-to"
+e sors. Je vais aller inviter ,456326,Margot,PER,PER,456332, à dîner ; son bavardage me di
+" qu'il est ici ! 
+– Mais non, ",458119,Monsieur,PER,PER,458127,", je vous jure, répond la voix"
+"ié ! C'est moi, Machinard. 
+– ",458483,Réponds,PER,PER,458490,", murmure Margot ; sans ça, il"
+"Roi Salomon. 
+– Ah ! monsieur ",463174,Randal,PER,PER,463180, ! s'écrie l'hôtelière dès qu'
+"e... 
+– Et puis, et puis !... ",463346,M. Canonnier,PER,PER,463358,", l'avez-vous vu ? 
+– M. Canon"
+du Nord et j'ai télégraphié à ,464691,Paternoster,PER,PER,464702, de garder la valeur des titre
+"is pas davantage. D'ailleurs, ",464930,Paternoster,PER,PER,464941, n'aurait aucun intérêt à me r
+"s sommes mis à table. 
+– Non, ",471014,Monsieur,PER,PER,471022,", répond Hélène à une question"
+"rcevoir, en marchant vite. 
+– ",471541,Est,LOC,LOC,471544,"-ce votre avis, monsieur Randa"
+"– Est-ce votre avis, monsieur ",471569,Randal,PER,PER,471575," ? 
+– Oh ! si tu demandes à Ra"
+"al ? 
+– Oh ! si tu demandes à ",471603,Randal,PER,PER,471609,"... Il va te parler viaducs, r"
+"re, par exemple ? 
+– Oh ! si, ",476499,Monsieur,PER,PER,476507,", je lisais beaucoup. Même des"
+"l'argent, père ? 
+– Demande à ",477605,Randal,PER,PER,477611,". 
+– Non, Mademoiselle, ne me "
+"rt, entrent dans le salon. 
+– ",477849,Eh !,MISC,MISC,477853," bien, dit Canonnier dès qu'el"
+"i, il salue obséquieusement. 
+",479946,– Mademoiselle,PER,PER,479960,", je suis chargé d'une mission"
+"ent, Mademoiselle, mais... 
+– ",480210,Eh !,MISC,MISC,480214," bien, je vous prie de ne m'ad"
+" résous à rompre le silence. 
+",481214,– Mademoiselle,PER,PER,481228,", dis-je pendant qu'elle sembl"
+"lle m'interrompt. 
+– D'abord, ",481369,Monsieur,PER,PER,481377,", je vous en prie, veuillez me"
+"rès probablement... 
+– Merci, ",481852,Monsieur,PER,PER,481860,", répond-elle d'une voix ferme"
+"re départ... 
+Hélène sourit. 
+",482738,– Monsieur,PER,PER,482748,", me demande-t-elle, connaisse"
+eu comme l'Égérie vieillie de ,483466,Numas,PER,PER,483471," en simarres, et il me semble "
+"récié... Je vous prie encore, ",483924,Monsieur,PER,PER,483932,", de ne point vous formaliser "
+" honorable, m'a vendue à lui, ",485390,Monsieur,PER,PER,485398,. Comment le marché fut conclu
+.. Ah ! j'ai dû coûter cher à ,487921,Barzot,PER,PER,487927,". 
+– Mais, dis-je, M. de Bois-"
+" elle était pour moi, lorsque ",489100,Barzot,PER,PER,489106, venait. Il y avait un portrai
+it. Il y avait un portrait de ,489141,Troplong,PER,PER,489149," en face du lit... 
+– C'est à "
+"dra pas à demain, dît Hélène. ",489907,Barzot,PER,PER,489913," est déjà à Bruxelles. 
+– Il e"
+tant l'hôtel de Bois-Créault. ,493348,Mme Ida,PER,PER,493355, m'a donné un peu de linge lor
+le qui sont dans la valise de ,494348,Barzot,PER,PER,494354,", cela fera un million. Pourqu"
+ez-vous exploré les poches de ,494587,Barzot,PER,PER,494593,", par la même occasion ? 
+– No"
+Ces lettres ont été écrites à ,495882,Barzot,PER,PER,495888," par Mme de Bois-Créault, depu"
+" oui, je lui ai coûté cher, à ",496084,Barzot,PER,PER,496090, ; et il ne m'a pas eue comme 
+"ir déconfit. 
+– Ah ! monsieur ",498831,Randal,PER,PER,498837,", dit-il, quel malheur ! Une a"
+ez moi !... Qu'est-ce que ces ,498910,Messieurs,PER,PER,498919, vont penser de nous ? L'hôtel
+"pour moi... 
+– Bien, monsieur ",499398,Randal,PER,PER,499404, ; tout de suite. Ah ! j'oubli
+e suite. Ah ! j'oubliais : M. ,499443,Roger,PER,PER,499448," vient d'arriver... 
+– Roger-l"
+"r-la-Honte ? 
+– Oui, monsieur ",499505,Randal,PER,PER,499511,". 
+– Dites-lui qu'il monte imm"
+"nq minutes. 
+– Bien, monsieur ",499910,Randal,PER,PER,499916," ; comptez sur moi, pour une f"
+"it de venir à Bruxelles... 
+– ",500537,Roger,PER,PER,500542,", dis-je, il faut que tu fasse"
+", rue Clémentine ; tu sais ? 
+",500890,– Parbleu !,MISC,MISC,500901," 
+– Les roussins ne te fileron"
+"tard. 
+– Sois tranquille, dit ",501380,Roger,PER,PER,501385, ; tu me coupes mon dîner en d
+"end l'escalier en courant. 
+– ",501480,Eh !,MISC,MISC,501484," bien, dis-je à Hélène qui vie"
+"n nom, d'un vrai nom. Je suis ",502399,Mlle Canonnier,PER,PER,502413,. Il faut que je sois Mme de B
+" noblesse de robe, et surtout ",502748,Barzot,PER,PER,502754, !... Barzot ! Il faut qu'il s
+la dérangerait mes projets... ,503615,Remarquez,PER,PER,503624, bien que tout peut se faire l
+"e monde sera content. 
+– Même ",504124,Barzot,PER,PER,504130,", dis-je ; car il sera certain"
+"digeriez-vous, cette lettre ? ",505253,Réfléchissez,PER,PER,505265,". 
+– C'est vrai : Alors, comme"
+"tes, voulez-vous me prendre ? ",509268,Me,PER,PER,509270," garder avec vous, toute à vou"
+"ez pas d'inquiétude, monsieur ",510733,Randal,PER,PER,510739,", me dit cette veuve de colone"
+"r le mieux. 
+– Chouette ! dit ",511591,Roger,PER,PER,511596,. Tu me raconteras tout ça en 
+"vec ta permission. 
+– Va, dit ",512267,Roger,PER,PER,512272,. Nous aurons le temps de caus
+"rendre Barzot au saut du lit, ",512679,Tiens,MISC,MISC,512684,", à propos... Mais où perche-t"
+descendu le premier président ,512918,Barzot,PER,PER,512924,". 
+Je lui fais passer ma carte"
+"S RÉSULTATS 
+En m'apercevant, ",513099,Barzot,PER,PER,513105, ne peut réprimer un mouvement
+"prise. 
+– Êtes-vous bien sûr, ",513172,Monsieur,PER,PER,513180,", me demande-t-il d'une voix t"
+"ûr. 
+– Je connais beaucoup un ",513561,M. Randal,PER,PER,513570,"... 
+– M. Urbain Randal ? C'es"
+" mon oncle. Je sais en effet, ",513631,Monsieur,PER,PER,513639,", qu'il a l'honneur d'être de "
+"t. 
+– Veuillez m'excuser, dit ",513926,Barzot,PER,PER,513932, en m'engageant à prendre un s
+"rompez pas. 
+– Alors !... dit ",514219,Barzot,PER,PER,514225, en se levant et en faisant un
+"us par Mme Hélène Canonnier. 
+",514549,Barzot,PER,PER,514555," ne répond point. Son regard, "
+"oint si vous l'avez remarqué, ",514901,Monsieur,PER,PER,514909,", mais la solidarité est utile"
+"monde !... 
+– Hâtez-vous, dit ",515090,Barzot,PER,PER,515096, dont l'attitude n'a pas chang
+"rès respectés. 
+Les poings de ",515496,Barzot,PER,PER,515502, se crispent. Comme c'est amus
+"e situation que vous occupez, ",515699,Monsieur,PER,PER,515707,", et qui vous laisse ignorer b"
+"e les épaules. 
+– Réellement, ",516360,Monsieur,PER,PER,516368, ? Misérable ?... Dites-moi do
+"our violer une jeune fille ? 
+",516571,Barzot,PER,PER,516577, reste muet. Il vient s'asseoi
+"ntention de vous les vendre. 
+",516945,Barzot,PER,PER,516951, lève la tête et me regarde av
+"rier ?... Eh ! bien... Tenez, ",517515,Monsieur,PER,PER,517523,", continue-t-il étendant la ma"
+ le moment où j'ai appris que ,518019,Mlle Canonnier,PER,PER,518033," avait quitté Paris, les pensé"
+"ien des scélérats devant moi, ",518686,Monsieur,PER,PER,518694, ; j'ai entendu le récit de bi
+"i. 
+– En venant ici, continue ",519910,Barzot,PER,PER,519916,", j'avais pris une grande réso"
+"ire... Vous venez de me dire, ",520299,Monsieur,PER,PER,520307,", que Mlle Canonnier désire se"
+", vous avez soixante ans, mon ",520692,cher Monsieur,PER,PER,520705,", dont quarante de magistratur"
+"ge ? 
+– Si je le pouvais, dit ",521193,Barzot,PER,PER,521199,", très pâle, je le ferais, Mon"
+"zot, très pâle, je le ferais, ",521226,Monsieur,PER,PER,521234,". Mais j'ai une fille, une fil"
+"simples... Rien ne se répare, ",522788,Monsieur,PER,PER,522796,", et rien ne se pardonne. On p"
+"ne pardonne jamais... Voyons, ",523025,Monsieur,PER,PER,523033,. Mlle Canonnier désire se mar
+" figure ferez-vous au procès, ",524101,Monsieur,PER,PER,524109," ? 
+Barzot ne répond pas. Appu"
+"z-vous au procès, Monsieur ? 
+",524113,Barzot,PER,PER,524119," ne répond pas. Appuyé au mur,"
+"par hasard ? Il faut voir. 
+– ",524327,Voudriez,PER,PER,524335,"-vous au moins, Monsieur, m'ap"
+"r. 
+– Voudriez-vous au moins, ",524351,Monsieur,PER,PER,524359,", m'apprendre pour quelle rais"
+"squement, il relève la tête. 
+",526855,– Monsieur,PER,PER,526865,", dit-il d'une voix qu'il s'ef"
+" ajoute-t-il anxieusement. 
+– ",527313,Mon Dieu !,MISC,MISC,527323," Monsieur, dis-je en souriant,"
+"l anxieusement. 
+– Mon Dieu ! ",527324,Monsieur,PER,PER,527332,", dis-je en souriant, vous vou"
+"est une comédie sinistre, dit ",527646,Barzot,PER,PER,527652,". 
+C'est mon avis. Mais je me "
+" en descendant l'escalier, si ",527720,Barzot,PER,PER,527726," n'était pas très heureux, ces"
+de ce qui s'était passé entre ,528149,Barzot,PER,PER,528155, et moi. Elle m'a écouté avec 
+"du qu'il serait trop tard. 
+– ",528502,Eh !,MISC,MISC,528506," bien, s'il est trop tard, Hél"
+le vie ! C'est agir comme les ,529771,Barzot,PER,PER,529777," qui déplorent, quand ils sont"
+"n éprouve à se martyriser... 
+",530940,Barzot,PER,PER,530946, a écrit. Les Bois-Créault se 
+e donner de mes nouvelles par ,531942,Mme Ida,PER,PER,531949, ; et si par hasard j'avais à 
+"oncer le oui solennel, devant ",534401,Dieu,MISC,MISC,534405," et devant les hommes, d'une v"
+"onnêteté l'abandonne », a dit ",542353,Jean-Jacques,PER,PER,542365,", et c'est assez juste, de tem"
+"urs de la morale, bêtes comme ",544693,Dandin,PER,PER,544699, et cocus comme Marc-Aurèle. I
+ l'honnête femme la cocotte ? ,544897,Est,LOC,LOC,544900,-ce le voleur qui a dépravé l'
+ mouillez vos mouchoirs quand ,549382,Musette,PER,PER,549389," quitte Rodolphe, à tous les c"
+"banquiers, lorsque Mimi lâche ",549502,Marcel,PER,PER,549508, sous des prétextes qui n'en s
+"e. 
+– C'est bien fait, me dit ",550438,Paternoster,PER,PER,550449, à qui je vais confier mes cha
+"jardins qui ont des grilles. 
+",550781,Paternoster,PER,PER,550792, commence à m'embêter. Je n'ai
+"i-je oublié, par exemple, que ",551269,Danton,PER,PER,551275, était un voleur ? Et un tas d
+"istie d'une certaine église. 
+",553733,Est,LOC,LOC,553736,-ce un conte ? Je vais m'en as
+j'en mettrais ma main au feu. ,554256,Curé,PER,PER,554260,", vicaire, suisse, bedeau ou s"
+"a main au feu. Curé, vicaire, ",554271,suisse,LOC,LOC,554277,", bedeau ou sacristain, il y a"
+"acristain, il y a un homme de ",554320,Dieu,MISC,MISC,554324, en embuscade dans cette pièce
+allumer ma lanterne. Homme de ,554457,Dieu,MISC,MISC,554461,", y es-tu ? 
+Boum !... 
+C'est "
+"te ma force. 
+Mais l'homme de ",554740,Dieu,MISC,MISC,554744," est sur mes talons, criant, h"
+gens se joignent à l'homme de ,554905,Dieu,MISC,MISC,554909,", galopent avec lui, crient av"
+e qui voudraient les crisper. ,562341,Galériens,PER,PER,562350," par conviction, tous les deux"
+" l'attends justement ce soir, ",563162,Roger,PER,PER,563167,". Il est parti en France, voic"
+descends ouvrir. Ce n'est pas ,563545,Roger,PER,PER,563550,"... 
+Une femme est sur le seui"
+che la lampe. Ciel !... C'est ,563772,Charlotte,PER,PER,563781,". 
+XX -- OU L'ON VOIT QU'IL ES"
+a chaise que vient de quitter ,563918,Charlotte,PER,PER,563927,", confondu d'étonnement, accab"
+"et toujours imprévue... 
+Non, ",564325,Charlotte,PER,PER,564334," ne s'est pas mariée. Non, rie"
+ vu quel était le fardeau que ,565721,Charlotte,PER,PER,565730," portait dans ses bras... 
+Ell"
+'ancienne femme de chambre de ,567712,Mme Montareuil,PER,PER,567726,. -- Elle ne savait rien de ce
+.. Je ne pouvais plus écouter ,568257,Marguerite,PER,PER,568267, ; et je ne suis revenue à moi
+"emps que tu aurais dû venir. 
+",569109,Charlotte,PER,PER,569118," me regarde avec étonnement. 
+"
+"uiller un peu. 
+– Écoute, dit ",569967,Charlotte,PER,PER,569976, ; ce n'est pas ta maîtresse q
+" à lui donner le tien, répond ",570625,Charlotte,PER,PER,570634," en rougissant, à l'appeler Ge"
+"te en rougissant, à l'appeler ",570662,Georgette,PER,PER,570671," ; et puis, je n'ai plus voulu"
+"uement, je retire ma main que ",570784,Charlotte,PER,PER,570793, tient dans les siennes ; et u
+"remière idée, et de l'appeler ",571033,Georgette,PER,PER,571042,". Mais, Hélène, c'est un joli "
+"s tu dois être très fatiguée, ",571175,Charlotte,PER,PER,571184,. Il va être une heure du mati
+"te minutes. 
+– Et c'est lundi ",571640,Noël,MISC,MISC,571644,", dit Charlotte en soupirant. "
+". 
+– Et c'est lundi Noël, dit ",571650,Charlotte,PER,PER,571659, en soupirant. Mon Dieu ! pour
+"heures, je m'endors... 
+C'est ",572199,Charlotte,PER,PER,572208," qui m'a réveillé, à neuf heur"
+"ndra-t-il donc, ce médecin ? 
+",572636,Charlotte,PER,PER,572645, m'appelle auprès de la petite
+"an, bobo... Maman... bobo... 
+",573104,Charlotte,PER,PER,573113," la prend dans ses bras, essay"
+"it d'une façon lamentable... 
+",573579,– Monsieur,PER,PER,573589,", vient dire Annie, le docteur"
+"ourd'hui, dimanche, veille de ",575174,Noël,MISC,MISC,575178,", il en demanderait peut-être "
+"... cent. 
+Le docteur sort et ",575263,Charlotte,PER,PER,575272,", immédiatement, entre dans le"
+"ment, entre dans le salon. 
+– ",575313,Eh !,MISC,MISC,575317, bien ? demande-t-elle d'une v
+ son anxiété. Qu'a-t-il dit ? ,575391,Est,LOC,LOC,575394,"-ce la méningite ? 
+– Il ne sa"
+"r chercher tout de suite, dit ",575624,Charlotte,PER,PER,575633,". 
+– Oui, mais... 
+– Mais quoi"
+u n'as pas d'argent ! s'écrie ,575802,Charlotte,PER,PER,575811,". 
+– Non, je n'en ai pas ici. "
+"hâte. 
+– C'est singulier, dit ",576319,Charlotte,PER,PER,576328,", que tu n'aies pas d'argent c"
+les larmes aux yeux ; quant à ,576846,Charlotte,PER,PER,576855,", elle se laisse tomber sur un"
+"ise et éclate en sanglots. 
+– ",576920,Mon Dieu !,MISC,MISC,576930," dit-elle, c'est affreux ! Tou"
+re qu'elle est si malade !... ,578243,Tiens,MISC,MISC,578248,", voilà tout ce que j'ai ici :"
+" ne peut me servir à rien. 
+– ",578420,Eh !,MISC,MISC,578424," bien, veux-tu m'attendre ? de"
+"le meure, cette enfant ! Pour ",581328,Charlotte,PER,PER,581337," et pour moi, il faut qu'elle "
+"st ? -- Mais, mais... Voyons, ",581556,Paternoster,PER,PER,581567, n'osera pas me refuser ; il s
+"re pas remarqué ; et, dès que ",583815,Paternoster,PER,PER,583826," s'est engagé sur la route, da"
+" me le faut, le sac que porte ",584494,Paternoster,PER,PER,584505,". 
+Les trois policemen préposé"
+" 
+– Enfin ! te voilà, s'écrie ",585785,Charlotte,PER,PER,585794,. J'ai cru que tu ne reviendra
+au premier étage ; et quant à ,586088,Charlotte,PER,PER,586097,... Je fais sauter la serrure.
+"ir. En me retournant, je vois ",586828,Charlotte,PER,PER,586837,", très pâle, appuyée à un meub"
+ Ah ! il est bien certain que ,587322,Paternoster,PER,PER,587333, est sur ses jambes depuis lon
+"les consumer lentement. 
+Mais ",587571,Charlotte,PER,PER,587580, vient me jeter ses bras autou
+"Annie entre dans la chambre. 
+",588713,– Monsieur,PER,PER,588723,", dit-elle, le docteur vient t"
+"t-il faire quelque chose, mon ",588846,Dieu !...,MISC,MISC,588855," Minuit. Les cloches, de tous "
+"tent à sonner joyeusement. 
+– ",588932,Noël !,MISC,MISC,588938, dit Charlotte en se laissant 
+"er joyeusement. 
+– Noël ! dit ",588943,Charlotte,PER,PER,588952, en se laissant tomber sur une
+"! Oh ! c'est affreux... 
+Oui, ",589058,Noël,MISC,MISC,589062,", sainte journée. Jour de paix"
+" de veau au blanc d'Espagne. 
+",589258,– Monsieur,PER,PER,589268,", me dit-il, j'ai prévenu votr"
+"ais cent livres. Aujourd'hui, ",589380,Noël,MISC,MISC,589384,", vous comprenez... Elle m'a r"
+"i cinquante autres. 
+– Merci, ",589509,Monsieur,PER,PER,589517,", dit le docteur Scoundrel ave"
+"mmence, au souvenir de ce que ",590183,Dieu,MISC,MISC,590187,"... 
+Je l'interromps. 
+– Si je"
+"randes vagues de solitude... 
+",591520,Charlotte,PER,PER,591529,", agenouillée devant le lit, s"
+"r Waterloo Bridge, la nuit de ",592808,Noël,MISC,MISC,592812,", ce pauvre Har... Mais vous n"
+onnaissiez que sous le nom de ,592878,Paternoster,MISC,MISC,592889," ? 
+– Seulement. 
+– Moi, j'éta"
+" fait ? Et puis, canailles... ",594311,Est,LOC,LOC,594314,"-ce que la bourgeoisie, pour a"
+assassinat. L'homme qui a tué ,594521,Paternoster,PER,PER,594532,"... 
+– Il ne cherchait peut-êt"
+"is à cela, aussi, ce matin de ",596969,Noël,MISC,MISC,596973, où je me suis mis en route à 
+"de Paternoster. 
+– Le sort de ",597041,Paternoster,PER,PER,597052," ne m'émeut pas énormément, di"
+sque c'est chacun pour soi et ,598494,Dieu,MISC,MISC,598498," pour tous... Naturellement, D"
+"u pour tous... Naturellement, ",598527,Dieu,MISC,MISC,598531," pour tous ! Sans Dieu, ce ne "
+"lement, Dieu pour tous ! Sans ",598549,Dieu,MISC,MISC,598553,", ce ne serait pas chacun pour"
+"devant mes yeux lassés. 
+Mais ",600124,Charlotte,PER,PER,600133,", qui est entrée sans que j'ai"
+"olages, de temps en temps. 
+– ",600794,Mon Dieu !,MISC,MISC,600804, s'écrie Charlotte. Est-ce pos
+" temps. 
+– Mon Dieu ! s'écrie ",600813,Charlotte,PER,PER,600822,". Est-ce possible ! 
+– Tout es"
+"s aimée comme je l'aurais dû, ",605612,Charlotte,PER,PER,605621,", mais je n'ai jamais aimé que"
+"pourtant, j'ai voulu conduire ",606515,Charlotte,PER,PER,606524," à Monte-Carlo, qu'elle n'avai"
+" sous pour m'amuser, dis-je à ",609149,Charlotte,PER,PER,609158,". Ne veux-tu pas jouer un peu,"
+prendre la dernière pièce que ,609432,Charlotte,PER,PER,609441," me saisit le bras. 
+– Viens, "
+ssé plus de six semaines avec ,611351,Charlotte,PER,PER,611360, J'ai été obligé de la quitter
+is pris tu pourras te dire... ,613465,Tiens,MISC,MISC,613470,", tu me mettrais en colère, te"
+"eux, sans vouloir permettre à ",613698,Charlotte,PER,PER,613707," de m'accompagner à la gare, s"
+ rien ne puisse me séparer de ,615097,Charlotte,PER,PER,615106,". Et qu'aurais-je à sacrifier,"
+ besoin ni de Canonnier ni de ,615859,Paternoster,PER,PER,615870," pour m'aider, quand cela me p"
+res. C'est bon. Je parlerai à ,616217,Charlotte,PER,PER,616226, ; elle ne pleurera pas en m'é
+" Annie. Madame est là-haut ? 
+",616723,– Monsieur,PER,PER,616733,"... je... Monsieur... 
+Sa figu"
+"à-haut ? 
+– Monsieur... je... ",616743,Monsieur,PER,PER,616751,"... 
+Sa figure s'effare ; elle"
+ontant rapidement l'escalier. ,616849,Charlotte,PER,PER,616858," ! Charlotte ! 
+Personne ne ré"
+"vous parler, à la fin, nom de ",617090,Dieu,MISC,MISC,617094," ? Où est Madame ? 
+– Elle est"
+" leurs affaires ont prospéré, ",619418,Roger,PER,PER,619423, et moi nous les avons aidés u
+ mains. -- Comme il s'appelle ,619922,M. Randal,PER,PER,619931,", j'avais pensé... 
+– Urbain R"
+"en plus fortement, depuis que ",620638,Broussaille,PER,PER,620649, m'a quitté. Voilà trois heure
+ eu la certitude du départ de ,621410,Charlotte,PER,PER,621419," ; et ensuite, après toutes le"
+soir-là ; mais je pensais que ,627921,Mlle Charlotte,PER,PER,627935, t'avait mis au courant... En 
+"nier ? 
+– Oui. Eh ! bien ? 
+– ",628083,Eh !,MISC,MISC,628087," bien, j'y étais aussi, moi, a"
+" pas vu, toi, je t'assure que ",628179,Mlle Charlotte,PER,PER,628193, a bien reconnu son père. Elle
+pisode de notre existence ; à ,628536,Charlotte,PER,PER,628545," et à moi, cet incident auquel"
+"serait ! 
+– Tu sais, continue ",629244,Margot,PER,PER,629250,", il ne s'est livré à aucun co"
+"a main, tu n'es pas méchante, ",630401,Marguerite,PER,PER,630411," ; malheureusement, beaucoup d"
+"ens ne te ressemblent pas. 
+– ",630474,Eh !,MISC,MISC,630478," bien, ceux-là, il faut les la"
+s de Pierre ou les actions de ,630702,Paul,PER,PER,630706,... Tâche de te remettre au be
+"drai vers dix ou onze heures, ",630970,Tiens,MISC,MISC,630975,", voici l'hôtel Jeanne d'Arc ,"
+"à Londres. 
+– C'est vrai, dit ",631193,Margot,PER,PER,631199,", la fille était ici avant-hie"
+" de leurs enfants, surtout de ",632142,Roger,PER,PER,632147, qu'ils n'ont pas vu depuis pl
+"Eulalie, eût été invitée chez ",632313,M.,PER,PER,632315," le curé. 
+– Si elle avait pu "
+ais aussi bien de la vendre à ,632761,Dieu,MISC,MISC,632765,". 
+Pas avant déjeuner, pourtan"
+" ? demande M. Voisin. 
+– Oui, ",634094,Monsieur,PER,PER,634102,", beaucoup. 
+– Allons, tant mi"
+" ? demande M. Voisin. 
+– Oui, ",634292,Monsieur,PER,PER,634300,", pas mal. 
+– Et vous prenez t"
+"est, pour sûr. 
+– Voyez-vous, ",634720,Monsieur,PER,PER,634728,", me dit Mme Voisin comme un g"
+venir ; je m'émeus avec elle. ,635677,Roger,PER,PER,635682, m'apprend ce que lui a rappor
+s... Quant à Broussaille et à ,635926,Roger,PER,PER,635931,", je ne vous cache pas que j'é"
+"ien qu'il y a des lois. Mais, ",636588,Monsieur,PER,PER,636596,", pourquoi n'y en aurait-il pa"
+à propos de Broussaille et de ,637014,Roger,PER,PER,637019,", c'est leur santé. Ce qui me "
+se marier trop tôt... Quant à ,637804,Roger,PER,PER,637809,", je ne me lasse pas de lui re"
+"ropos, c'est votre parent, ce ",638154,M. Randal,PER,PER,638163, qui est si riche et qui est p
+", n'est-ce pas ?... Je crois, ",639163,Monsieur,PER,PER,639171,", que rien ne peut vous rendre"
+viaire qu'il tient à la main. ,643504,Remarquez,PER,PER,643513," comme ses narines palpitent, "
+"Joseph, crème terre-sainte et ",651561,Château-Céleste,PER,PER,651576,... Je déménagerai après le ca
+ j'espère. La directrice sera ,652152,Mme Boileau,PER,PER,652163,". Vous connaissez, je crois ? "
+"é ? 
+– Quoi ! Comment !... 
+– ",652294,Mon Dieu !,MISC,MISC,652304," ricane l'abbé, ne faites donc"
+e parler de vengeance divine. ,655758,Remarquez,PER,PER,655767, que je n'emploie les mots : c
+" ; c'est incontestable. Donc, ",657867,Mouratet,PER,PER,657875," a consenti, par pur patriotis"
+demanderai des explications à ,658894,Renée,PER,PER,658899,", si l'occasion s'en présente."
+" Bois-Créault nous propose, à ",659002,Mouratet,PER,PER,659010," et à moi, une partie de billa"
+"t en faveur de l'un d'eux. 
+– ",659321,Eh !,MISC,MISC,659325," bien, dis-je à Renée une fois"
+"d'eux. 
+– Eh ! bien, dis-je à ",659341,Renée,PER,PER,659346, une fois que nous avons trave
+"? 
+– C'est impossible, répond ",660132,Renée,PER,PER,660137, avec la plus grande assurance
+"emme jalouse. 
+– Oh ! s'écrie ",660596,Renée,PER,PER,660601,", comment aurait-elle pu savoi"
+"ent à tout. Dites-moi, petite ",662810,Renée,PER,PER,662815,", elle vous amuse, l'existence"
+". 
+– Je reprochais vivement à ",664031,M. Randal,PER,PER,664040," de n'être, pas venu à Paris l"
+" à Paris l'hiver dernier, dit ",664090,Renée,PER,PER,664095,. Il m'a promis d'y faire un l
+", férocement, comme un tigre. ",665722,Renée,PER,PER,665727,", que j'ai été voir à plusieur"
+es flétrissant la conduite de ,667448,Renée,PER,PER,667453,... -- Des lettres écrites par
+a maison ; on l'avait vu avec ,668985,Renée,PER,PER,668990,... Mais je lui ai fait compre
+". Depuis deux mois, il n'a vu ",669143,Renée,PER,PER,669148," que devant moi, j'en suis sûr"
+" sera en seigneur Louis XIII, ",669822,Renée,PER,PER,669827, en pierrette... elle a refusé
+"ent. -- C'est vrai, a répondu ",670051,Mouratet,PER,PER,670059,", la larme à l'œil ; et j'ai c"
+"! triste et stupide idiot... 
+",670730,– Monsieur,PER,PER,670740, et Madame ne sont pas encore 
+", s'ouvre tout à fait, et que ",671039,Renée,PER,PER,671044,", en costume de pierrette moin"
+ demande pourquoi ! Parce que ,672268,Monsieur,PER,PER,672276, a reçu des lettres anonymes. 
+"ien. 
+– À la bonne heure, dit ",674526,Renée,PER,PER,674531,. Vous êtes gentil comme tout.
+" parce que c'est Mouratet. 
+– ",675966,Eh !,MISC,MISC,675970, eh ! s'écrie le directeur des
+"– Elle ne le votera, pas, dit ",676447,Mouratet,PER,PER,676455,. Des retraites aux ouvriers !
+" ça va bien ; voyons de dos. 
+",676906,Mouratet,PER,PER,676914, se tourne et Renée lui fait u
+"e dos. 
+Mouratet se tourne et ",676928,Renée,PER,PER,676933, lui fait un grand pied de nez
+emmes. Il répond malaisément. ,678885,Renée,PER,PER,678890,", qui s'est éloignée insensibl"
+"sieur Barbe Bleue, s'écrie la ",679868,Dinde,PER,PER,679873,", que vous m'avez fait peur ! "
+a près d'un quart d'heure que ,680093,Renée,PER,PER,680098," s'est éclipsée ; allons, ça v"
+omino noir s'est approchée de ,680577,Mouratet,PER,PER,680585,", lui parle à l'oreille. Le do"
+ends le parti d'abandonner la ,681205,Dinde,PER,PER,681210, à ses réflexions et de sortir
+"e qu'il vient de refermer. 
+– ",681830,Circulez,PER,PER,681838,", Messieurs, nous dit-il à moi"
+"ent de refermer. 
+– Circulez, ",681840,Messieurs,PER,PER,681849,", nous dit-il à moi et à quelq"
+" l'amphithéâtre, cette petite ",683234,Renée,PER,PER,683239,", folle et dépravée comme son "
+ai pas été à l'enterrement de ,686195,Renée,PER,PER,686200, et je n'ai point visité Moura
+ai pas été à l'enterrement de ,686285,Renée,PER,PER,686290, parce que cela n'aurait servi
+quille et je puis partir pour ,691672,Londres,LOC,LOC,691679,. -- Déjà ? Certainement. Il m
+ient produits ces aptitudes ? ,693654,Mystère,PER,PER,693661,. Mais peut-être des actes trè
+" Ai-je déjà vu de choses, mon ",694542,Dieu !,MISC,MISC,694548, -- même de choses que je ne d
+"ement de son fils ; puis, que ",697025,Mme,PER,PER,697028, veuve Hélène de Bois-Créault 
+" mémoires ? 
+– Tout juste. 
+– ",698296,Eh !,MISC,MISC,698300," bien, je vais te raconter une"
+"écrire. 
+– À ton aise, répond ",699990,Roger,PER,PER,699995,". Alors, à quand tu voudras. 
+"
+"inq minutes. 
+– Ah ! monsieur ",706768,Randal,PER,PER,706774,", s'écrie l'hôtelier, je sais "
+"entiments religieux, monsieur ",707876,Randal,PER,PER,707882,". C'est tellement nécessaire, "
+r d'ici les mains vides si... ,711794,Tiens !,MISC,MISC,711801, Qu'est-ce que c'est que ça ?.
+". ma mère a eu un amant. Oui, ",715722,Monsieur,PER,PER,715730,", un amant. Ah ! la pauvre fem"
+"réel. Elle l'affirme. 
+– Oui, ",717185,Monsieur,PER,PER,717193,", je suis au supplice depuis u"
+"sole de mon mieux. 
+– Voyons, ",717800,Madame,PER,PER,717806,", calmez-vous. Vous avez raiso"
+"in métier que vous faites là, ",719821,Monsieur,PER,PER,719829,", me dit-elle. Mais comme c'es"
+"tain. Avez-vous pensé à cela, ",720511,Monsieur,PER,PER,720519," ? : 
+– Pas du tout, je l'avou"
+"uelle sera mon existence, mon ",720898,Dieu,MISC,MISC,720902," !... Je le vois bien, il va f"
+"al, que vous soyez un voleur, ",722562,Monsieur,PER,PER,722570,", du moment que vous savez lir"
+"ommeil du juste, à l'hôtel du ",724450,Roi Salomon,PER,PER,724461," , lorsque des coups violents "
+" content de le voir, ce brave ",724719,Roger,PER,PER,724724,. Je le mets rapidement au cou
+ tout. Je remonte le moral de ,725698,Roger,PER,PER,725703,. Et il prend le train de Cala
+"« N'ayez pas peur. C'est moi, ",727611,Randal,PER,PER,727617,. » Et dire que tu as eu l'aud
+ jamais maltraité sa femme... ,728769,Tiens,MISC,MISC,728774,", à propos de Delpich, nous av"
+"ne l'aime plus ? On dira, que ",729073,Geneviève,PER,PER,729082, n'a pas de cœur. Je répondrai
+"çu, en effet ; eh ! bien ? 
+– ",735000,Eh !,MISC,MISC,735004," bien, voici : j'accepterais c"
+" voix. 
+– Tu penses bien, dit ",736150,Geneviève,PER,PER,736159, en trempant sa plume dans l'e
+qui conduit au train de Paris ,736446,Geneviève,PER,PER,736455, et mon oncle. Ah ! cette figu
+"uis mis en route pour Paris. 
+",738266,Geneviève,PER,PER,738275,", que j'ai prévenue de mon arr"
+à tout ? La part à réserver à ,741458,Mlle Charlotte,PER,PER,741472,", par exemple, si l'on vient à"
+" d'un... J'appelle l'abbé. 
+– ",743496,Eh !,MISC,MISC,743500, bien ? demande-t-il en entran
+". 
+– Je suis heureux de voir, ",745483,Monsieur,PER,PER,745491,", me dit-il, que votre oncle e"
+vard Haussmann avec l'abbé et ,747999,Geneviève,PER,PER,748008,", qui continue à bouder. Le dé"
+dans un tiroir de son bureau. ,751103,M. Randal,PER,PER,751112," les a découvertes, et, aussit"
+as vous dire quelle existence ,751614,M. Randal,PER,PER,751623, m'a fait mener depuis. C'est 
+ C'est absolument effrayant ! ,751779,M. Randal,PER,PER,751788, est un misérable et s'est jou
+ieusement l'abbé. Que faire ? ,752561,Mon Dieu,MISC,MISC,752569,", éclairez-nous... Voici ce qu"
+. Je vais m'employer à livrer ,752676,M. Randal,PER,PER,752685, à la justice après lui avoir 
+"croyante, monsieur l'abbé. 
+– ",753115,Eh !,MISC,MISC,753119," bien, vous n'ignorez point qu"
+" reconduire. 
+– J'ai promis à ",753793,M. Randal,PER,PER,753802," d'aller le voir aujourd'hui, "
+ureuse patronne. C'est là que ,756379,Dieu,MISC,MISC,756383, m'a parlé. Il m'a dit : « Ma 
+"té sans succès de le trahir. 
+",756934,Geneviève,PER,PER,756943, ne m'a quitté que vers minuit
+ à cette trahison ridicule de ,757258,Geneviève,PER,PER,757267,", qui pouvait m'être si funest"
+"ine midi lorsqu'il arrive. 
+– ",757614,Eh !,MISC,MISC,757618," bien, dit-il, l'oiseau était "
+"tament, la part qui revient à ",761186,Charlotte,PER,PER,761195,", au cas où l'on retrouverait "
+ssent satisfaits et glorieux. ,763638,Vauvenargues,PER,PER,763650, avait raison : la servitude a
+", moi, je le reconnais. C'est ",764241,Barzot,PER,PER,764247,"... Un journal m'a appris, hie"
+. Le Courbassol que j'ai vu à ,764648,Malenvers,PER,PER,764657," ; le même regard fuyant, la m"
+"ffirme Courbassol. Eh ! bien, ",765974,Monsieur,PER,PER,765982,", j'ai pensé qu'il ne vous dép"
+"nfiance en moi, cher monsieur ",770886,Randal,PER,PER,770892,", rien de ce qui s'est produit"
+quée d'Annie pleure comme une ,772212,Madeleine,PER,PER,772221, parce que je viens de lui ann
+y avait pas l'argent. Mais le ,775976,Maître,PER,PER,775982," est là. Tout ça va, vient, se"
+"le vit, je pensais à ce vieux ",776482,Paternoster,PER,PER,776493,", que j'ai tué, à cette petite"
+" que j'ai tué, à cette petite ",776524,Renée,PER,PER,776529,", qu'elle a tuée... Pourquoi ?"
+et le moi commun dont parlait ,783509,Jean-Jacques,PER,PER,783521,. Elle n'a plus qu'une face. E
+" une époque de transition. 
+– ",784024,Mensonge !,MISC,MISC,784034, s'écrie l'abbé. Notre époque 
+me ? Une camisole de force. « ,784920,Jésus,PER,PER,784925,", dit saint Augustin, a perfec"
+cessé d'être un Fait ! que le ,788495,Verbe,PER,PER,788500, n'est plus qu'une arme faussé

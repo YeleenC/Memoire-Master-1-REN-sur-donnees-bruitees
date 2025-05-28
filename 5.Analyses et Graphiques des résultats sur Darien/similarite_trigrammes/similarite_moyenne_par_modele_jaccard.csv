@@ -1,0 +1,5 @@
+modele,similarite_moyenne_trigramme,nb_matches
+quaero_fusioné,0.9518333333333334,4111
+initial,0.9513333333333334,1095
+enrichi,0.9512666666666667,4762
+enrichi_80-20,0.9503666666666666,3884

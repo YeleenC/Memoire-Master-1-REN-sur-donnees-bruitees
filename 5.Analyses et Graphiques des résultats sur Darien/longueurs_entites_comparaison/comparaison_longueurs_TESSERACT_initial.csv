@@ -1,0 +1,368 @@
+OCR,Modèle,Texte_spacy,Longueur_spacy,Texte_modele,Longueur_modele,Différence
+TESSERACT,initial,Gallica,7,Gallica,7,0
+TESSERACT,initial,Malhonnête,10,Malhonnête,10,0
+TESSERACT,initial,Madaine,7,Madaine,7,0
+TESSERACT,initial,Tiens,5,Tiens,5,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Mystère,7,Mystère,7,0
+TESSERACT,initial,M. Randal,9,Randal,6,-3
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Randal,6,Randal,6,0
+TESSERACT,initial,M. Randal,9,Randal,6,-3
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Michel-Ange,11,Michel,6,-5
+TESSERACT,initial,Malherbe,8,Malherbe,8,0
+TESSERACT,initial,Riche !,7,Riche,5,-2
+TESSERACT,initial,Obligatoire !,13,Obligatoire,11,-2
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,abbé Lamargelle,15,Lamargelle,10,-5
+TESSERACT,initial,Menteur!,8,Menteur,7,-1
+TESSERACT,initial,Georges,7,Georges,7,0
+TESSERACT,initial,Respect,7,Respect,7,0
+TESSERACT,initial,Edouard,7,Edouard,7,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Maisvousécoutezdoncaux,22,Maisvousécoutezdoncaux,22,0
+TESSERACT,initial,Commeauthéâtre,14,Commeauthéâtre,14,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Edouard,7,Edouard,7,0
+TESSERACT,initial,Edouard,7,Edouard,7,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Illégalement,12,Illégalement,12,0
+TESSERACT,initial,Georges !,9,Georges,7,-2
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Me Montareuil,13,Montareuil,10,-3
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Mi,2,Mi,2,0
+TESSERACT,initial,Golgotha,8,Golgotha,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,l’Individu,10,Individu,8,-2
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,M. Randal,9,Randal,6,-3
+TESSERACT,initial,Monsieur!,9,Monsieur,8,-1
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,M. Randal,9,Randal,6,-3
+TESSERACT,initial,Banques,7,Banques,7,0
+TESSERACT,initial,Randal,6,Randal,6,0
+TESSERACT,initial,Lens,4,Lens,4,0
+TESSERACT,initial,Volontiers,10,Volontiers,10,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,l’Individu,10,Individu,8,-2
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Eu-,3,Eu-,3,0
+TESSERACT,initial,Asie Mineure,12,Mineure,7,-5
+TESSERACT,initial,Mars ue 2,9,Mars,4,-5
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Broussaille,11,Broussaille,11,0
+TESSERACT,initial,Bravo!,6,Bravo,5,-1
+TESSERACT,initial,Londres,7,Londres,7,0
+TESSERACT,initial,Suisse,6,Suisse,6,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Madame!,7,Madame,6,-1
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Madame,6,Madame,6,0
+TESSERACT,initial,Madame,6,Madame,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Russe,5,Russe,5,0
+TESSERACT,initial,Monsieur !,10,Monsieur,8,-2
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Madame,6,Madame,6,0
+TESSERACT,initial,M. Canonnier,12,Canonnier,9,-3
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Londres,7,Londres,7,0
+TESSERACT,initial,abbé Lamargelle,15,Lamargelle,10,-5
+TESSERACT,initial,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,initial,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,initial,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Mon Dieu,8,Mon,3,-5
+TESSERACT,initial,Guizot,6,Guizot,6,0
+TESSERACT,initial,du Nord,7,Nord,4,-3
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Américain,9,Américain,9,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,du Nord,7,Nord,4,-3
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,le Monsieur,11,Monsieur,8,-3
+TESSERACT,initial,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Le Monsieur,11,Monsieur,8,-3
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Balon,5,Balon,5,0
+TESSERACT,initial,Balon,5,Balon,5,0
+TESSERACT,initial,Tiens!,6,Tiens,5,-1
+TESSERACT,initial,Talmasco,8,Talmasco,8,0
+TESSERACT,initial,Mme Talmasco,12,Talmasco,8,-4
+TESSERACT,initial,Ila,3,Ila,3,0
+TESSERACT,initial,Bakounine,9,Bakounine,9,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Hélène,6,Hélène,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Machin,6,Machin,6,0
+TESSERACT,initial,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,initial,Revue,5,Revue,5,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Randal,6,Randal,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mme Mouratet,12,Mouratet,8,-4
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,dirt Mouratet,13,Mouratet,8,-5
+TESSERACT,initial,Montareuil,10,Montareuil,10,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mon Dieu,8,Mon,3,-5
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,"|
+
+Est",6,Est,3,-3
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Margue-,7,Margue-,7,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Malenvers!,10,Malenvers,9,-1
+TESSERACT,initial,Malenvers,9,Malenvers,9,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Malenvers,9,Malenvers,9,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,initial,Randal,6,Randal,6,0
+TESSERACT,initial,Malenvers,9,Malenvers,9,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Malenvers,9,Malenvers,9,0
+TESSERACT,initial,Tiens,5,Tiens,5,0
+TESSERACT,initial,Société !,9,Société,7,-2
+TESSERACT,initial,Malenvers,9,Malenvers,9,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Machinard,9,Machinard,9,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Marianne,8,Marianne,8,0
+TESSERACT,initial,Hélène,6,Hélène,6,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Liane,5,Liane,5,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Machinard,9,Machinard,9,0
+TESSERACT,initial,Marine,6,Marine,6,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Etpuis,6,Etpuis,6,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,"au-
+las",7,las,3,-4
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Maisila,7,Maisila,7,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Hélène,6,Hélène,6,0
+TESSERACT,initial,Et Canonnier,12,Canonnier,9,-3
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,rue Clémentine,14,Clémentine,10,-4
+TESSERACT,initial,Parbleu !,9,Parbleu,7,-2
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,M. Randal,9,Randal,6,-3
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,cher Monsieur,13,Monsieur,8,-5
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Mon Dieu !,10,Dieu,4,-6
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Hélène na,9,Hélène,6,-3
+TESSERACT,initial,Décidément,10,Décidément,10,0
+TESSERACT,initial,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,initial,Marcel,6,Marcel,6,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Broussaille,11,Broussaille,11,0
+TESSERACT,initial,Ludgate Hill,12,Ludgate,7,-5
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur !,10,Monsieur,8,-2
+TESSERACT,initial,Paternoster,11,Paternoster,11,0
+TESSERACT,initial,Est,3,Est,3,0
+TESSERACT,initial,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,initial,Madame,6,Madame,6,0
+TESSERACT,initial,Madame,6,Madame,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Pour-,5,Pour-,5,0
+TESSERACT,initial,Wagon,5,Wagon,5,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Paul,4,Paul,4,0
+TESSERACT,initial,Tiens,5,Tiens,5,0
+TESSERACT,initial,Buvez,5,Buvez,5,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,M. Randal,9,Randal,6,-3
+TESSERACT,initial,Mi,2,Mi,2,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Mon Dieu!,9,Dieu,4,-5
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mv° Mouratet,12,Mouratet,8,-4
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Où irait-on ?,13,irait,5,-8
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Monsieur !,10,Monsieur,8,-2
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Hélène,6,Hélène,6,0
+TESSERACT,initial,Mouratet,8,Mouratet,8,0
+TESSERACT,initial,Margot,6,Margot,6,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Mystère,7,Mystère,7,0
+TESSERACT,initial,Mystère,7,Mystère,7,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Teint,5,Teint,5,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Dieu,4,Dieu,4,0
+TESSERACT,initial,Bruxelles,9,Bruxelles,9,0
+TESSERACT,initial,Royan,5,Royan,5,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,abbé Lamargelle,15,Lamargelle,10,-5
+TESSERACT,initial,Madame,6,Madame,6,0
+TESSERACT,initial,Impossible !,12,Impossible,10,-2
+TESSERACT,initial,Mon Dieu,8,Mon,3,-5
+TESSERACT,initial,Barzot,6,Barzot,6,0
+TESSERACT,initial,Monsieur,8,Monsieur,8,0
+TESSERACT,initial,Madeleine,9,Madeleine,9,0
+TESSERACT,initial,Meñsonge,8,Meñsonge,8,0
+TESSERACT,initial,l’Individu,10,Individu,8,-2
+TESSERACT,initial,l’Individu,10,Individu,8,-2
+TESSERACT,initial,l’Individu,10,Individu,8,-2

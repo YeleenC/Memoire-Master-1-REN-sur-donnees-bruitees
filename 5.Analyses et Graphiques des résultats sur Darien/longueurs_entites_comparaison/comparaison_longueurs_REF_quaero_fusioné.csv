@@ -1,0 +1,1058 @@
+OCR,Modèle,Texte_spacy,Longueur_spacy,Texte_modele,Longueur_modele,Différence
+REF,quaero_fusioné,Républicain,11,Républicain,11,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Dinan,5,Dinan,5,0
+REF,quaero_fusioné,Ostende,7,Ostende,7,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Impossible,10,Impossible,10,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Messieurs,9,Messieurs,9,0
+REF,quaero_fusioné,Voleur-là ;,11,Voleur,6,-5
+REF,quaero_fusioné,Voleur,6,Voleur,6,0
+REF,quaero_fusioné,Augustine,9,Augustine,9,0
+REF,quaero_fusioné,Cher,4,Cher,4,0
+REF,quaero_fusioné,Candeur !,9,Candeur,7,-2
+REF,quaero_fusioné,Reims,5,Reims,5,0
+REF,quaero_fusioné,Phanor,6,Phanor,6,0
+REF,quaero_fusioné,Gambetta,8,Gambetta,8,0
+REF,quaero_fusioné,Louis-Philippe,14,Louis-Philippe,14,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Reste là !,10,Reste,5,-5
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,VASE,4,VASE,4,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Morgues,7,Morgues,7,0
+REF,quaero_fusioné,Cicéron,7,Cicéron,7,0
+REF,quaero_fusioné,Catilina,8,Catilina,8,0
+REF,quaero_fusioné,César,5,César,5,0
+REF,quaero_fusioné,Empires,7,Empires,7,0
+REF,quaero_fusioné,Raphaël,7,Raphaël,7,0
+REF,quaero_fusioné,Vatican,7,Vatican,7,0
+REF,quaero_fusioné,Michel-Ange,11,Michel,6,-5
+REF,quaero_fusioné,Malherbe,8,Malherbe,8,0
+REF,quaero_fusioné,Emerson,7,Emerson,7,0
+REF,quaero_fusioné,Bonaparte,9,Bonaparte,9,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,M. Issacar,10,Issacar,7,-3
+REF,quaero_fusioné,M. Issacar,10,Issacar,7,-3
+REF,quaero_fusioné,M. ,3,M.,2,-1
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Israélite,9,Israélite,9,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Isaïe,5,Isaïe,5,0
+REF,quaero_fusioné,Riche !,7,Riche,5,-2
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,la Propriété,12,Propriété,9,-3
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Luxure,6,Luxure,6,0
+REF,quaero_fusioné,Menteur !,9,Menteur,7,-2
+REF,quaero_fusioné,Voleur !,8,Voleur,6,-2
+REF,quaero_fusioné,Bourse,6,Bourse,6,0
+REF,quaero_fusioné,Mon oncle,9,oncle,5,-4
+REF,quaero_fusioné,Mon oncle,9,oncle,5,-4
+REF,quaero_fusioné,Respect,7,Respect,7,0
+REF,quaero_fusioné,Respect,7,Respect,7,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Banque,6,Banque,6,0
+REF,quaero_fusioné,Georges,7,Georges,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Marguerite,10,Marguerite,10,0
+REF,quaero_fusioné,Thibet,6,Thibet,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Belgique,8,Belgique,8,0
+REF,quaero_fusioné,Mme Montareuil,14,Montareuil,10,-4
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Montareuil,10,Montareuil,10,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Mme Montareuil,14,Montareuil,10,-4
+REF,quaero_fusioné,Montmartre,10,Montmartre,10,0
+REF,quaero_fusioné,la Seine,8,Seine,5,-3
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Enfant ,7,Enfant,6,-1
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Golgotha,8,Golgotha,8,0
+REF,quaero_fusioné,Jésus,5,Jésus,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,l'Individu,10,Individu,8,-2
+REF,quaero_fusioné,Numance,7,Numance,7,0
+REF,quaero_fusioné,Carlyle,7,Carlyle,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,– Personne,10,Personne,8,-2
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Jérémie,7,Jérémie,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Belges,6,Belges,6,0
+REF,quaero_fusioné,Suisse,6,Suisse,6,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Bourse,6,Bourse,6,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,M. Issacar,10,Issacar,7,-3
+REF,quaero_fusioné,M. Issacar,10,Issacar,7,-3
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+REF,quaero_fusioné,Caucase,7,Caucase,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Banques,7,Banques,7,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Banques,7,Banques,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Volontiers,10,Volontiers,10,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Darbroëk,8,Darbroëk,8,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Roi Salomon,11,Salomon,7,-4
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Belgique,8,Belgique,8,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,l'Individu,10,Individu,8,-2
+REF,quaero_fusioné,Nature,6,Nature,6,0
+REF,quaero_fusioné,au Louvre,9,Louvre,6,-3
+REF,quaero_fusioné,Vierge,6,Vierge,6,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Broussaille,11,Broussaille,11,0
+REF,quaero_fusioné,Poissy,6,Poissy,6,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Mercure,7,Mercure,7,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Fichet,6,Fichet,6,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Ostende,7,Ostende,7,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Bourges,7,Bourges,7,0
+REF,quaero_fusioné,Châteauroux,11,Châteauroux,11,0
+REF,quaero_fusioné,Bourse,6,Bourse,6,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Belgique,8,Belgique,8,0
+REF,quaero_fusioné,Belge,5,Belge,5,0
+REF,quaero_fusioné,Rente,5,Rente,5,0
+REF,quaero_fusioné,Villes,6,Villes,6,0
+REF,quaero_fusioné,Ottomane,8,Ottomane,8,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,le Japon,8,Japon,5,-3
+REF,quaero_fusioné,la Chine,8,Chine,5,-3
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Européen,8,Européen,8,0
+REF,quaero_fusioné,Jaunes,6,Jaunes,6,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Asie Mineure,12,Mineure,7,-5
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Roger-la-Honte,14,Roger-la-Honte,14,0
+REF,quaero_fusioné,– Diable !,10,Diable,6,-4
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Rente,5,Rente,5,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Dieu !,6,Dieu,4,-2
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Broussaille,11,Broussaille,11,0
+REF,quaero_fusioné,Piccadilly,10,Piccadilly,10,0
+REF,quaero_fusioné,Brompton Road,13,Brompton,8,-5
+REF,quaero_fusioné,Kensington,10,Kensington,10,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Bizarre !,9,Bizarre,7,-2
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Empire,6,Empire,6,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Vraiment !,10,Vraiment,8,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Broussaille,11,Broussaille,11,0
+REF,quaero_fusioné,Broussaille,11,Broussaille,11,0
+REF,quaero_fusioné,l'Empire,8,Empire,6,-2
+REF,quaero_fusioné,Kensington,10,Kensington,10,0
+REF,quaero_fusioné,Juif,4,Juif,4,0
+REF,quaero_fusioné,Broussaille,11,Broussaille,11,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Justice,7,Justice,7,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Conclusion,10,Conclusion,10,0
+REF,quaero_fusioné,Bravo !,7,Bravo,5,-2
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Cayenne,7,Cayenne,7,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Suisse,6,Suisse,6,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,la Ville-Lumière,16,Ville-Lumière,13,-3
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Broussaille,11,Broussaille,11,0
+REF,quaero_fusioné,Cartouche,9,Cartouche,9,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Madame,6,Madame,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Russe,5,Russe,5,0
+REF,quaero_fusioné,Russe,5,Russe,5,0
+REF,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+REF,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Polytechnique,13,Polytechnique,13,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Belgique,8,Belgique,8,0
+REF,quaero_fusioné,Suisse,6,Suisse,6,0
+REF,quaero_fusioné,Europe,6,Europe,6,0
+REF,quaero_fusioné,Européen,8,Européen,8,0
+REF,quaero_fusioné,Lédas,5,Lédas,5,0
+REF,quaero_fusioné,Dianes,6,Dianes,6,0
+REF,quaero_fusioné,Danaés,6,Danaés,6,0
+REF,quaero_fusioné,Turenne,7,Turenne,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+REF,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+REF,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Mon Dieu,8,Dieu,4,-4
+REF,quaero_fusioné,Guizot,6,Guizot,6,0
+REF,quaero_fusioné,Remords,7,Remords,7,0
+REF,quaero_fusioné,Remords,7,Remords,7,0
+REF,quaero_fusioné,du Nord,7,Nord,4,-3
+REF,quaero_fusioné,Dieu !,6,Dieu,4,-2
+REF,quaero_fusioné,Bourse,6,Bourse,6,0
+REF,quaero_fusioné,Bourse,6,Bourse,6,0
+REF,quaero_fusioné,Ecclésiaste,11,Ecclésiaste,11,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Vaine,5,Vaine,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Boulogne,8,Boulogne,8,0
+REF,quaero_fusioné,Boulogne,8,Boulogne,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Albion,6,Albion,6,0
+REF,quaero_fusioné,Washington,10,Washington,10,0
+REF,quaero_fusioné,Lafayette,9,Lafayette,9,0
+REF,quaero_fusioné,Montréal,8,Montréal,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Lafayette,9,Lafayette,9,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Chambre,7,Chambre,7,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Nord,4,Nord,4,0
+REF,quaero_fusioné,République,10,République,10,0
+REF,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Le Monsieur,11,Monsieur,8,-3
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Suisse,6,Suisse,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Vandale,7,Vandale,7,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Sociale,7,Sociale,7,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Colomb,6,Colomb,6,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Balon,5,Balon,5,0
+REF,quaero_fusioné,Tiens !,7,Tiens,5,-2
+REF,quaero_fusioné,Mme Talmasco,12,Talmasco,8,-4
+REF,quaero_fusioné,Mme Talmasco,12,Talmasco,8,-4
+REF,quaero_fusioné,Mme Talmasco,12,Talmasco,8,-4
+REF,quaero_fusioné,Mme Talmasco,12,Talmasco,8,-4
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Vidocq,6,Vidocq,6,0
+REF,quaero_fusioné,La Révolution,13,Révolution,10,-3
+REF,quaero_fusioné,Némésis,7,Némésis,7,0
+REF,quaero_fusioné,Bakounine,9,Bakounine,9,0
+REF,quaero_fusioné,Individualité,13,Individualité,13,0
+REF,quaero_fusioné,l'Individu,10,Individu,8,-2
+REF,quaero_fusioné,l'Individu,10,Individu,8,-2
+REF,quaero_fusioné,Bourgeoisie,11,Bourgeoisie,11,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Cayenne,7,Cayenne,7,0
+REF,quaero_fusioné,Condamné !,10,Condamné,8,-2
+REF,quaero_fusioné,République,10,République,10,0
+REF,quaero_fusioné,Cayenne,7,Cayenne,7,0
+REF,quaero_fusioné,Dauphin,7,Dauphin,7,0
+REF,quaero_fusioné,République,10,République,10,0
+REF,quaero_fusioné,New-York,8,New-York,8,0
+REF,quaero_fusioné,République,10,République,10,0
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Machin,6,Machin,6,0
+REF,quaero_fusioné,Saluts,6,Saluts,6,0
+REF,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+REF,quaero_fusioné,Revue,5,Revue,5,0
+REF,quaero_fusioné,La « ,5,La,2,-3
+REF,quaero_fusioné,Revue,5,Revue,5,0
+REF,quaero_fusioné,Revue,5,Revue,5,0
+REF,quaero_fusioné,Revue,5,Revue,5,0
+REF,quaero_fusioné,Revue,5,Revue,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Lombroso,8,Lombroso,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Voleur,6,Voleur,6,0
+REF,quaero_fusioné,M.,2,M.,2,0
+REF,quaero_fusioné,Machin,6,Machin,6,0
+REF,quaero_fusioné,Vraiment !,10,Vraiment,8,-2
+REF,quaero_fusioné,Montareuil,10,Montareuil,10,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Revue,5,Revue,5,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Revue,5,Revue,5,0
+REF,quaero_fusioné,Suisse,6,Suisse,6,0
+REF,quaero_fusioné,Lombroso,8,Lombroso,8,0
+REF,quaero_fusioné,Lombroso,8,Lombroso,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Direction,9,Direction,9,0
+REF,quaero_fusioné,Directeur,9,Directeur,9,0
+REF,quaero_fusioné,Pâques,6,Pâques,6,0
+REF,quaero_fusioné,Vois-tu,7,Vois,4,-3
+REF,quaero_fusioné,Mouratet,8,Mouratet,8,0
+REF,quaero_fusioné,République,10,République,10,0
+REF,quaero_fusioné,République !,12,République,10,-2
+REF,quaero_fusioné,Renaissance,11,Renaissance,11,0
+REF,quaero_fusioné,Cirque,6,Cirque,6,0
+REF,quaero_fusioné,Mon Dieu,8,Mon,3,-5
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Parisienne,10,Parisienne,10,0
+REF,quaero_fusioné,Peuple,6,Peuple,6,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Napoléon,8,Napoléon,8,0
+REF,quaero_fusioné,Londres,7,Londres,7,0
+REF,quaero_fusioné,Margot,6,Margot,6,0
+REF,quaero_fusioné,Marguerite,10,Marguerite,10,0
+REF,quaero_fusioné,Mme Montareuil,14,Montareuil,10,-4
+REF,quaero_fusioné,Mme Montareuil,14,Montareuil,10,-4
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Machinard,9,Machinard,9,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,M.,2,M.,2,0
+REF,quaero_fusioné,la Marseillaise,15,Marseillaise,12,-3
+REF,quaero_fusioné,M.,2,M.,2,0
+REF,quaero_fusioné,Courbassol,10,Courbassol,10,0
+REF,quaero_fusioné,Messieurs !,11,Messieurs,9,-2
+REF,quaero_fusioné,République,10,République,10,0
+REF,quaero_fusioné,la Marseillaise,15,Marseillaise,12,-3
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Margot,6,Margot,6,0
+REF,quaero_fusioné,Jérôme,6,Jérôme,6,0
+REF,quaero_fusioné,Jérôme,6,Jérôme,6,0
+REF,quaero_fusioné,Annette,7,Annette,7,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Annette,7,Annette,7,0
+REF,quaero_fusioné,Jérôme,6,Jérôme,6,0
+REF,quaero_fusioné,Annette,7,Annette,7,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Jérôme,6,Jérôme,6,0
+REF,quaero_fusioné,Jérôme,6,Jérôme,6,0
+REF,quaero_fusioné,Annette,7,Annette,7,0
+REF,quaero_fusioné,Jérôme,6,Jérôme,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Jérôme,6,Jérôme,6,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Bonsoir,7,Bonsoir,7,0
+REF,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,– Randal,8,Randal,6,-2
+REF,quaero_fusioné,Jérôme,6,Jérôme,6,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Lyon,4,Lyon,4,0
+REF,quaero_fusioné,Bordeaux,8,Bordeaux,8,0
+REF,quaero_fusioné,Nancy,5,Nancy,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Edison,6,Edison,6,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,M.,2,M.,2,0
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Europe,6,Europe,6,0
+REF,quaero_fusioné,Société !,9,Société,7,-2
+REF,quaero_fusioné,Forts,5,Forts,5,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Courbassol,10,Courbassol,10,0
+REF,quaero_fusioné,Europe,6,Europe,6,0
+REF,quaero_fusioné,Messieurs,9,Messieurs,9,0
+REF,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+REF,quaero_fusioné,Machinard,9,Machinard,9,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Annette,7,Annette,7,0
+REF,quaero_fusioné,Jérôme,6,Jérôme,6,0
+REF,quaero_fusioné,M. Courbassol,13,Courbassol,10,-3
+REF,quaero_fusioné,Annette,7,Annette,7,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Gambetta,8,Gambetta,8,0
+REF,quaero_fusioné,Marianne,8,Marianne,8,0
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Vraiment !,10,Vraiment,8,-2
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,de Belgique,11,Belgique,8,-3
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,– Occupé !,10,Occupé,6,-4
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,rue Lafayette,13,Lafayette,9,-4
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Israélite,9,Israélite,9,0
+REF,quaero_fusioné,Spui,4,Spui,4,0
+REF,quaero_fusioné,Lassalle,8,Lassalle,8,0
+REF,quaero_fusioné,Golgotha,8,Golgotha,8,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Vraiment !,10,Vraiment,8,-2
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Juif,4,Juif,4,0
+REF,quaero_fusioné,Juif,4,Juif,4,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Margot,6,Margot,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Machinard,9,Machinard,9,0
+REF,quaero_fusioné,Réponds,7,Réponds,7,0
+REF,quaero_fusioné,Machinard,9,Machinard,9,0
+REF,quaero_fusioné,Justice,7,Justice,7,0
+REF,quaero_fusioné,Marine,6,Marine,6,0
+REF,quaero_fusioné,Agriculture,11,Agriculture,11,0
+REF,quaero_fusioné,Justice !,9,Justice,7,-2
+REF,quaero_fusioné,Justice,7,Justice,7,0
+REF,quaero_fusioné,Courbassols,11,Courbassols,11,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,J.-J.B.,7,J.-J.B.,7,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,M. Canonnier,12,Canonnier,9,-3
+REF,quaero_fusioné,Belgique,8,Belgique,8,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Dieppe,6,Dieppe,6,0
+REF,quaero_fusioné,Nice,4,Nice,4,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Suisse,6,Suisse,6,0
+REF,quaero_fusioné,Mademoiselle,12,Mademoiselle,12,0
+REF,quaero_fusioné,Prussiens,9,Prussiens,9,0
+REF,quaero_fusioné,Vive Jésus !,12,Jésus,5,-7
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Père,4,Père,4,0
+REF,quaero_fusioné,– Père,6,Père,4,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Cayenne,7,Cayenne,7,0
+REF,quaero_fusioné,– Mademoiselle,14,Mademoiselle,12,-2
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,– Mademoiselle,14,Mademoiselle,12,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Numas,5,Numas,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Troplong,8,Troplong,8,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Mme Ida,7,Mme,3,-4
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Videz,5,Videz,5,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Ostende,7,Ostende,7,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Messieurs,9,Messieurs,9,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,rue Clémentine,14,Clémentine,10,-4
+REF,quaero_fusioné,– Parbleu !,11,Parbleu,7,-4
+REF,quaero_fusioné,Anglaise,8,Anglaise,8,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Mlle Canonnier,14,Canonnier,9,-5
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Remarquez,9,Remarquez,9,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Réfléchissez,12,Réfléchissez,12,0
+REF,quaero_fusioné,Anglaise,8,Anglaise,8,0
+REF,quaero_fusioné,Me,2,Me,2,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Chouette !,10,Chouette,8,-2
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Louvain,7,Louvain,7,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Bonsoir,7,Bonsoir,7,0
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Mlle Canonnier,14,Canonnier,9,-5
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Justice,7,Justice,7,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Mlle Canonnier,14,Canonnier,9,-5
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Mlle Canonnier,14,Canonnier,9,-5
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Justice,7,Justice,7,0
+REF,quaero_fusioné,Justice,7,Justice,7,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,cher Monsieur,13,Monsieur,8,-5
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Jamais !,8,Jamais,6,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Voudriez,8,Voudriez,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Mme Ida,7,Mme,3,-4
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Louvain,7,Louvain,7,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Réquisitoire,12,Réquisitoire,12,0
+REF,quaero_fusioné,Suisse,6,Suisse,6,0
+REF,quaero_fusioné,de Belgique,11,Belgique,8,-3
+REF,quaero_fusioné,Louvain,7,Louvain,7,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Jean-Jacques,12,Jean-Jacques,12,0
+REF,quaero_fusioné,Babel,5,Babel,5,0
+REF,quaero_fusioné,Dandin,6,Dandin,6,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Voleurs,7,Voleurs,7,0
+REF,quaero_fusioné,Danoise,7,Danoise,7,0
+REF,quaero_fusioné,Musette,7,Musette,7,0
+REF,quaero_fusioné,Marcel,6,Marcel,6,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Danton,6,Danton,6,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Gravesend,9,Gravesend,9,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Curé,4,Curé,4,0
+REF,quaero_fusioné,suisse,6,suisse,6,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Galériens,9,Galériens,9,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Mme Montareuil,14,Montareuil,10,-4
+REF,quaero_fusioné,Marguerite,10,Marguerite,10,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Georgette,9,Georgette,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Georgette,9,Georgette,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Noël,4,Noël,4,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Maman...,8,Maman,5,-3
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Noël,4,Noël,4,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+REF,quaero_fusioné,Kensington,10,Kensington,10,0
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Pâques,6,Pâques,6,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Waterloo Road,13,Waterloo,8,-5
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Dieu !...,9,Dieu,4,-5
+REF,quaero_fusioné,Noël !,6,Noël,4,-2
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Seigneur !,10,Seigneur,8,-2
+REF,quaero_fusioné,Noël,4,Noël,4,0
+REF,quaero_fusioné,d'Espagne,9,Espagne,7,-2
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Noël,4,Noël,4,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Noël,4,Noël,4,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Est,3,Est,3,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Noël,4,Noël,4,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Casino,6,Casino,6,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Nice,4,Nice,4,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Orléans,7,Orléans,7,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Bonsoir,7,Bonsoir,7,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Broussaille,11,Broussaille,11,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Calypso,7,Calypso,7,0
+REF,quaero_fusioné,Suisse,6,Suisse,6,0
+REF,quaero_fusioné,Mlle Charlotte,14,Charlotte,9,-5
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Mlle Charlotte,14,Charlotte,9,-5
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Casino,6,Casino,6,0
+REF,quaero_fusioné,Margot,6,Margot,6,0
+REF,quaero_fusioné,Marguerite,10,Marguerite,10,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Paul,4,Paul,4,0
+REF,quaero_fusioné,Cusset,6,Cusset,6,0
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Margot,6,Margot,6,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,M.,2,M.,2,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Gaston,6,Gaston,6,0
+REF,quaero_fusioné,Remarquez,9,Remarquez,9,0
+REF,quaero_fusioné,Discorde,8,Discorde,8,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Vieilleries,11,Vieilleries,11,0
+REF,quaero_fusioné,Rome,4,Rome,4,0
+REF,quaero_fusioné,Château-Céleste,15,Château-Céleste,15,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Mme Boileau,11,Boileau,7,-4
+REF,quaero_fusioné,Mon Dieu !,10,Dieu,4,-6
+REF,quaero_fusioné,Belgique,8,Belgique,8,0
+REF,quaero_fusioné,Remarquez,9,Remarquez,9,0
+REF,quaero_fusioné,Casino,6,Casino,6,0
+REF,quaero_fusioné,Mouratet,8,Mouratet,8,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Mouratet,8,Mouratet,8,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Normandie,9,Normandie,9,0
+REF,quaero_fusioné,Écossaise,9,Écossaise,9,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Mouratet,8,Mouratet,8,0
+REF,quaero_fusioné,– Monsieur,10,Monsieur,8,-2
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Mouratet,8,Mouratet,8,0
+REF,quaero_fusioné,Mouratet,8,Mouratet,8,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Rhin,4,Rhin,4,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Viens,5,Viens,5,0
+REF,quaero_fusioné,Dinde,5,Dinde,5,0
+REF,quaero_fusioné,Dinde,5,Dinde,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Mouratet,8,Mouratet,8,0
+REF,quaero_fusioné,Dinde,5,Dinde,5,0
+REF,quaero_fusioné,Circulez,8,Circulez,8,0
+REF,quaero_fusioné,Messieurs,9,Messieurs,9,0
+REF,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Déshonoré,9,Déshonoré,9,0
+REF,quaero_fusioné,Belgique,8,Belgique,8,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Justice,7,Justice,7,0
+REF,quaero_fusioné,Montareuil,10,Montareuil,10,0
+REF,quaero_fusioné,Dalmatie,8,Dalmatie,8,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Brabant,7,Brabant,7,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Londres,7,Londres,7,0
+REF,quaero_fusioné,Mystère,7,Mystère,7,0
+REF,quaero_fusioné,Dieu !,6,Dieu,4,-2
+REF,quaero_fusioné,Mme,3,Mme,3,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,de Belgique,11,Belgique,8,-3
+REF,quaero_fusioné,Ostende,7,Ostende,7,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Tiens !,7,Tiens,5,-2
+REF,quaero_fusioné,Vichy,5,Vichy,5,0
+REF,quaero_fusioné,Randal...,9,Randal,6,-3
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Rubens,6,Rubens,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Madame,6,Madame,6,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Compromise !,12,Compromise,10,-2
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Roi Salomon,11,Salomon,7,-4
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Roger,5,Roger,5,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Tiens,5,Tiens,5,0
+REF,quaero_fusioné,Geneviève,9,Geneviève,9,0
+REF,quaero_fusioné,Royan,5,Royan,5,0
+REF,quaero_fusioné,Vienne,6,Vienne,6,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Geneviève,9,Geneviève,9,0
+REF,quaero_fusioné,Geneviève,9,Geneviève,9,0
+REF,quaero_fusioné,Londres,7,Londres,7,0
+REF,quaero_fusioné,Geneviève,9,Geneviève,9,0
+REF,quaero_fusioné,Mlle Charlotte,14,Charlotte,9,-5
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Grecs,5,Grecs,5,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Geneviève,9,Geneviève,9,0
+REF,quaero_fusioné,Bruxelles,9,Bruxelles,9,0
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Impossible !,12,Impossible,10,-2
+REF,quaero_fusioné,Mon Dieu,8,Mon,3,-5
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,M. Randal,9,Randal,6,-3
+REF,quaero_fusioné,Dieu,4,Dieu,4,0
+REF,quaero_fusioné,Dalila,6,Dalila,6,0
+REF,quaero_fusioné,Geneviève,9,Geneviève,9,0
+REF,quaero_fusioné,Geneviève,9,Geneviève,9,0
+REF,quaero_fusioné,Eh !,4,Eh,2,-2
+REF,quaero_fusioné,Charlotte,9,Charlotte,9,0
+REF,quaero_fusioné,Margot,6,Margot,6,0
+REF,quaero_fusioné,Vauvenargues,12,Vauvenargues,12,0
+REF,quaero_fusioné,Barzot,6,Barzot,6,0
+REF,quaero_fusioné,Malenvers,9,Malenvers,9,0
+REF,quaero_fusioné,Monsieur !,10,Monsieur,8,-2
+REF,quaero_fusioné,Nothingabout,12,Nothingabout,12,0
+REF,quaero_fusioné,Monsieur,8,Monsieur,8,0
+REF,quaero_fusioné,Normandie,9,Normandie,9,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Devine...,9,Devine,6,-3
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Randal,6,Randal,6,0
+REF,quaero_fusioné,Issacar,7,Issacar,7,0
+REF,quaero_fusioné,Canonnier,9,Canonnier,9,0
+REF,quaero_fusioné,Cayenne,7,Cayenne,7,0
+REF,quaero_fusioné,Madeleine,9,Madeleine,9,0
+REF,quaero_fusioné,Venise,6,Venise,6,0
+REF,quaero_fusioné,Maître,6,Maître,6,0
+REF,quaero_fusioné,Paternoster,11,Paternoster,11,0
+REF,quaero_fusioné,Renée,5,Renée,5,0
+REF,quaero_fusioné,Société,7,Société,7,0
+REF,quaero_fusioné,Doctrine,8,Doctrine,8,0
+REF,quaero_fusioné,Jean-Jacques,12,Jean-Jacques,12,0
+REF,quaero_fusioné,Mensonge !,10,Mensonge,8,-2
+REF,quaero_fusioné,Gémonies,8,Gémonies,8,0
+REF,quaero_fusioné,Jésus,5,Jésus,5,0
+REF,quaero_fusioné,Verbe,5,Verbe,5,0
+REF,quaero_fusioné,Individu,8,Individu,8,0
+REF,quaero_fusioné,l'Individu,10,Individu,8,-2
+REF,quaero_fusioné,Haine,5,Haine,5,0
+REF,quaero_fusioné,l'Individu,10,Individu,8,-2
+REF,quaero_fusioné,Droits,6,Droits,6,0
+REF,quaero_fusioné,l'Individu,10,Individu,8,-2

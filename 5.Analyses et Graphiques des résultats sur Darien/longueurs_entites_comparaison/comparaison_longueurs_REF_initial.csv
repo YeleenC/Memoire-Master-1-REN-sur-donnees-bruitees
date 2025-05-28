@@ -1,0 +1,392 @@
+OCR,Modèle,Texte_spacy,Longueur_spacy,Texte_modele,Longueur_modele,Différence
+REF,initial,Madame,6,Madame,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Eh !,4,Eh,2,-2
+REF,initial,Randal,6,Randal,6,0
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Est,3,Est,3,0
+REF,initial,Barbares,8,Barbares,8,0
+REF,initial,Michel-Ange,11,Michel,6,-5
+REF,initial,Malherbe,8,Malherbe,8,0
+REF,initial,Messieurs,9,Messieurs,9,0
+REF,initial,Mon oncle,9,oncle,5,-4
+REF,initial,Est,3,Est,3,0
+REF,initial,abbé Lamargelle,15,Lamargelle,10,-5
+REF,initial,Menteur !,9,Menteur,7,-2
+REF,initial,Respect,7,Respect,7,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Mme Montareuil,14,Montareuil,10,-4
+REF,initial,Mme Montareuil,14,Montareuil,10,-4
+REF,initial,Madame,6,Madame,6,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Marguerite,10,Marguerite,10,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Mme Montareuil,14,Montareuil,10,-4
+REF,initial,Mme Montareuil,14,Montareuil,10,-4
+REF,initial,Marguerite,10,Marguerite,10,0
+REF,initial,Mme Montareuil,14,Montareuil,10,-4
+REF,initial,Mme Montareuil,14,Montareuil,10,-4
+REF,initial,Montmartre,10,Montmartre,10,0
+REF,initial,Mme Montareuil,14,Montareuil,10,-4
+REF,initial,Est,3,Est,3,0
+REF,initial,Illégalement,12,Illégalement,12,0
+REF,initial,Georges !,9,Georges,7,-2
+REF,initial,Mme Montareuil,14,Montareuil,10,-4
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Europe,6,Europe,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,l'Individu,10,Individu,8,-2
+REF,initial,Europe,6,Europe,6,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Banques,7,Banques,7,0
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Roger,5,Roger,5,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Londres,7,Londres,7,0
+REF,initial,Suisse,6,Suisse,6,0
+REF,initial,Roger,5,Roger,5,0
+REF,initial,Roger,5,Roger,5,0
+REF,initial,Madame !,8,Madame,6,-2
+REF,initial,Madame,6,Madame,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Est,3,Est,3,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Madame,6,Madame,6,0
+REF,initial,Madame,6,Madame,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,M. Canonnier,12,Canonnier,9,-3
+REF,initial,Monsieur !,10,Monsieur,8,-2
+REF,initial,Monsieur !,10,Monsieur,8,-2
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Madame,6,Madame,6,0
+REF,initial,M. Canonnier,12,Canonnier,9,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,cher Monsieur,13,Monsieur,8,-5
+REF,initial,cher Monsieur,13,Monsieur,8,-5
+REF,initial,cher Monsieur,13,Monsieur,8,-5
+REF,initial,– Monsieur,10,Monsieur,8,-2
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Vaine,5,Vaine,5,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Américain,9,Américain,9,0
+REF,initial,Washington,10,Washington,10,0
+REF,initial,Montréal,8,Montréal,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur !,10,Monsieur,8,-2
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur !,10,Monsieur,8,-2
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Nord,4,Nord,4,0
+REF,initial,cher Monsieur,13,Monsieur,8,-5
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Le Monsieur,11,Monsieur,8,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Est,3,Est,3,0
+REF,initial,Balon,5,Balon,5,0
+REF,initial,Balon,5,Balon,5,0
+REF,initial,Balon,5,Balon,5,0
+REF,initial,Balon,5,Balon,5,0
+REF,initial,Balon,5,Balon,5,0
+REF,initial,Tiens !,7,Tiens,5,-2
+REF,initial,Mme Talmasco,12,Talmasco,8,-4
+REF,initial,Mme Talmasco,12,Talmasco,8,-4
+REF,initial,La Révolution,13,Révolution,10,-3
+REF,initial,l'Individu,10,Individu,8,-2
+REF,initial,Est,3,Est,3,0
+REF,initial,Bordeaux,8,Bordeaux,8,0
+REF,initial,Machin,6,Machin,6,0
+REF,initial,Mon Dieu !,10,Dieu,4,-6
+REF,initial,Navarre,7,Navarre,7,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Machin,6,Machin,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mme Mouratet,12,Mouratet,8,-4
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mon Dieu,8,Mon,3,-5
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Est,3,Est,3,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Malenvers,9,Malenvers,9,0
+REF,initial,Machinard,9,Machinard,9,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Malenvers !,11,Malenvers,9,-2
+REF,initial,Malenvers,9,Malenvers,9,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Malenvers,9,Malenvers,9,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,cher Monsieur,13,Monsieur,8,-5
+REF,initial,Saint-Nazaire,13,Saint-Nazaire,13,0
+REF,initial,Malenvers,9,Malenvers,9,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Edison,6,Edison,6,0
+REF,initial,Malenvers,9,Malenvers,9,0
+REF,initial,Tiens,5,Tiens,5,0
+REF,initial,Malenvers,9,Malenvers,9,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Machinard,9,Machinard,9,0
+REF,initial,Messieurs,9,Messieurs,9,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Malenvers,9,Malenvers,9,0
+REF,initial,Et Margot,9,Margot,6,-3
+REF,initial,Marianne,8,Marianne,8,0
+REF,initial,Hélène,6,Hélène,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Israélite,9,Israélite,9,0
+REF,initial,Israélites,10,Israélites,10,0
+REF,initial,Israélites,10,Israélites,10,0
+REF,initial,Juif,4,Juif,4,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Liane,5,Liane,5,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Machinard,9,Machinard,9,0
+REF,initial,Marine,6,Marine,6,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,M. Canonnier,12,Canonnier,9,-3
+REF,initial,M. Canonnier,12,Canonnier,9,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Est,3,Est,3,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Randal,6,Randal,6,0
+REF,initial,Hélène,6,Hélène,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Broussaille,11,Broussaille,11,0
+REF,initial,rue Clémentine,14,Clémentine,10,-4
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Hélène,6,Hélène,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,M. Canonnier,12,Canonnier,9,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,cher Monsieur,13,Monsieur,8,-5
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Broussaille,11,Broussaille,11,0
+REF,initial,Est,3,Est,3,0
+REF,initial,Marcel,6,Marcel,6,0
+REF,initial,Est,3,Est,3,0
+REF,initial,Mme Montareuil,14,Montareuil,10,-4
+REF,initial,Est,3,Est,3,0
+REF,initial,Broussaille,11,Broussaille,11,0
+REF,initial,Broussaille,11,Broussaille,11,0
+REF,initial,Cheapside,9,Cheapside,9,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur !,10,Monsieur,8,-2
+REF,initial,Paternoster,11,Paternoster,11,0
+REF,initial,Est,3,Est,3,0
+REF,initial,Noël,4,Noël,4,0
+REF,initial,Madame,6,Madame,6,0
+REF,initial,– Monsieur,10,Monsieur,8,-2
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Madame,6,Madame,6,0
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Société,7,Société,7,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Margot !,8,Margot,6,-2
+REF,initial,Ton oncle ?,11,oncle,5,-6
+REF,initial,Embêtant !,10,Embêtant,8,-2
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Margot,6,Margot,6,0
+REF,initial,Paul,4,Paul,4,0
+REF,initial,Tiens,5,Tiens,5,0
+REF,initial,Madame,6,Madame,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Madame,6,Madame,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Dieu,4,Dieu,4,0
+REF,initial,Mon Dieu !,10,Dieu,4,-6
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mme Mouratet,12,Mouratet,8,-4
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Normandie,9,Normandie,9,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,– Monsieur,10,Monsieur,8,-2
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Messieurs,9,Messieurs,9,0
+REF,initial,Monsieur !,10,Monsieur,8,-2
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Mouratet,8,Mouratet,8,0
+REF,initial,Montareuil,10,Montareuil,10,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Mystère,7,Mystère,7,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Madame,6,Madame,6,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Dieu,4,Dieu,4,0
+REF,initial,Indépendance,12,Indépendance,12,0
+REF,initial,Bruxelles,9,Bruxelles,9,0
+REF,initial,Geneviève,9,Geneviève,9,0
+REF,initial,Royan,5,Royan,5,0
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,abbé Lamargelle,15,Lamargelle,10,-5
+REF,initial,Lamargelle,10,Lamargelle,10,0
+REF,initial,Madame !,8,Madame,6,-2
+REF,initial,Mon Dieu,8,Mon,3,-5
+REF,initial,M. Randal,9,Randal,6,-3
+REF,initial,Barzot,6,Barzot,6,0
+REF,initial,Monsieur !,10,Monsieur,8,-2
+REF,initial,Monsieur,8,Monsieur,8,0
+REF,initial,Normandie,9,Normandie,9,0
+REF,initial,Madeleine,9,Madeleine,9,0
+REF,initial,Individu,8,Individu,8,0
+REF,initial,l'Individu,10,Individu,8,-2
+REF,initial,l'Individu,10,Individu,8,-2
+REF,initial,l'Individu,10,Individu,8,-2

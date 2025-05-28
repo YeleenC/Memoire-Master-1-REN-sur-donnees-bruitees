@@ -1,0 +1,5 @@
+modele,similarite_moyenne_levenshtein,nb_matches
+initial,0.9445,1095
+quaero_fusioné,0.9430666666666667,4111
+enrichi,0.9422333333333334,4762
+enrichi_80-20,0.9416333333333333,3884

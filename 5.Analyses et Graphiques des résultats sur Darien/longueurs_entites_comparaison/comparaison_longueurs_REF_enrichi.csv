@@ -1,0 +1,1286 @@
+OCR,Modèle,Texte_spacy,Longueur_spacy,Texte_modele,Longueur_modele,Différence
+REF,enrichi,Républicain,11,Républicain,11,0
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Dinan,5,Dinan,5,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Chloroforme,11,Chloroforme,11,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Impossible,10,Impossible,10,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Messieurs,9,Messieurs,9,0
+REF,enrichi,Voleur-là ;,11,Voleur,6,-5
+REF,enrichi,Voleur,6,Voleur,6,0
+REF,enrichi,Mme Dubourg,11,Dubourg,7,-4
+REF,enrichi,Augustine,9,Augustine,9,0
+REF,enrichi,Cher,4,Cher,4,0
+REF,enrichi,Candeur !,9,Candeur,7,-2
+REF,enrichi,Reims,5,Reims,5,0
+REF,enrichi,Jésuites,8,Jésuites,8,0
+REF,enrichi,Gambetta,8,Gambetta,8,0
+REF,enrichi,État,4,État,4,0
+REF,enrichi,Louis-Philippe,14,Louis-Philippe,14,0
+REF,enrichi,Code !,6,Code,4,-2
+REF,enrichi,Code !,6,Code,4,-2
+REF,enrichi,Code,4,Code,4,0
+REF,enrichi,Code,4,Code,4,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Dubourg,7,Dubourg,7,0
+REF,enrichi,Georges,7,Georges,7,0
+REF,enrichi,M. Dubourg,10,Dubourg,7,-3
+REF,enrichi,Reste là !,10,Reste,5,-5
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,M. Dubourg,10,Dubourg,7,-3
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Morgues,7,Morgues,7,0
+REF,enrichi,Cicéron,7,Cicéron,7,0
+REF,enrichi,Catilina,8,Catilina,8,0
+REF,enrichi,César,5,César,5,0
+REF,enrichi,Barbares,8,Barbares,8,0
+REF,enrichi,Raphaël,7,Raphaël,7,0
+REF,enrichi,Vatican,7,Vatican,7,0
+REF,enrichi,Michel-Ange,11,Michel,6,-5
+REF,enrichi,Malherbe,8,Malherbe,8,0
+REF,enrichi,Bossuet,7,Bossuet,7,0
+REF,enrichi,Emerson,7,Emerson,7,0
+REF,enrichi,Messieurs,9,Messieurs,9,0
+REF,enrichi,Mon ami,7,Mon,3,-4
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,M. Issacar,10,Issacar,7,-3
+REF,enrichi,M. Issacar,10,Issacar,7,-3
+REF,enrichi,M. ,3,M.,2,-1
+REF,enrichi,Israélite,9,Israélite,9,0
+REF,enrichi,Collez,6,Collez,6,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Codes,5,Codes,5,0
+REF,enrichi,Isaïe,5,Isaïe,5,0
+REF,enrichi,Riche !,7,Riche,5,-2
+REF,enrichi,Parbleu !,9,Parbleu,7,-2
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Mon oncle,9,oncle,5,-4
+REF,enrichi,Luxure,6,Luxure,6,0
+REF,enrichi,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi,Menteur !,9,Menteur,7,-2
+REF,enrichi,Georges,7,Georges,7,0
+REF,enrichi,Bourse,6,Bourse,6,0
+REF,enrichi,Banque,6,Banque,6,0
+REF,enrichi,Mon oncle,9,oncle,5,-4
+REF,enrichi,Mon oncle,9,oncle,5,-4
+REF,enrichi,Respect,7,Respect,7,0
+REF,enrichi,Respect,7,Respect,7,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Marguerite,10,Marguerite,10,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Georges,7,Georges,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Marguerite,10,Marguerite,10,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Belgique,8,Belgique,8,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Montareuil,10,Montareuil,10,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Montmartre,10,Montmartre,10,0
+REF,enrichi,la Seine,8,Seine,5,-3
+REF,enrichi,Crime,5,Crime,5,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Calmez,6,Calmez,6,0
+REF,enrichi,Mon oncle,9,oncle,5,-4
+REF,enrichi,Sûreté,6,Sûreté,6,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Georges !,9,Georges,7,-2
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Enfant ,7,Enfant,6,-1
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Europe,6,Europe,6,0
+REF,enrichi,Code,4,Code,4,0
+REF,enrichi,Golgotha,8,Golgotha,8,0
+REF,enrichi,Jésus,5,Jésus,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,l'Individu,10,Individu,8,-2
+REF,enrichi,Numance,7,Numance,7,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Carlyle,7,Carlyle,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Europe,6,Europe,6,0
+REF,enrichi,– Personne,10,Personne,8,-2
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Bourse,6,Bourse,6,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Jérémie,7,Jérémie,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,– Bon,5,Bon,3,-2
+REF,enrichi,Belges,6,Belges,6,0
+REF,enrichi,Suisse,6,Suisse,6,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Bourse,6,Bourse,6,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,– Chut !,8,Chut,4,-4
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,M. Issacar,10,Issacar,7,-3
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi,Caucase,7,Caucase,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Banques,7,Banques,7,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Banques,7,Banques,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Volontiers,10,Volontiers,10,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Darbroëk,8,Darbroëk,8,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Exactement,10,Exactement,10,0
+REF,enrichi,l'Individu,10,Individu,8,-2
+REF,enrichi,Nature,6,Nature,6,0
+REF,enrichi,au Louvre,9,Louvre,6,-3
+REF,enrichi,Beaux-Arts,10,Beaux,5,-5
+REF,enrichi,Sahara,6,Sahara,6,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Descendre !,11,Descendre,9,-2
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Mercure,7,Mercure,7,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,M. Delpich,10,Delpich,7,-3
+REF,enrichi,Delpich,7,Delpich,7,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Bourges,7,Bourges,7,0
+REF,enrichi,Châteauroux,11,Châteauroux,11,0
+REF,enrichi,Bourse,6,Bourse,6,0
+REF,enrichi,Bourse,6,Bourse,6,0
+REF,enrichi,Paternoster,11,Paternoster,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Paternoster,11,Paternoster,11,0
+REF,enrichi,Belge,5,Belge,5,0
+REF,enrichi,Rente,5,Rente,5,0
+REF,enrichi,Perse,5,Perse,5,0
+REF,enrichi,Extrême-Orient,14,Extrême-Orient,14,0
+REF,enrichi,la Chine,8,Chine,5,-3
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Jaunes,6,Jaunes,6,0
+REF,enrichi,Oxford,6,Oxford,6,0
+REF,enrichi,– Diable !,10,Diable,6,-4
+REF,enrichi,Messieurs,9,Messieurs,9,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Paternoster,11,Paternoster,11,0
+REF,enrichi,Dieu !,6,Dieu,4,-2
+REF,enrichi,Paternoster,11,Paternoster,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Kensington,10,Kensington,10,0
+REF,enrichi,Bizarre !,9,Bizarre,7,-2
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Empire,6,Empire,6,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,– Mademoiselle,14,Mademoiselle,12,-2
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Kensington,10,Kensington,10,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Juif,4,Juif,4,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Binocar,7,Binocar,7,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Justice,7,Justice,7,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Conclusion,10,Conclusion,10,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Bravo !,7,Bravo,5,-2
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Cayenne,7,Cayenne,7,0
+REF,enrichi,Suisse,6,Suisse,6,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,la Ville-Lumière,16,Ville-Lumière,13,-3
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Juif,4,Juif,4,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Bois,4,Bois,4,0
+REF,enrichi,Capoul,6,Capoul,6,0
+REF,enrichi,Cartouche,9,Cartouche,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Acropole,8,Acropole,8,0
+REF,enrichi,Acropole,8,Acropole,8,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Bouguereau,10,Bouguereau,10,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi,Russe,5,Russe,5,0
+REF,enrichi,Russe,5,Russe,5,0
+REF,enrichi,Monsieur !,10,Monsieur,8,-2
+REF,enrichi,Monsieur !,10,Monsieur,8,-2
+REF,enrichi,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Bailly,6,Bailly,6,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Belgique,8,Belgique,8,0
+REF,enrichi,Suisse,6,Suisse,6,0
+REF,enrichi,Europe,6,Europe,6,0
+REF,enrichi,Européen,8,Européen,8,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,Anglaise,8,Anglaise,8,0
+REF,enrichi,Centrale,8,Centrale,8,0
+REF,enrichi,Lédas,5,Lédas,5,0
+REF,enrichi,Dianes,6,Dianes,6,0
+REF,enrichi,Danaés,6,Danaés,6,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Mon Dieu,8,Mon,3,-5
+REF,enrichi,Église,6,Église,6,0
+REF,enrichi,Remords,7,Remords,7,0
+REF,enrichi,Remords,7,Remords,7,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Code...,7,Code,4,-3
+REF,enrichi,du Nord,7,Nord,4,-3
+REF,enrichi,Mazas,5,Mazas,5,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,– Bon,5,Bon,3,-2
+REF,enrichi,Dieu !,6,Dieu,4,-2
+REF,enrichi,Bourse,6,Bourse,6,0
+REF,enrichi,Bourse,6,Bourse,6,0
+REF,enrichi,la Voix,7,Voix,4,-3
+REF,enrichi,Bourse,6,Bourse,6,0
+REF,enrichi,Église,6,Église,6,0
+REF,enrichi,Ecclésiaste,11,Ecclésiaste,11,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,État,4,État,4,0
+REF,enrichi,Vaine,5,Vaine,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Boulogne,8,Boulogne,8,0
+REF,enrichi,Boulogne,8,Boulogne,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Albion,6,Albion,6,0
+REF,enrichi,Américain,9,Américain,9,0
+REF,enrichi,Washington,10,Washington,10,0
+REF,enrichi,Montréal,8,Montréal,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur !,10,Monsieur,8,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Chambre,7,Chambre,7,0
+REF,enrichi,Chambre,7,Chambre,7,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Sentimentalité,14,Sentimentalité,14,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur !,10,Monsieur,8,-2
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Nord,4,Nord,4,0
+REF,enrichi,Centre,6,Centre,6,0
+REF,enrichi,République,10,République,10,0
+REF,enrichi,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Le Monsieur,11,Monsieur,8,-3
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Suisse,6,Suisse,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,la Vertu,8,Vertu,5,-3
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Beaconsfield,12,Beaconsfield,12,0
+REF,enrichi,Vandale,7,Vandale,7,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Capital,7,Capital,7,0
+REF,enrichi,Futur,5,Futur,5,0
+REF,enrichi,Balon,5,Balon,5,0
+REF,enrichi,Célébralité,11,Célébralité,11,0
+REF,enrichi,Balon,5,Balon,5,0
+REF,enrichi,Balon,5,Balon,5,0
+REF,enrichi,Brrr !!,7,Brrr,4,-3
+REF,enrichi,Balon,5,Balon,5,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Balon,5,Balon,5,0
+REF,enrichi,Balon,5,Balon,5,0
+REF,enrichi,Balon,5,Balon,5,0
+REF,enrichi,Colomb,6,Colomb,6,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Balon,5,Balon,5,0
+REF,enrichi,Balon,5,Balon,5,0
+REF,enrichi,Tiens !,7,Tiens,5,-2
+REF,enrichi,Mme Talmasco,12,Talmasco,8,-4
+REF,enrichi,Fraternité,10,Fraternité,10,0
+REF,enrichi,La Révolution,13,Révolution,10,-3
+REF,enrichi,Bakounine,9,Bakounine,9,0
+REF,enrichi,État,4,État,4,0
+REF,enrichi,Individualité,13,Individualité,13,0
+REF,enrichi,l'Individu,10,Individu,8,-2
+REF,enrichi,l'Individu,10,Individu,8,-2
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Bourgeoisie,11,Bourgeoisie,11,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,État,4,État,4,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Cayenne,7,Cayenne,7,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Condamné !,10,Condamné,8,-2
+REF,enrichi,République,10,République,10,0
+REF,enrichi,Pari Mutuel,11,Mutuel,6,-5
+REF,enrichi,Cayenne,7,Cayenne,7,0
+REF,enrichi,Dauphin,7,Dauphin,7,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,République,10,République,10,0
+REF,enrichi,Bordeaux,8,Bordeaux,8,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,République,10,République,10,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Bois-Créault,12,Bois-Créault,12,0
+REF,enrichi,Et Canonnier,12,Canonnier,9,-3
+REF,enrichi,Bois-Créault,12,Bois-Créault,12,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Bois-Créault,12,Bois-Créault,12,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Seine,5,Seine,5,0
+REF,enrichi,Machin,6,Machin,6,0
+REF,enrichi,Saluts,6,Saluts,6,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi,Revue,5,Revue,5,0
+REF,enrichi,La « ,5,La,2,-3
+REF,enrichi,Revue,5,Revue,5,0
+REF,enrichi,État,4,État,4,0
+REF,enrichi,Revue,5,Revue,5,0
+REF,enrichi,Revue,5,Revue,5,0
+REF,enrichi,Revue,5,Revue,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Lombroso,8,Lombroso,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Voleur,6,Voleur,6,0
+REF,enrichi,Montareuil,10,Montareuil,10,0
+REF,enrichi,Machin,6,Machin,6,0
+REF,enrichi,Montareuil,10,Montareuil,10,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Revue,5,Revue,5,0
+REF,enrichi,Montareuil,10,Montareuil,10,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Revue,5,Revue,5,0
+REF,enrichi,Belges,6,Belges,6,0
+REF,enrichi,Suisse,6,Suisse,6,0
+REF,enrichi,Lombroso,8,Lombroso,8,0
+REF,enrichi,Lombroso,8,Lombroso,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Direction,9,Direction,9,0
+REF,enrichi,Directeur,9,Directeur,9,0
+REF,enrichi,Mme Mouratet,12,Mouratet,8,-4
+REF,enrichi,Vois-tu,7,Vois,4,-3
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,République,10,République,10,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Renaissance,11,Renaissance,11,0
+REF,enrichi,Cirque,6,Cirque,6,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mon Dieu,8,Mon,3,-5
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Parisienne,10,Parisienne,10,0
+REF,enrichi,Strauss,7,Strauss,7,0
+REF,enrichi,Peuple,6,Peuple,6,0
+REF,enrichi,Peuple,6,Peuple,6,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Napoléon,8,Napoléon,8,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,Tiens !,7,Tiens,5,-2
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Marguerite,10,Marguerite,10,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Machinard,9,Machinard,9,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,M.,2,M.,2,0
+REF,enrichi,la Marseillaise,15,Marseillaise,12,-3
+REF,enrichi,M.,2,M.,2,0
+REF,enrichi,Courbassol,10,Courbassol,10,0
+REF,enrichi,Messieurs !,11,Messieurs,9,-2
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,République,10,République,10,0
+REF,enrichi,la Marseillaise,15,Marseillaise,12,-3
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Égypte,6,Égypte,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Jérôme,6,Jérôme,6,0
+REF,enrichi,– Bon,5,Bon,3,-2
+REF,enrichi,Annette,7,Annette,7,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Annette,7,Annette,7,0
+REF,enrichi,Annette,7,Annette,7,0
+REF,enrichi,Jérôme,6,Jérôme,6,0
+REF,enrichi,Jérôme,6,Jérôme,6,0
+REF,enrichi,Annette,7,Annette,7,0
+REF,enrichi,Jérôme,6,Jérôme,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Jérôme,6,Jérôme,6,0
+REF,enrichi,Bonsoir,7,Bonsoir,7,0
+REF,enrichi,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,– Randal,8,Randal,6,-2
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Jérôme,6,Jérôme,6,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Saint-Nazaire,13,Saint-Nazaire,13,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Lyon,4,Lyon,4,0
+REF,enrichi,Bordeaux,8,Bordeaux,8,0
+REF,enrichi,Nancy,5,Nancy,5,0
+REF,enrichi,Canonier,8,Canonier,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Edison,6,Edison,6,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Paternoster,11,Paternoster,11,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,M.,2,M.,2,0
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Chicago,7,Chicago,7,0
+REF,enrichi,Chicago,7,Chicago,7,0
+REF,enrichi,Europe,6,Europe,6,0
+REF,enrichi,Société !,9,Société,7,-2
+REF,enrichi,Forts,5,Forts,5,0
+REF,enrichi,Carrousel,9,Carrousel,9,0
+REF,enrichi,Gambetta,8,Gambetta,8,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Courbassol,10,Courbassol,10,0
+REF,enrichi,Chambre,7,Chambre,7,0
+REF,enrichi,Europe,6,Europe,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Machinard,9,Machinard,9,0
+REF,enrichi,Messieurs,9,Messieurs,9,0
+REF,enrichi,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi,Machinard,9,Machinard,9,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Annette,7,Annette,7,0
+REF,enrichi,Jérôme,6,Jérôme,6,0
+REF,enrichi,Annette,7,Annette,7,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Et Margot,9,Margot,6,-3
+REF,enrichi,Carrousel,9,Carrousel,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Gambetta,8,Gambetta,8,0
+REF,enrichi,Marianne,8,Marianne,8,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Carrousel,9,Carrousel,9,0
+REF,enrichi,rue Saint-Honoré,16,Saint-Honoré,12,-4
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,– Bon,5,Bon,3,-2
+REF,enrichi,de Belgique,11,Belgique,8,-3
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,– Occupé !,10,Occupé,6,-4
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,rue Saint-Honoré,16,Saint-Honoré,12,-4
+REF,enrichi,rue Lafayette,13,Lafayette,9,-4
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Israélite,9,Israélite,9,0
+REF,enrichi,Spinoza,7,Spinoza,7,0
+REF,enrichi,Spui,4,Spui,4,0
+REF,enrichi,Lassalle,8,Lassalle,8,0
+REF,enrichi,Golgotha,8,Golgotha,8,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Conseil,7,Conseil,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,État,4,État,4,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Juif,4,Juif,4,0
+REF,enrichi,Juif,4,Juif,4,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Artaxercès,10,Artaxercès,10,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Machinard,9,Machinard,9,0
+REF,enrichi,Réponds,7,Réponds,7,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Machinard,9,Machinard,9,0
+REF,enrichi,Conseil,7,Conseil,7,0
+REF,enrichi,Justice,7,Justice,7,0
+REF,enrichi,Marine,6,Marine,6,0
+REF,enrichi,Agriculture,11,Agriculture,11,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Justice !,9,Justice,7,-2
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Justice,7,Justice,7,0
+REF,enrichi,Courbassols,11,Courbassols,11,0
+REF,enrichi,J.-J.B.,7,J.-J.B.,7,0
+REF,enrichi,Bruxelles,9,Bruxelles,9,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Dieppe,6,Dieppe,6,0
+REF,enrichi,Dinard,6,Dinard,6,0
+REF,enrichi,Nice,4,Nice,4,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Suisse,6,Suisse,6,0
+REF,enrichi,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Vive Jésus !,12,Jésus,5,-7
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,– Père,6,Père,4,-2
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,"Non, Mademoiselle",17,Mademoiselle,12,-5
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Cayenne,7,Cayenne,7,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,– Mademoiselle,14,Mademoiselle,12,-2
+REF,enrichi,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi,– Mademoiselle,14,Mademoiselle,12,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,"Non, Mademoiselle",17,Mademoiselle,12,-5
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Mademoiselle,12,Mademoiselle,12,0
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Numas,5,Numas,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Banque,6,Banque,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Troplong,8,Troplong,8,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Videz,5,Videz,5,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Messieurs,9,Messieurs,9,0
+REF,enrichi,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,rue Clémentine,14,Clémentine,10,-4
+REF,enrichi,– Parbleu !,11,Parbleu,7,-4
+REF,enrichi,Anglaise,8,Anglaise,8,0
+REF,enrichi,Anglaise,8,Anglaise,8,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Remarquez,9,Remarquez,9,0
+REF,enrichi,Les Bois-Créault,16,Bois-Créault,12,-4
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Réfléchissez,12,Réfléchissez,12,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Anglaise,8,Anglaise,8,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Anglaise,8,Anglaise,8,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Chouette !,10,Chouette,8,-2
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Louvain,7,Louvain,7,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Bonsoir,7,Bonsoir,7,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Justice,7,Justice,7,0
+REF,enrichi,M. Canonnier,12,Canonnier,9,-3
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Justice,7,Justice,7,0
+REF,enrichi,Justice,7,Justice,7,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,cher Monsieur,13,Monsieur,8,-5
+REF,enrichi,Diable !,8,Diable,6,-2
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Jamais !,8,Jamais,6,-2
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Code,4,Code,4,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Voudriez,8,Voudriez,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Mlle Canonnier,14,Canonnier,9,-5
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Parbleu !,9,Parbleu,7,-2
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Mazas,5,Mazas,5,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Chancery Lane,13,Chancery,8,-5
+REF,enrichi,Anglaise,8,Anglaise,8,0
+REF,enrichi,Mme Ida,7,Mme,3,-4
+REF,enrichi,Louvain,7,Louvain,7,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Réquisitoire,12,Réquisitoire,12,0
+REF,enrichi,Suisse,6,Suisse,6,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,de Belgique,11,Belgique,8,-3
+REF,enrichi,Louvain,7,Louvain,7,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Jean-Jacques,12,Jean-Jacques,12,0
+REF,enrichi,Babel,5,Babel,5,0
+REF,enrichi,Dandin,6,Dandin,6,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Voleurs,7,Voleurs,7,0
+REF,enrichi,Danoise,7,Danoise,7,0
+REF,enrichi,Musette,7,Musette,7,0
+REF,enrichi,Rodolphe,8,Rodolphe,8,0
+REF,enrichi,Mimi,4,Mimi,4,0
+REF,enrichi,Danton,6,Danton,6,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Turc,4,Turc,4,0
+REF,enrichi,Anglaise,8,Anglaise,8,0
+REF,enrichi,Cité,4,Cité,4,0
+REF,enrichi,Gravesend,9,Gravesend,9,0
+REF,enrichi,Omar,4,Omar,4,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Curé,4,Curé,4,0
+REF,enrichi,suisse,6,suisse,6,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Ennuis,6,Ennuis,6,0
+REF,enrichi,Galériens,9,Galériens,9,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Georges,7,Georges,7,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Marguerite,10,Marguerite,10,0
+REF,enrichi,Mme Montareuil,14,Montareuil,10,-4
+REF,enrichi,Marguerite,10,Marguerite,10,0
+REF,enrichi,Marguerite,10,Marguerite,10,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Georges,7,Georges,7,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Georgette,9,Georgette,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Georgette,9,Georgette,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Noël,4,Noël,4,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Maman...,8,Maman,5,-3
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Noël,4,Noël,4,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Kensington,10,Kensington,10,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Paternoster,11,Paternoster,11,0
+REF,enrichi,Cheapside,9,Cheapside,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Tamise,6,Tamise,6,0
+REF,enrichi,Paternoster,11,Paternoster,11,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Georges,7,Georges,7,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Dieu !...,9,Dieu,4,-5
+REF,enrichi,Noël !,6,Noël,4,-2
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Noël,4,Noël,4,0
+REF,enrichi,d'Espagne,9,Espagne,7,-2
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Noël,4,Noël,4,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Monsieur !,10,Monsieur,8,-2
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Noël,4,Noël,4,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Est,3,Est,3,0
+REF,enrichi,Noël,4,Noël,4,0
+REF,enrichi,Paternoster,11,Paternoster,11,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Georges,7,Georges,7,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Nice,4,Nice,4,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Bordeaux,8,Bordeaux,8,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Paternoster,11,Paternoster,11,0
+REF,enrichi,Southampton,11,Southampton,11,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Bonsoir,7,Bonsoir,7,0
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Melle...,8,Melle,5,-3
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Margot !,8,Margot,6,-2
+REF,enrichi,Calypso,7,Calypso,7,0
+REF,enrichi,Embêtant !,10,Embêtant,8,-2
+REF,enrichi,Suisse,6,Suisse,6,0
+REF,enrichi,Juif-Errant,11,Errant,6,-5
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Mlle Charlotte,14,Charlotte,9,-5
+REF,enrichi,Mlle Charlotte,14,Charlotte,9,-5
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Casino,6,Casino,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Marguerite,10,Marguerite,10,0
+REF,enrichi,Paul,4,Paul,4,0
+REF,enrichi,Cusset,6,Cusset,6,0
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,M.,2,M.,2,0
+REF,enrichi,le Diable,9,Diable,6,-3
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Gaston,6,Gaston,6,0
+REF,enrichi,Remarquez,9,Remarquez,9,0
+REF,enrichi,Discorde,8,Discorde,8,0
+REF,enrichi,Vieilleries,11,Vieilleries,11,0
+REF,enrichi,Rome,4,Rome,4,0
+REF,enrichi,Château-Céleste,15,Château-Céleste,15,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Mme Boileau,11,Boileau,7,-4
+REF,enrichi,Mon Dieu !,10,Dieu,4,-6
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mme Mouratet,12,Mouratet,8,-4
+REF,enrichi,Belgique,8,Belgique,8,0
+REF,enrichi,Bois-Créault,12,Bois-Créault,12,0
+REF,enrichi,Remarquez,9,Remarquez,9,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Restauration,12,Restauration,12,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Bièvre,6,Bièvre,6,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Normandie,9,Normandie,9,0
+REF,enrichi,Écossaise,9,Écossaise,9,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,César,5,César,5,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,– Monsieur,10,Monsieur,8,-2
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Vite !,6,Vite,4,-2
+REF,enrichi,– Cent,6,Cent,4,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Chambre,7,Chambre,7,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Malines,7,Malines,7,0
+REF,enrichi,Rhin,4,Rhin,4,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Viens,5,Viens,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Dinde,5,Dinde,5,0
+REF,enrichi,Dinde,5,Dinde,5,0
+REF,enrichi,La Dinde,8,Dinde,5,-3
+REF,enrichi,La Dinde,8,Dinde,5,-3
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Circulez,8,Circulez,8,0
+REF,enrichi,Messieurs,9,Messieurs,9,0
+REF,enrichi,Monsieur !,10,Monsieur,8,-2
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Mouratet,8,Mouratet,8,0
+REF,enrichi,Justice,7,Justice,7,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Montareuil,10,Montareuil,10,0
+REF,enrichi,Dalmatie,8,Dalmatie,8,0
+REF,enrichi,Brabant,7,Brabant,7,0
+REF,enrichi,Mystère,7,Mystère,7,0
+REF,enrichi,Dieu !,6,Dieu,4,-2
+REF,enrichi,Mme,3,Mme,3,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Stéphanus,9,Stéphanus,9,0
+REF,enrichi,Delpich,7,Delpich,7,0
+REF,enrichi,de Belgique,11,Belgique,8,-3
+REF,enrichi,Delpich,7,Delpich,7,0
+REF,enrichi,Attendez,8,Attendez,8,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Louise,6,Louise,6,0
+REF,enrichi,Anglaise,8,Anglaise,8,0
+REF,enrichi,Tiens !,7,Tiens,5,-2
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Stéphanus,9,Stéphanus,9,0
+REF,enrichi,Vichy,5,Vichy,5,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Randal...,9,Randal,6,-3
+REF,enrichi,– Dites-moi,11,Dites,5,-6
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Rubens,6,Rubens,6,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Franklin,8,Franklin,8,0
+REF,enrichi,Mme Delpich,11,Delpich,7,-4
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Mme Delpich,11,Delpich,7,-4
+REF,enrichi,Compromise !,12,Compromise,10,-2
+REF,enrichi,Compromise !,12,Compromise,10,-2
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Geneviève,9,Geneviève,9,0
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Mme Delpich,11,Delpich,7,-4
+REF,enrichi,Bruxelles,9,Bruxelles,9,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Roger,5,Roger,5,0
+REF,enrichi,Mme Delpich,11,Delpich,7,-4
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Delpich,7,Delpich,7,0
+REF,enrichi,Tiens,5,Tiens,5,0
+REF,enrichi,Delpich,7,Delpich,7,0
+REF,enrichi,Geneviève,9,Geneviève,9,0
+REF,enrichi,rue Berlioz,11,Berlioz,7,-4
+REF,enrichi,Geneviève,9,Geneviève,9,0
+REF,enrichi,Royan,5,Royan,5,0
+REF,enrichi,Vienne,6,Vienne,6,0
+REF,enrichi,Geneviève,9,Geneviève,9,0
+REF,enrichi,Londres,7,Londres,7,0
+REF,enrichi,Mme Delpich,11,Delpich,7,-4
+REF,enrichi,Mlle Charlotte,14,Charlotte,9,-5
+REF,enrichi,Grecs,5,Grecs,5,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,abbé Lamargelle,15,Lamargelle,10,-5
+REF,enrichi,Geneviève,9,Geneviève,9,0
+REF,enrichi,Variétés,8,Variétés,8,0
+REF,enrichi,Lamargelle,10,Lamargelle,10,0
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Impossible !,12,Impossible,10,-2
+REF,enrichi,Mon Dieu,8,Dieu,4,-4
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,Oh !,4,Oh,2,-2
+REF,enrichi,M. Randal,9,Randal,6,-3
+REF,enrichi,Dieu,4,Dieu,4,0
+REF,enrichi,Dalila,6,Dalila,6,0
+REF,enrichi,Geneviève,9,Geneviève,9,0
+REF,enrichi,– Bon,5,Bon,3,-2
+REF,enrichi,Charlotte,9,Charlotte,9,0
+REF,enrichi,Montareuil,10,Montareuil,10,0
+REF,enrichi,Margot,6,Margot,6,0
+REF,enrichi,Vauvenargues,12,Vauvenargues,12,0
+REF,enrichi,Barzot,6,Barzot,6,0
+REF,enrichi,Malenvers,9,Malenvers,9,0
+REF,enrichi,Monsieur !,10,Monsieur,8,-2
+REF,enrichi,Mlle,4,Mlle,4,0
+REF,enrichi,Nothingabout,12,Nothingabout,12,0
+REF,enrichi,Monsieur,8,Monsieur,8,0
+REF,enrichi,Chambre,7,Chambre,7,0
+REF,enrichi,Mazas,5,Mazas,5,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Normandie,9,Normandie,9,0
+REF,enrichi,Broussaille,11,Broussaille,11,0
+REF,enrichi,Cité,4,Cité,4,0
+REF,enrichi,Stéphanus,9,Stéphanus,9,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Devine...,9,Devine,6,-3
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Lafayette,9,Lafayette,9,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Randal,6,Randal,6,0
+REF,enrichi,Issacar,7,Issacar,7,0
+REF,enrichi,Canonnier,9,Canonnier,9,0
+REF,enrichi,Cayenne,7,Cayenne,7,0
+REF,enrichi,Madeleine,9,Madeleine,9,0
+REF,enrichi,Venise,6,Venise,6,0
+REF,enrichi,Maître,6,Maître,6,0
+REF,enrichi,Renée,5,Renée,5,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Société,7,Société,7,0
+REF,enrichi,Doctrine,8,Doctrine,8,0
+REF,enrichi,Jean-Jacques,12,Jean-Jacques,12,0
+REF,enrichi,Mensonge !,10,Mensonge,8,-2
+REF,enrichi,Gémonies,8,Gémonies,8,0
+REF,enrichi,Jésus,5,Jésus,5,0
+REF,enrichi,Christ,6,Christ,6,0
+REF,enrichi,Verbe,5,Verbe,5,0
+REF,enrichi,Individu,8,Individu,8,0
+REF,enrichi,l'Individu,10,Individu,8,-2
+REF,enrichi,Haine,5,Haine,5,0
+REF,enrichi,l'Individu,10,Individu,8,-2
+REF,enrichi,Droits,6,Droits,6,0
+REF,enrichi,l'Individu,10,Individu,8,-2
+REF,enrichi,la Personnalité,15,Personnalité,12,-3
